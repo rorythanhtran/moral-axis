@@ -1,0 +1,233 @@
+Heroes
+Fools
+Demons
+Angels
+Adventurers
+Traditionalists
+Divas
+Lone Wolves
+Sophisticates
+Outcasts
+Geeks
+Brutes
+Demon-Heroes
+Demon-Fools
+Angel-Heroes
+Angel-Fools
+Adventurer-Heroes
+Adventurer-Fools
+Traditionalist-Heroes
+Traditionalist-Fools
+Adventurer-Demons
+Adventurer-Angels
+Traditionalist-Demons
+Traditionalist-Angels
+Diva-Heroes
+Diva-Fools
+Lone Wolf-Heroes
+Lone Wolf-Fools
+Sophisticate-Heroes
+Sophisticate-Fools
+Outcast-Heroes
+Outcast-Fools
+Geek-Heroes
+Geek-Fools
+Brute-Heroes
+Brute-Fools
+Diva-Demons
+Diva-Angels
+Lone Wolf-Demons
+Lone Wolf-Angels
+Sophisticate-Demons
+Sophisticate-Angels
+Outcast-Demons
+Outcast-Angels
+Geek-Demons
+Geek-Angels
+Brute-Demons
+Brute-Angels
+Diva-Adventurers
+Diva-Traditionalists
+Lone Wolf-Adventurers
+Lone Wolf-Traditionalists
+Sophisticate-Adventurers
+Sophisticate-Traditionalists
+Outcast-Adventurers
+Outcast-Traditionalists
+Geek-Adventurers
+Geek-Traditionalists
+Brute-Adventurers
+Brute-Traditionalists
+Sophisticate-Divas
+Sophisticate-Lone Wolves
+Outcast-Divas
+Outcast-Lone Wolves
+Geek-Divas
+Geek-Lone Wolves
+Brute-Divas
+Brute-Lone Wolves
+Geek-Sophisticates
+Geek-Outcasts
+Brute-Sophisticates
+Brute-Outcasts
+Adventurer-Demon-Heroes
+Adventurer-Demon-Fools
+Traditionalist-Demon-Heroes
+Traditionalist-Demon-Fools
+Adventurer-Angel-Heroes
+Adventurer-Angel-Fools
+Traditionalist-Angel-Heroes
+Traditionalist-Angel-Fools
+Diva-Demon-Heroes
+Diva-Demon-Fools
+Lone Wolf-Demon-Heroes
+Lone Wolf-Demon-Fools
+Diva-Angel-Heroes
+Diva-Angel-Fools
+Lone Wolf-Angel-Heroes
+Lone Wolf-Angel-Fools
+Sophisticate-Demon-Heroes
+Sophisticate-Demon-Fools
+Outcast-Demon-Heroes
+Outcast-Demon-Fools
+Sophisticate-Angel-Heroes
+Sophisticate-Angel-Fools
+Outcast-Angel-Heroes
+Outcast-Angel-Fools
+Geek-Demon-Heroes
+Geek-Demon-Fools
+Brute-Demon-Heroes
+Brute-Demon-Fools
+Geek-Angel-Heroes
+Geek-Angel-Fools
+Brute-Angel-Heroes
+Brute-Angel-Fools
+Diva-Adventurer-Heroes
+Diva-Adventurer-Fools
+Lone Wolf-Adventurer-Heroes
+Lone Wolf-Adventurer-Fools
+Diva-Traditionalist-Heroes
+Diva-Traditionalist-Fools
+Lone Wolf-Traditionalist-Heroes
+Lone Wolf-Traditionalist-Fools
+Sophisticate-Adventurer-Heroes
+Sophisticate-Adventurer-Fools
+Outcast-Adventurer-Heroes
+Outcast-Adventurer-Fools
+Sophisticate-Traditionalist-Heroes
+Sophisticate-Traditionalist-Fools
+Outcast-Traditionalist-Heroes
+Outcast-Traditionalist-Fools
+Geek-Adventurer-Heroes
+Geek-Adventurer-Fools
+Brute-Adventurer-Heroes
+Brute-Adventurer-Fools
+Geek-Traditionalist-Heroes
+Geek-Traditionalist-Fools
+Brute-Traditionalist-Heroes
+Brute-Traditionalist-Fools
+Diva-Adventurer-Demons
+Diva-Adventurer-Angels
+Lone Wolf-Adventurer-Demons
+Lone Wolf-Adventurer-Angels
+Diva-Traditionalist-Demons
+Diva-Traditionalist-Angels
+Lone Wolf-Traditionalist-Demons
+Lone Wolf-Traditionalist-Angels
+Sophisticate-Adventurer-Demons
+Sophisticate-Adventurer-Angels
+Outcast-Adventurer-Demons
+Outcast-Adventurer-Angels
+Sophisticate-Traditionalist-Demons
+Sophisticate-Traditionalist-Angels
+Outcast-Traditionalist-Demons
+Outcast-Traditionalist-Angels
+Geek-Adventurer-Demons
+Geek-Adventurer-Angels
+Brute-Adventurer-Demons
+Brute-Adventurer-Angels
+Geek-Traditionalist-Demons
+Geek-Traditionalist-Angels
+Brute-Traditionalist-Demons
+Brute-Traditionalist-Angels
+Sophisticate-Diva-Heroes
+Sophisticate-Diva-Fools
+Outcast-Diva-Heroes
+Outcast-Diva-Fools
+Sophisticate-Lone Wolf-Heroes
+Sophisticate-Lone Wolf-Fools
+Outcast-Lone Wolf-Heroes
+Outcast-Lone Wolf-Fools
+Geek-Diva-Heroes
+Geek-Diva-Fools
+Brute-Diva-Heroes
+Brute-Diva-Fools
+Geek-Lone Wolf-Heroes
+Geek-Lone Wolf-Fools
+Brute-Lone Wolf-Heroes
+Brute-Lone Wolf-Fools
+Geek-Sophisticate-Heroes
+Geek-Sophisticate-Fools
+Brute-Sophisticate-Heroes
+Brute-Sophisticate-Fools
+Geek-Outcast-Heroes
+Geek-Outcast-Fools
+Brute-Outcast-Heroes
+Brute-Outcast-Fools
+Sophisticate-Diva-Demons
+Sophisticate-Diva-Angels
+Outcast-Diva-Demons
+Outcast-Diva-Angels
+Sophisticate-Lone Wolf-Demons
+Sophisticate-Lone Wolf-Angels
+Outcast-Lone Wolf-Demons
+Outcast-Lone Wolf-Angels
+Geek-Diva-Demons
+Geek-Diva-Angels
+Brute-Diva-Demons
+Brute-Diva-Angels
+Geek-Lone Wolf-Demons
+Geek-Lone Wolf-Angels
+Brute-Lone Wolf-Demons
+Brute-Lone Wolf-Angels
+Geek-Sophisticate-Demons
+Geek-Sophisticate-Angels
+Brute-Sophisticate-Demons
+Brute-Sophisticate-Angels
+Geek-Outcast-Demons
+Geek-Outcast-Angels
+Brute-Outcast-Demons
+Brute-Outcast-Angels
+Sophisticate-Diva-Adventurers
+Sophisticate-Diva-Traditionalists
+Outcast-Diva-Adventurers
+Outcast-Diva-Traditionalists
+Sophisticate-Lone Wolf-Adventurers
+Sophisticate-Lone Wolf-Traditionalists
+Outcast-Lone Wolf-Adventurers
+Outcast-Lone Wolf-Traditionalists
+Geek-Diva-Adventurers
+Geek-Diva-Traditionalists
+Brute-Diva-Adventurers
+Brute-Diva-Traditionalists
+Geek-Lone Wolf-Adventurers
+Geek-Lone Wolf-Traditionalists
+Brute-Lone Wolf-Adventurers
+Brute-Lone Wolf-Traditionalists
+Geek-Sophisticate-Adventurers
+Geek-Sophisticate-Traditionalists
+Brute-Sophisticate-Adventurers
+Brute-Sophisticate-Traditionalists
+Geek-Outcast-Adventurers
+Geek-Outcast-Traditionalists
+Brute-Outcast-Adventurers
+Brute-Outcast-Traditionalists
+Geek-Sophisticate-Divas
+Geek-Sophisticate-Lone Wolves
+Brute-Sophisticate-Divas
+Brute-Sophisticate-Lone Wolves
+Geek-Outcast-Divas
+Geek-Outcast-Lone Wolves
+Brute-Outcast-Divas
+Brute-Outcast-Lone Wolves
+Non Archetypes
