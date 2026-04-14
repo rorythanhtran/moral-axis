@@ -1,7 +1,10 @@
 core_traits = [
 
-'playful',
-'analytical',
-'high-tech'
+    'playful',
+    'analytical',
+    'high-tech',
+    'scholarly',
+    'irreverent',
+    'scientific',
 
 ]
