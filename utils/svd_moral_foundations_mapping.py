@@ -35,11 +35,11 @@ def main():
         V = load_matrix('data_archetype_space_V.txt')
         RAW_A = load_matrix('data_raw_A.txt')
         
-        # Load Archetype Names (232-234 classes)
+        # Load 232 Archetypes 
         with open(os.path.join(data_path, 'data_archetype_space_archetype_classes.txt'), 'r') as f:
             archetype_names = [line.strip() for line in f.readlines()]
         
-        # Load Character Archetype Indices (1-based)
+        # Load 2000 archetypes mapping to characters
         with open(os.path.join(data_path, 'data_archetype_space_character_archetype_indices.txt'), 'r') as f:
             char_archetype_indices = [int(line.strip()) - 1 for line in f.readlines()]
             
@@ -56,7 +56,7 @@ def main():
     TRAIT_CONFIGS = np.matmul(RAW_A, V)
     num_comp = config.NUM_COMPONENTS
 
-    # 2. Process each component
+    #Process each component
     foundation_scores = {
         'character': characters_df['character'],
         'story': characters_df['character/story'],
@@ -92,7 +92,7 @@ def main():
 
     for foundation in foundations_to_show:
         print("\n" + "#" * 120)
-        print(f" FOUNDATION: {foundation.upper()} ")
+        print(f" Component: {foundation} ")
         print("#" * 120)
         
         # Sort and take top 10
