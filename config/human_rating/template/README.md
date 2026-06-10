@@ -1,6 +1,6 @@
 # Motivation 
 
-This folder contains materials for rating Archetypometrics trait differentials against moral foundation categories.
+This folder contains instructions for rating Archetypometrics trait differentials into moral foundations.
 
 ## Files
 
@@ -20,16 +20,16 @@ The template includes the following rating columns:
 - `liberty`
 - `general`
 
-Use `general` for traits that seem related to overall moral goodness or badness, even if they do not fit clearly into one specific foundation.
+Use `general` for traits that seem related to overall moral goodness or badness, even if they do not fit clearly into one specific foundation. You could check the group 11 (MoralityGeneral) words of the foundation_dictionary.txt file for your judgement.
 
 ## Scale
 
 For each rating column, enter:
 
 - `+1`: the trait differential is related to the foundation.
-- `-1`: the trait differential is not related to the foundation.
+- `0`: the trait differential is not related to the foundation.
 
-Please use only `+1` or `-1` in the rating columns. Leave explanatory comments only in the `notes` column.
+Please use only `+1` or `0` in the rating columns and leave explanatory comments only in the `notes` column. 
 
 ## Instructions
 
@@ -39,17 +39,9 @@ Each row gives a bipolar trait differential, such as:
 cruel :: kind
 loyal :: traitorous
 debased :: pure
-strict :: lenient
 ```
 
-Rate whether the trait pair as a whole is conceptually related to each moral foundation. The rating should reflect relevance to the foundation, not whether one pole is morally good or bad.
-
-For example:
-
-- `cruel :: kind` is likely related to `care`.
-- `loyal :: traitorous` is likely related to `loyalty`.
-- `debased :: pure` is likely related to `purity`.
-- `strict :: lenient` may be related to `authority`.
+Rate whether the trait pair as a whole is conceptually related to each moral foundation. The rating should reflect relevance to the foundation, not whether one pole is morally good or bad. 
 
 If a case is ambiguous, use your best judgment and add a brief note in the `notes` column.
 
