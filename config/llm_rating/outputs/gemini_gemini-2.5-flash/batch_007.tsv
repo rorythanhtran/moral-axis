@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+151	vague :: precise	vague	precise	0	0	0	0	0	0	0	
+152	philosophical :: real	philosophical	real	0	0	0	0	0	0	0	
+153	modern :: historical	modern	historical	0	0	0	1	0	0	0	Historical can relate to tradition (Authority).
+154	judgemental :: accepting	judgemental	accepting	0	1	0	0	1	0	1	Judgemental can imply unfairness or purity-based judgment; accepting implies tolerance. Also relates to general moral character.
+155	average :: deviant	average	deviant	0	0	0	1	1	0	1	Deviant can relate to disrespect for norms/traditions (Authority), impurity, or general immorality.
+156	gossiping :: confidential	gossiping	confidential	0	0	1	0	0	0	1	Gossiping can be disloyal; confidential implies loyalty/trust. Gossiping is also generally immoral.
+157	official :: backdoor	official	backdoor	0	0	0	1	0	0	1	Official relates to authority/rules; backdoor implies defiance of authority or improper conduct.
+158	scholarly :: crafty	scholarly	crafty	0	0	0	0	0	0	1	Crafty can imply dishonesty or trickery, a general vice.
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	0	0	
+160	explorer :: builder	explorer	builder	0	0	0	0	0	0	0	
+161	captain :: first-mate	captain	first-mate	0	0	0	1	0	0	0	Relates to hierarchy and roles within authority.
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	0	0	
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	Independent relates to freedom/autonomy (Liberty); codependent implies a lack of liberty.
+164	family-first :: work-first	family-first	work-first	0	0	1	0	0	0	0	Family is a key ingroup, relating to Loyalty.
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	Relates to cleanliness and order, aspects of Purity.
+166	wild :: tame	wild	tame	0	0	0	1	1	0	0	Tame implies control/obedience (Authority, Purity); wild implies lack of control.
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	0	0	1	Prestigious relates to status/respect (Authority); disreputable implies lack of respect or general bad character.
+168	scandalous :: proper	scandalous	proper	0	0	0	1	1	0	1	Scandalous implies indecency/immorality; proper implies decency/adherence to norms (Purity, Authority, General).
+169	unprepared :: hoarder	unprepared	hoarder	0	0	0	0	0	0	0	
+170	sheltered :: street-smart	sheltered	street-smart	0	0	0	0	0	0	0	
+171	open-minded :: close-minded	open-minded	close-minded	0	1	0	0	0	0	0	Relates to tolerance and prejudice (Fairness).
+172	permanent :: transient	permanent	transient	0	0	0	0	0	0	0	
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	0	0	
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	Relates to hierarchy and roles within authority.
+175	straight :: queer	straight	queer	0	0	0	1	1	0	0	Relates to adherence to/defiance of traditional norms (Authority) and conventional/natural order (Purity).

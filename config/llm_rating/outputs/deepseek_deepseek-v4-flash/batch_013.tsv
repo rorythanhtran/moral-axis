@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+301	empath :: psychopath	empath	psychopath	1	0	0	0	0	0	0	Empath relates to care; psychopath to harm.
+302	haunted :: blissful	haunted	blissful	0	0	0	0	0	0	0	Not directly related to moral foundations.
+303	entitled :: grateful	entitled	grateful	0	0	0	0	0	0	0	Not clearly matching any foundation.
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	0	0	Not moral foundations.
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	1	0	0	0	Stuck-in-the-past relates to tradition (authority).
+306	fire :: water	fire	water	0	0	0	0	0	0	0	Metaphorical, not moral.
+307	earth :: air	earth	air	0	0	0	0	0	0	0	Metaphorical, not moral.
+308	lover :: fighter	lover	fighter	0	0	0	0	0	0	0	Not clearly moral foundations.
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	0	0	Not moral foundations.
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	0	0	Brand preference, not moral.
+311	twitchy :: still	twitchy	still	0	0	0	0	0	0	0	Not moral foundations.
+312	freak :: normie	freak	normie	0	0	0	0	1	0	0	Freak implies unnaturalness, related to purity.
+313	thinker :: doer	thinker	doer	0	0	0	0	0	0	0	Not moral foundations.
+314	hard-work :: natural-talent	hard-work	natural-talent	0	0	0	0	0	0	0	Not moral foundations.
+315	stingy :: generous	stingy	generous	1	0	0	0	0	0	0	Generous relates to care; stingy opposite.
+316	stubborn :: accommodating	stubborn	accommodating	0	0	0	0	0	0	0	Not clearly matching any foundation.
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	1	0	0	Thrifty relates to self-discipline (purity).
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	0	0	0	0	Not moral foundations.
+319	two-faced :: one-faced	two-faced	one-faced	0	1	0	0	0	0	0	Two-faced implies dishonesty, related to fairness.
+320	plastic :: wooden	plastic	wooden	0	0	0	0	1	0	0	Plastic unnatural, wooden natural; purity includes naturalness.
+321	neutral :: opinionated	neutral	opinionated	0	0	0	0	0	0	0	Not moral foundations.
+322	chivalrous :: businesslike	chivalrous	businesslike	0	0	0	1	0	0	0	Chivalrous relates to honor and respect (authority).
+323	high standards :: desperate	high standards	desperate	0	0	0	0	0	0	0	Not moral foundations.
+324	on-time :: tardy	on-time	tardy	0	0	0	1	0	0	0	On-time relates to order and compliance (authority).
+325	everyman :: chosen one	everyman	chosen one	0	0	0	0	0	0	0	Not moral foundations.

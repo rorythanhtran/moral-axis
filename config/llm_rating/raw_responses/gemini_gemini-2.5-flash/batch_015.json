@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\"ratings\":[{\"trait_index\":351,\"differential\":\"radical :: centrist\",\"left_pole\":\"radical\",\"right_pole\":\"centrist\",\"care\":0,\"fairness\":0,\"loyalty\":1,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":1,\"notes\":\"Radical challenges authority/oppression; centrist adheres to norms. Radical can be loyal to a cause.\"},{\"trait_index\":352,\"differential\":\"monotone :: expressive\",\"left_pole\":\"monotone\",\"right_pole\":\"expressive\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":353,\"differential\":\"love-focused :: money-focused\",\"left_pole\":\"love-focused\",\"right_pole\":\"money-focused\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Love-focused relates to kindness and nurturance.\"},{\"trait_index\":354,\"differential\":\"transparent :: machiavellian\",\"left_pole\":\"transparent\",\"right_pole\":\"machiavellian\",\"care\":0,\"fairness\":1,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Transparent relates to honesty; Machiavellian to dishonesty and immorality.\"},{\"trait_index\":355,\"differential\":\"timid :: cocky\",\"left_pole\":\"timid\",\"right_pole\":\"cocky\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":356,\"differential\":\"concise :: long-winded\",\"left_pole\":\"concise\",\"right_pole\":\"long-winded\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":357,\"differential\":\"picky :: always down\",\"left_pole\":\"picky\",\"right_pole\":\"always down\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":358,\"differential\":\"proactive :: reactive\",\"left_pole\":\"proactive\",\"right_pole\":\"reactive\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":359,\"differential\":\"prudish :: flirtatious\",\"left_pole\":\"prudish\",\"right_pole\":\"flirtatious\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":1,\"liberty\":0,\"general\":0,\"notes\":\"Prudish relates to chastity/modesty; flirtatious can relate to promiscuity/indecency.\"},{\"trait_index\":360,\"differential\":\"innocent :: jaded\",\"left_pole\":\"innocent\",\"right_pole\":\"jaded\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":1,\"liberty\":0,\"general\":1,\"notes\":\"Innocent relates to purity and blamelessness.\"},{\"trait_index\":361,\"differential\":\"touchy-feely :: distant\",\"left_pole\":\"touchy-feely\",\"right_pole\":\"distant\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Touchy-feely relates to empathy and care.\"},{\"trait_index\":362,\"differential\":\"muddy :: washed\",\"left_pole\":\"muddy\",\"right_pole\":\"washed\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":1,\"liberty\":0,\"general\":0,\"notes\":\"Muddy/washed directly relate to cleanliness/purity.\"},{\"trait_index\":363,\"differential\":\"quirky :: predictable\",\"left_pole\":\"quirky\",\"right_pole\":\"predictable\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":364,\"differential\":\"never cries :: often crying\",\"left_pole\":\"never cries\",\"right_pole\":\"often crying\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Often crying can indicate suffering, relating to care/harm.\"},{\"trait_index\":365,\"differential\":\"main character :: side character\",\"left_pole\":\"main character\",\"right_pole\":\"side character\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":366,\"differential\":\"original :: cliché\",\"left_pole\":\"original\",\"right_pole\":\"cliché\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":367,\"differential\":\"hugs :: handshakes\",\"left_pole\":\"hugs\",\"right_pole\":\"handshakes\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Hugs relate to amity and care.\"},{\"trait_index\":368,\"differential\":\"homebody :: world traveler\",\"left_pole\":\"homebody\",\"right_pole\":\"world traveler\",\"care\":0,\"fairness\":0,\"loyalty\":1,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Homebody relates to family/communal loyalty; world traveler can imply less group affiliation.\"},{\"trait_index\":369,\"differential\":\"naughty :: nice\",\"left_pole\":\"naughty\",\"right_pole\":\"nice\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Naughty/nice are general moral judgments; nice also implies kindness.\"},{\"trait_index\":370,\"differential\":\"junkie :: straight edge\",\"left_pole\":\"junkie\",\"right_pole\":\"straight edge\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":1,\"liberty\":0,\"general\":0,\"notes\":\"Junkie/straight edge directly relate to purity/impurity and self-discipline.\"},{\"trait_index\":371,\"differential\":\"small-vocabulary :: big-vocabulary\",\"left_pole\":\"small-vocabulary\",\"right_pole\":\"big-vocabulary\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":372,\"differential\":\"dystopian :: utopian\",\"left_pole\":\"dystopian\",\"right_pole\":\"utopian\",\"care\":1,\"fairness\":1,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":1,\"general\":1,\"notes\":\"Dystopian/utopian relate to suffering/peace, justice/injustice, oppression/freedom, and general good/evil.\"},{\"trait_index\":373,\"differential\":\"parental :: childlike\",\"left_pole\":\"parental\",\"right_pole\":\"childlike\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":1,\"liberty\":0,\"general\":0,\"notes\":\"Parental relates to care/protection and authority/duty. Childlike can relate to innocence/purity.\"},{\"trait_index\":374,\"differential\":\"writer :: reader\",\"left_pole\":\"writer\",\"right_pole\":\"reader\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":375,\"differential\":\"creator :: consumer\",\"left_pole\":\"creator\",\"right_pole\":\"consumer\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"}]}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3543,
+      "candidatesTokenCount": 1861,
+      "totalTokenCount": 9764,
+      "cachedContentTokenCount": 3227,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3543
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3227
+        }
+      ],
+      "thoughtsTokenCount": 4360,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "3Bowap_eDLaX_uMP8I_U4Ag"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 351,
+        "differential": "radical :: centrist",
+        "left_pole": "radical",
+        "right_pole": "centrist",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Radical challenges authority/oppression; centrist adheres to norms. Radical can be loyal to a cause."
+      },
+      {
+        "trait_index": 352,
+        "differential": "monotone :: expressive",
+        "left_pole": "monotone",
+        "right_pole": "expressive",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 353,
+        "differential": "love-focused :: money-focused",
+        "left_pole": "love-focused",
+        "right_pole": "money-focused",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Love-focused relates to kindness and nurturance."
+      },
+      {
+        "trait_index": 354,
+        "differential": "transparent :: machiavellian",
+        "left_pole": "transparent",
+        "right_pole": "machiavellian",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Transparent relates to honesty; Machiavellian to dishonesty and immorality."
+      },
+      {
+        "trait_index": 355,
+        "differential": "timid :: cocky",
+        "left_pole": "timid",
+        "right_pole": "cocky",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 356,
+        "differential": "concise :: long-winded",
+        "left_pole": "concise",
+        "right_pole": "long-winded",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 357,
+        "differential": "picky :: always down",
+        "left_pole": "picky",
+        "right_pole": "always down",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 358,
+        "differential": "proactive :: reactive",
+        "left_pole": "proactive",
+        "right_pole": "reactive",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 359,
+        "differential": "prudish :: flirtatious",
+        "left_pole": "prudish",
+        "right_pole": "flirtatious",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Prudish relates to chastity/modesty; flirtatious can relate to promiscuity/indecency."
+      },
+      {
+        "trait_index": 360,
+        "differential": "innocent :: jaded",
+        "left_pole": "innocent",
+        "right_pole": "jaded",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Innocent relates to purity and blamelessness."
+      },
+      {
+        "trait_index": 361,
+        "differential": "touchy-feely :: distant",
+        "left_pole": "touchy-feely",
+        "right_pole": "distant",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Touchy-feely relates to empathy and care."
+      },
+      {
+        "trait_index": 362,
+        "differential": "muddy :: washed",
+        "left_pole": "muddy",
+        "right_pole": "washed",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Muddy/washed directly relate to cleanliness/purity."
+      },
+      {
+        "trait_index": 363,
+        "differential": "quirky :: predictable",
+        "left_pole": "quirky",
+        "right_pole": "predictable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 364,
+        "differential": "never cries :: often crying",
+        "left_pole": "never cries",
+        "right_pole": "often crying",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Often crying can indicate suffering, relating to care/harm."
+      },
+      {
+        "trait_index": 365,
+        "differential": "main character :: side character",
+        "left_pole": "main character",
+        "right_pole": "side character",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 366,
+        "differential": "original :: cliché",
+        "left_pole": "original",
+        "right_pole": "cliché",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 367,
+        "differential": "hugs :: handshakes",
+        "left_pole": "hugs",
+        "right_pole": "handshakes",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Hugs relate to amity and care."
+      },
+      {
+        "trait_index": 368,
+        "differential": "homebody :: world traveler",
+        "left_pole": "homebody",
+        "right_pole": "world traveler",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Homebody relates to family/communal loyalty; world traveler can imply less group affiliation."
+      },
+      {
+        "trait_index": 369,
+        "differential": "naughty :: nice",
+        "left_pole": "naughty",
+        "right_pole": "nice",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Naughty/nice are general moral judgments; nice also implies kindness."
+      },
+      {
+        "trait_index": 370,
+        "differential": "junkie :: straight edge",
+        "left_pole": "junkie",
+        "right_pole": "straight edge",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Junkie/straight edge directly relate to purity/impurity and self-discipline."
+      },
+      {
+        "trait_index": 371,
+        "differential": "small-vocabulary :: big-vocabulary",
+        "left_pole": "small-vocabulary",
+        "right_pole": "big-vocabulary",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 372,
+        "differential": "dystopian :: utopian",
+        "left_pole": "dystopian",
+        "right_pole": "utopian",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Dystopian/utopian relate to suffering/peace, justice/injustice, oppression/freedom, and general good/evil."
+      },
+      {
+        "trait_index": 373,
+        "differential": "parental :: childlike",
+        "left_pole": "parental",
+        "right_pole": "childlike",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Parental relates to care/protection and authority/duty. Childlike can relate to innocence/purity."
+      },
+      {
+        "trait_index": 374,
+        "differential": "writer :: reader",
+        "left_pole": "writer",
+        "right_pole": "reader",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 375,
+        "differential": "creator :: consumer",
+        "left_pole": "creator",
+        "right_pole": "consumer",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      }
+    ]
+  }
+}

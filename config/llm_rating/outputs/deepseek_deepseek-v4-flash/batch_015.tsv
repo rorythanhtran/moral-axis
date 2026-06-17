@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+351	radical :: centrist	radical	centrist	0	0	0	1	0	1	0	Radical challenges authority, centrist respects it; radical seeks liberty.
+352	monotone :: expressive	monotone	expressive	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+353	love-focused :: money-focused	love-focused	money-focused	1	0	0	0	0	0	1	Love-focused aligns with care; money-focused seen as morally questionable.
+354	transparent :: machiavellian	transparent	machiavellian	0	1	0	0	0	0	1	Transparent implies honesty (fairness), machiavellian implies deceit.
+355	timid :: cocky	timid	cocky	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+356	concise :: long-winded	concise	long-winded	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+357	picky :: always down	picky	always down	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+358	proactive :: reactive	proactive	reactive	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+359	prudish :: flirtatious	prudish	flirtatious	0	0	0	0	1	0	0	Prudish aligns with purity (chastity); flirtatious may be seen as impure.
+360	innocent :: jaded	innocent	jaded	0	0	0	0	1	0	1	Innocent relates to purity and moral goodness; jaded implies moral corruption.
+361	touchy-feely :: distant	touchy-feely	distant	1	0	0	0	0	0	0	Touchy-feely shows care and affection.
+362	muddy :: washed	muddy	washed	0	0	0	0	1	0	0	Washed implies cleanliness (purity), muddy implies dirtiness.
+363	quirky :: predictable	quirky	predictable	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+364	never cries :: often crying	never cries	often crying	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+365	main character :: side character	main character	side character	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+366	original :: cliché	original	cliché	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+367	hugs :: handshakes	hugs	handshakes	1	0	0	0	0	0	0	Hugs suggest care and warmth.
+368	homebody :: world traveler	homebody	world traveler	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+369	naughty :: nice	naughty	nice	0	0	0	0	1	0	1	Nice is morally good (general) and pure; naughty is mild transgression.
+370	junkie :: straight edge	junkie	straight edge	0	0	0	0	1	0	1	Junkie implies vice and impurity; straight edge implies self-discipline and purity.
+371	small-vocabulary :: big-vocabulary	small-vocabulary	big-vocabulary	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+372	dystopian :: utopian	dystopian	utopian	0	0	0	1	0	1	1	Dystopian often features oppressive authority; utopian idealizes freedom (liberty) and moral goodness.
+373	parental :: childlike	parental	childlike	1	0	0	1	1	0	0	Parental involves care and authority; childlike may imply innocence (purity).
+374	writer :: reader	writer	reader	0	0	0	0	0	0	0	Not clearly related to moral foundations.
+375	creator :: consumer	creator	consumer	0	0	0	0	0	0	0	Not clearly related to moral foundations.

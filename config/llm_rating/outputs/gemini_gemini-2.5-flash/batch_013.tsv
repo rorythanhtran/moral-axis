@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+301	empath :: psychopath	empath	psychopath	1	0	0	0	0	0	1	Empath relates to care; psychopath relates to lack of care and general immorality.
+302	haunted :: blissful	haunted	blissful	1	0	0	0	0	0	0	Haunted relates to suffering (Care vice); blissful relates to well-being (Care virtue).
+303	entitled :: grateful	entitled	grateful	0	1	0	1	1	0	1	Entitled can relate to unfairness and disrespect for authority; grateful relates to humility and acknowledging others (Purity, General).
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	0	0	
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	1	0	0	0	Stuck-in-the-past relates to tradition (Authority).
+306	fire :: water	fire	water	0	0	0	0	0	0	0	
+307	earth :: air	earth	air	0	0	0	0	0	0	0	
+308	lover :: fighter	lover	fighter	1	0	0	0	0	0	0	Lover relates to peace (Care virtue); fighter relates to violence (Care vice).
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	0	0	
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	0	0	
+311	twitchy :: still	twitchy	still	0	0	0	0	0	0	0	
+312	freak :: normie	freak	normie	0	0	0	1	1	0	0	Freak can relate to deviance from social norms (Purity, Authority).
+313	thinker :: doer	thinker	doer	0	0	0	0	0	0	0	
+314	hard-work :: natural-talent	hard-work	natural-talent	0	0	0	0	0	0	0	
+315	stingy :: generous	stingy	generous	1	1	0	0	0	0	1	Generous relates to kindness (Care) and equitable sharing (Fairness); stingy relates to lack of these and general immorality.
+316	stubborn :: accommodating	stubborn	accommodating	0	1	0	1	0	0	0	Stubborn can relate to defiance (Authority) or unwillingness to compromise (Fairness).
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	1	0	0	Thrifty can relate to self-discipline (Purity).
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	0	0	0	0	
+319	two-faced :: one-faced	two-faced	one-faced	0	1	1	0	1	0	1	Two-faced relates to dishonesty (Fairness, Loyalty, Purity) and general immorality.
+320	plastic :: wooden	plastic	wooden	0	0	0	0	0	0	0	
+321	neutral :: opinionated	neutral	opinionated	0	1	0	0	0	0	0	Neutral can imply impartiality (Fairness).
+322	chivalrous :: businesslike	chivalrous	businesslike	1	0	0	1	0	0	1	Chivalrous relates to protection (Care), honor/respect (Authority), and general virtue.
+323	high standards :: desperate	high standards	desperate	0	0	0	0	0	0	0	
+324	on-time :: tardy	on-time	tardy	0	0	0	1	0	0	0	On-time can relate to respect for others' time and adherence to norms (Authority).
+325	everyman :: chosen one	everyman	chosen one	0	1	0	1	0	0	0	Everyman relates to equality (Fairness); chosen one relates to status/hierarchy (Authority).

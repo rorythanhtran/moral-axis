@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+276	tailor :: blacksmith	tailor	blacksmith	0	0	0	0	0	0	0	
+277	hunter :: gatherer	hunter	gatherer	0	0	0	0	0	0	0	
+278	experimental :: reliable	experimental	reliable	0	0	0	0	0	0	1	reliable is a general virtue
+279	moist :: dry	moist	dry	0	0	0	0	0	0	0	
+280	trolling :: triggered	trolling	triggered	1	0	0	0	0	0	0	trolling involves causing harm
+281	tattle-tale :: f***-the-police	tattle-tale	f***-the-police	0	0	1	1	0	1	0	tattle-tale is disloyal; f***-the-police is anti-authority and pro-liberty
+282	punk rock :: preppy	punk rock	preppy	0	0	0	1	0	1	0	punk rock anti-authority and liberty, preppy pro-authority
+283	realistic :: fantastical	realistic	fantastical	0	0	0	0	0	0	0	
+284	trendy :: vintage	trendy	vintage	0	0	0	0	0	0	0	
+285	factual :: exaggerating	factual	exaggerating	0	1	0	0	0	0	0	exaggerating is dishonest
+286	good-cook :: bad-cook	good-cook	bad-cook	0	0	0	0	0	0	0	
+287	comedic :: dramatic	comedic	dramatic	0	0	0	0	0	0	0	
+288	OCD :: ADHD	OCD	ADHD	0	0	0	0	0	0	0	
+289	interrupting :: attentive	interrupting	attentive	1	0	0	1	0	0	0	interrupting is disrespectful and unkind; attentive is caring and respectful
+290	exhibitionist :: bashful	exhibitionist	bashful	0	0	0	0	1	0	0	exhibitionist violates purity norms
+291	badass :: weakass	badass	weakass	0	0	0	0	0	0	0	
+292	gamer :: non-gamer	gamer	non-gamer	0	0	0	0	0	0	0	
+293	random :: pointed	random	pointed	0	0	0	0	0	0	0	
+294	epic :: deep	epic	deep	0	0	0	0	0	0	0	
+295	serene :: pensive	serene	pensive	0	0	0	0	0	0	0	
+296	bored :: interested	bored	interested	0	0	0	0	0	0	0	
+297	envious :: prideful	envious	prideful	0	1	0	0	0	0	1	envy is fairness-related; both are general vices
+298	ironic :: profound	ironic	profound	0	0	0	0	0	0	0	
+299	sexual :: asexual	sexual	asexual	0	0	0	0	0	0	0	
+300	clean :: perverted	clean	perverted	0	0	0	0	1	0	0	clean is pure, perverted is impure

@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+376	capitalist :: communist	capitalist	communist	0	0	0	0	0	0	0	
+377	positive :: negative	positive	negative	0	0	0	0	0	0	1	General evaluative dimension, not specific foundation.
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	0	
+379	thinker :: feeler	thinker	feeler	0	0	0	0	0	0	0	
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	0	
+381	questioning :: believing	questioning	believing	0	0	0	0	0	0	0	
+382	proud :: apologetic	proud	apologetic	0	0	0	0	0	0	0	
+383	bubbly :: flat	bubbly	flat	0	0	0	0	0	0	0	
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	
+385	woke :: problematic	woke	problematic	1	1	0	0	0	0	0	Woke relates to caring for marginalized and fairness/justice.
+386	grumpy :: cheery	grumpy	cheery	0	0	0	0	0	0	0	
+387	hippie :: militaristic	hippie	militaristic	1	0	0	1	0	1	0	Hippie: care (peace) and liberty (anti-authority); militaristic: authority.
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	1	0	0	Gluttony is a purity vice; moderate is a purity virtue (self-discipline).
+389	flawed :: perfect	flawed	perfect	0	0	0	0	0	0	0	
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	1	0	0	1	Good manners relate to respect (authority) and general virtue.
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	0	0	0	0	
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	0	
+395	friendly :: unfriendly	friendly	unfriendly	1	0	0	0	0	0	0	Friendliness relates to care (kindness).
+396	innovative :: routine	innovative	routine	0	0	0	0	0	0	0	
+397	delicate :: coarse	delicate	coarse	0	0	0	0	1	0	0	Delicate suggests refinement (purity virtue); coarse suggests lack of refinement.
+398	resentful :: euphoric	resentful	euphoric	0	0	0	0	0	0	0	
+399	uptight :: easy	uptight	easy	0	0	0	0	0	0	0	
+400	blue :: red	blue	red	0	0	0	0	0	0	0	

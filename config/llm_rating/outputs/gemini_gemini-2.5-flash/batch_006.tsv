@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+126	depressed :: bright	depressed	bright	0	0	0	0	0	0	0	
+127	self-conscious :: self-assured	self-conscious	self-assured	0	0	0	0	0	0	0	
+128	vulnerable :: armoured	vulnerable	armoured	1	0	0	0	0	0	0	Vulnerable implies needing protection; armoured implies protection.
+129	warm :: cold	warm	cold	1	0	0	0	0	0	0	Warmth relates to kindness/empathy; coldness to lack thereof.
+130	assertive :: passive	assertive	passive	0	0	0	0	0	0	0	
+131	active :: slothful	active	slothful	0	0	0	0	0	0	0	
+132	imaginative :: practical	imaginative	practical	0	0	0	0	0	0	0	
+133	adventurous :: stick-in-the-mud	adventurous	stick-in-the-mud	0	0	0	0	0	0	0	
+134	obedient :: rebellious	obedient	rebellious	0	0	0	1	0	0	0	Obedient relates to Authority virtue; rebellious relates to Authority vice.
+135	competent :: incompetent	competent	incompetent	0	0	0	0	0	0	0	
+136	unambitious :: driven	unambitious	driven	0	0	0	0	0	0	0	
+137	simple :: complicated	simple	complicated	0	0	0	0	0	0	0	
+138	proletariat :: bourgeoisie	proletariat	bourgeoisie	0	0	0	1	0	0	0	Bourgeoisie is in the dictionary for Authority; proletariat represents the opposing class in a hierarchy.
+139	alpha :: beta	alpha	beta	0	0	0	1	0	0	0	Relates to social hierarchy and dominance/subordinance.
+140	right-brained :: left-brained	right-brained	left-brained	0	0	0	0	0	0	0	
+141	thick-skinned :: sensitive	thick-skinned	sensitive	0	0	0	0	0	0	0	
+142	charismatic :: uninspiring	charismatic	uninspiring	0	0	0	1	0	0	0	Charismatic relates to leadership, a component of Authority.
+143	feisty :: gracious	feisty	gracious	0	0	0	0	0	0	0	
+144	eloquent :: unpolished	eloquent	unpolished	0	0	0	0	0	0	0	
+145	high IQ :: low IQ	high IQ	low IQ	0	0	0	0	0	0	0	
+146	insider :: outsider	insider	outsider	0	0	1	0	0	0	0	Insider is in the dictionary for Loyalty; outsider relates to not being part of the ingroup.
+147	morning lark :: night owl	morning lark	night owl	0	0	0	0	0	0	0	
+148	thin :: thick	thin	thick	0	0	0	0	0	0	0	
+149	sheeple :: conspiracist	sheeple	conspiracist	0	0	0	1	0	1	0	Sheeple implies blind followership (Authority) and lack of autonomy (Liberty); conspiracist implies dissent (Authority vice) and fighting oppression (Liberty).
+150	neat :: messy	neat	messy	0	0	0	0	1	0	0	Neatness relates to cleanliness and order (Purity); messiness to the opposite.

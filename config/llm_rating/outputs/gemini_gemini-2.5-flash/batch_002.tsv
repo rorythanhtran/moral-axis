@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+26	wise :: foolish	wise	foolish	0	0	0	0	0	0	1	Relates to general good/bad judgment or character.
+27	impulsive :: cautious	impulsive	cautious	1	0	0	0	0	0	0	'Cautious' can prevent harm.
+28	loyal :: traitorous	loyal	traitorous	0	0	1	1	0	0	0	'Loyal' is IngroupVirtue. 'Traitorous' is IngroupVice and AuthorityVice.
+29	creative :: conventional	creative	conventional	0	0	0	1	0	0	0	'Conventional' implies respect for tradition/authority.
+30	curious :: apathetic	curious	apathetic	1	0	0	0	0	0	0	'Apathetic' can imply a lack of care or concern for suffering.
+31	rude :: respectful	rude	respectful	0	0	0	1	0	0	0	'Respectful' is AuthorityVirtue. 'Rude' is disrespect.
+32	diligent :: lazy	diligent	lazy	0	0	0	1	1	0	1	'Diligent' relates to duty (Authority) and self-discipline (Purity). General virtue/vice.
+33	lustful :: chaste	lustful	chaste	0	0	0	0	1	0	0	'Chaste' is PurityVirtue. 'Lustful' is opposite of purity.
+34	chatty :: reserved	chatty	reserved	0	0	0	0	0	0	0	
+35	emotional :: logical	emotional	logical	0	1	0	0	0	0	0	'Logical' can imply impartiality or unbiasedness.
+36	moody :: stable	moody	stable	0	0	0	0	1	0	0	'Stable' can relate to self-discipline (Purity).
+37	dunce :: genius	dunce	genius	0	0	0	0	0	0	0	
+38	arrogant :: humble	arrogant	humble	0	0	0	1	1	1	1	'Humble' relates to respect (Authority) and modesty (Purity). 'Arrogant' can imply disrespect (Authority) or domination (Liberty). General virtue/vice.
+39	heroic :: villainous	heroic	villainous	1	1	1	1	1	1	1	Strong links to all foundations (e.g., protecting/harming, justice/injustice, group loyalty/betrayal, leadership/lawlessness, noble/depraved, fighting oppressors/dominating). General good/evil.
+40	attractive :: repulsive	attractive	repulsive	0	0	0	0	1	0	0	'Repulsive' is PurityVice.
+41	rational :: whimsical	rational	whimsical	0	1	0	0	0	0	0	'Rational' can imply impartiality or unbiasedness.
+42	mischievous :: well behaved	mischievous	well behaved	1	0	0	1	0	0	1	'Well behaved' implies obedience/respect (Authority) and avoiding harm (Care). General good/wrong.
+43	aloof :: obsessed	aloof	obsessed	1	0	0	0	0	0	0	'Aloof' can imply a lack of empathy or sympathy.
+44	indulgent :: sober	indulgent	sober	0	0	0	0	1	0	0	'Sober' relates to self-discipline and abstinence (Purity). 'Indulgent' is the opposite.
+45	kinky :: vanilla	kinky	vanilla	0	0	0	0	1	0	0	'Kinky' implies promiscuity/indecency (PurityVice). 'Vanilla' implies conventional/chaste (PurityVirtue).
+46	straightforward :: cryptic	straightforward	cryptic	0	1	1	0	0	0	1	'Straightforward' implies honesty (Fairness, General). 'Cryptic' implies deceit (Loyalty, Fairness).
+47	spontaneous :: deliberate	spontaneous	deliberate	0	0	0	0	0	0	0	
+48	libertarian :: socialist	libertarian	socialist	1	1	1	1	0	1	0	'Libertarian' is explicitly Liberty. 'Socialist' relates to care, fairness, group loyalty, and state authority, often in tension with liberty.
+49	scheduled :: spontaneous	scheduled	spontaneous	0	0	0	0	0	0	0	
+50	works hard :: plays hard	works hard	plays hard	0	0	0	1	1	0	1	'Works hard' relates to duty (Authority) and self-discipline (Purity). General virtue/vice.

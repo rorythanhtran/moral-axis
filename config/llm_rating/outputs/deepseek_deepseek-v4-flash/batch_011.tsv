@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+251	oppressed :: privileged	oppressed	privileged	1	1	0	1	0	1	0	Oppression involves harm/suffering (care), inequality (fairness), power hierarchy (authority), and restriction of freedom (liberty). Privilege contrasts.
+252	sunny :: gloomy	sunny	gloomy	0	0	0	0	0	0	0	No moral foundation relevance.
+253	vegan :: cannibal	vegan	cannibal	1	0	0	0	1	0	0	Cannibal involves causing harm (care vice). Vegan often linked to purity/clean living; cannibal is disgusting (purity vice).
+254	loveable :: punchable	loveable	punchable	1	0	0	0	0	0	0	Punchable implies desire to harm (care vice).
+255	slow-talking :: fast-talking	slow-talking	fast-talking	0	0	0	0	0	0	0	No moral foundation relevance.
+256	believable :: poorly-written	believable	poorly-written	0	0	0	0	0	0	0	No moral foundation relevance.
+257	vibrant :: geriatric	vibrant	geriatric	0	0	0	0	0	0	0	No moral foundation relevance.
+258	consistent :: variable	consistent	variable	0	0	0	0	0	0	0	No moral foundation relevance.
+259	dispassionate :: romantic	dispassionate	romantic	0	0	0	0	0	0	0	No moral foundation relevance.
+260	linear :: circular	linear	circular	0	0	0	0	0	0	0	No moral foundation relevance.
+261	intense :: lighthearted	intense	lighthearted	0	0	0	0	0	0	0	No moral foundation relevance.
+262	knowledgeable :: ignorant	knowledgeable	ignorant	0	0	0	0	0	0	0	Not specifically moral foundations.
+263	fixable :: unfixable	fixable	unfixable	0	0	0	0	0	0	0	No moral foundation relevance.
+264	exuberant :: subdued	exuberant	subdued	0	0	0	0	0	0	0	No moral foundation relevance.
+265	secretive :: open-book	secretive	open-book	0	0	0	0	0	0	0	No strong moral foundation link.
+266	perceptive :: unobservant	perceptive	unobservant	0	0	0	0	0	0	0	No moral foundation relevance.
+267	folksy :: presidential	folksy	presidential	0	0	0	1	0	0	0	Presidential implies authority figure.
+268	corporate :: freelance	corporate	freelance	0	0	0	1	0	1	0	Corporate relates to hierarchical authority; freelance implies independence (liberty).
+269	sleepy :: frenzied	sleepy	frenzied	0	0	0	0	0	0	0	No moral foundation relevance.
+270	loose :: tight	loose	tight	0	0	0	0	0	0	0	No clear moral foundation link.
+271	narcissistic :: low self esteem	narcissistic	low self esteem	1	0	0	0	0	0	0	Narcissism involves lack of empathy/care for others (care vice).
+272	poetic :: factual	poetic	factual	0	0	0	0	0	0	0	No moral foundation relevance.
+273	melee :: ranged	melee	ranged	0	0	0	0	0	0	0	No moral foundation relevance.
+274	giggling :: chortling	giggling	chortling	0	0	0	0	0	0	0	No moral foundation relevance.
+275	whippersnapper :: sage	whippersnapper	sage	0	0	0	1	0	0	0	Sage implies wisdom and respected authority; whippersnapper suggests lack of deference.

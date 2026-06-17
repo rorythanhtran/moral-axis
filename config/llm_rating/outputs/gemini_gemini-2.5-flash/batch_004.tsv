@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+76	quarrelsome :: warm	quarrelsome	warm	1	0	0	0	0	0	1	warm relates to care; quarrelsome relates to harm.
+77	nerd :: jock	nerd	jock	0	0	0	0	0	0	0	No clear moral foundation.
+78	lowbrow :: highbrow	lowbrow	highbrow	0	0	0	0	1	0	0	highbrow relates to refinement/elevation (purity); lowbrow could be seen as less refined.
+79	selfish :: altruistic	selfish	altruistic	1	1	1	0	0	0	1	altruistic relates to care, fairness, loyalty; selfish relates to harm, unfairness, disloyalty.
+80	autistic :: neurotypical	autistic	neurotypical	0	0	0	0	0	0	0	No moral foundation.
+81	angelic :: demonic	angelic	demonic	1	1	1	1	1	1	1	Both poles strongly relate to multiple foundations, especially purity and general morality.
+82	hesitant :: decisive	hesitant	decisive	0	0	0	1	0	0	0	decisive can be a virtue of leadership (authority).
+83	devout :: heathen	devout	heathen	0	0	1	1	1	0	1	devout relates to loyalty, authority, purity; heathen relates to disloyalty, defiance, impurity.
+84	cruel :: kind	cruel	kind	1	1	0	0	0	1	1	kind relates to care; cruel relates to harm, unfairness, and potentially oppression.
+85	direct :: roundabout	direct	roundabout	0	1	0	0	0	0	0	direct can relate to honesty (fairness).
+86	mathematical :: literary	mathematical	literary	0	0	0	0	0	0	0	No moral foundation.
+87	blue-collar :: ivory-tower	blue-collar	ivory-tower	0	0	0	0	0	0	0	No strong moral foundation.
+88	slovenly :: stylish	slovenly	stylish	0	0	0	0	1	0	0	slovenly relates to uncleanness (purity); stylish relates to refinement (purity).
+89	playful :: shy	playful	shy	0	0	0	0	0	0	0	No moral foundation.
+90	serious :: bold	serious	bold	0	0	0	1	0	1	0	bold can relate to leadership (authority) or challenging oppression (liberty).
+91	charming :: trusting	charming	trusting	1	1	1	0	0	0	1	charming can be used to exploit (harm, unfairness, disloyalty); trusting relates to amity (care).
+92	awkward :: suspicious	awkward	suspicious	0	0	1	0	0	0	0	suspicious can relate to vigilance against disloyalty.
+93	hipster :: basic	hipster	basic	0	0	0	0	0	0	0	No clear moral foundation.
+94	coordinated :: clumsy	coordinated	clumsy	0	0	0	0	0	0	0	No moral foundation.
+95	funny :: humorless	funny	humorless	0	0	0	0	0	0	0	No moral foundation.
+96	politically correct :: edgy	politically correct	edgy	1	1	0	1	1	1	1	politically correct relates to care, fairness, authority, purity; edgy relates to harm, unfairness, defiance, impurity, and liberty (challenging restrictions).
+97	rich :: poor	rich	poor	0	1	0	1	0	1	0	rich vs poor relates to fairness (equality/inequality), authority (status), and liberty (freedom from constraint).
+98	hard :: soft	hard	soft	1	0	0	1	0	0	0	soft relates to gentleness (care); hard can relate to lack of care or strict authority.
+99	remote :: involved	remote	involved	1	0	1	1	0	0	0	involved relates to care, loyalty, and authority (engagement); remote implies lack of engagement.
+100	metaphorical :: literal	metaphorical	literal	0	0	0	0	0	0	0	No moral foundation.

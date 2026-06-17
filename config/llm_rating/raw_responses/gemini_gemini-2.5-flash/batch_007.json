@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\"ratings\": [{\"trait_index\": 151, \"differential\": \"vague :: precise\", \"left_pole\": \"vague\", \"right_pole\": \"precise\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 152, \"differential\": \"philosophical :: real\", \"left_pole\": \"philosophical\", \"right_pole\": \"real\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 153, \"differential\": \"modern :: historical\", \"left_pole\": \"modern\", \"right_pole\": \"historical\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"Historical can relate to tradition (Authority).\"}, {\"trait_index\": 154, \"differential\": \"judgemental :: accepting\", \"left_pole\": \"judgemental\", \"right_pole\": \"accepting\", \"care\": 0, \"fairness\": 1, \"loyalty\": 0, \"authority\": 0, \"purity\": 1, \"liberty\": 0, \"general\": 1, \"notes\": \"Judgemental can imply unfairness or purity-based judgment; accepting implies tolerance. Also relates to general moral character.\"}, {\"trait_index\": 155, \"differential\": \"average :: deviant\", \"left_pole\": \"average\", \"right_pole\": \"deviant\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 1, \"notes\": \"Deviant can relate to disrespect for norms/traditions (Authority), impurity, or general immorality.\"}, {\"trait_index\": 156, \"differential\": \"gossiping :: confidential\", \"left_pole\": \"gossiping\", \"right_pole\": \"confidential\", \"care\": 0, \"fairness\": 0, \"loyalty\": 1, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"Gossiping can be disloyal; confidential implies loyalty/trust. Gossiping is also generally immoral.\"}, {\"trait_index\": 157, \"differential\": \"official :: backdoor\", \"left_pole\": \"official\", \"right_pole\": \"backdoor\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"Official relates to authority/rules; backdoor implies defiance of authority or improper conduct.\"}, {\"trait_index\": 158, \"differential\": \"scholarly :: crafty\", \"left_pole\": \"scholarly\", \"right_pole\": \"crafty\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"Crafty can imply dishonesty or trickery, a general vice.\"}, {\"trait_index\": 159, \"differential\": \"leisurely :: hurried\", \"left_pole\": \"leisurely\", \"right_pole\": \"hurried\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 160, \"differential\": \"explorer :: builder\", \"left_pole\": \"explorer\", \"right_pole\": \"builder\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 161, \"differential\": \"captain :: first-mate\", \"left_pole\": \"captain\", \"right_pole\": \"first-mate\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"Relates to hierarchy and roles within authority.\"}, {\"trait_index\": 162, \"differential\": \"mysterious :: unambiguous\", \"left_pole\": \"mysterious\", \"right_pole\": \"unambiguous\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 163, \"differential\": \"independent :: codependent\", \"left_pole\": \"independent\", \"right_pole\": \"codependent\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 1, \"general\": 0, \"notes\": \"Independent relates to freedom/autonomy (Liberty); codependent implies a lack of liberty.\"}, {\"trait_index\": 164, \"differential\": \"family-first :: work-first\", \"left_pole\": \"family-first\", \"right_pole\": \"work-first\", \"care\": 0, \"fairness\": 0, \"loyalty\": 1, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"Family is a key ingroup, relating to Loyalty.\"}, {\"trait_index\": 165, \"differential\": \"scruffy :: manicured\", \"left_pole\": \"scruffy\", \"right_pole\": \"manicured\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"Relates to cleanliness and order, aspects of Purity.\"}, {\"trait_index\": 166, \"differential\": \"wild :: tame\", \"left_pole\": \"wild\", \"right_pole\": \"tame\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"Tame implies control/obedience (Authority, Purity); wild implies lack of control.\"}, {\"trait_index\": 167, \"differential\": \"prestigious :: disreputable\", \"left_pole\": \"prestigious\", \"right_pole\": \"disreputable\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"Prestigious relates to status/respect (Authority); disreputable implies lack of respect or general bad character.\"}, {\"trait_index\": 168, \"differential\": \"scandalous :: proper\", \"left_pole\": \"scandalous\", \"right_pole\": \"proper\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 1, \"notes\": \"Scandalous implies indecency/immorality; proper implies decency/adherence to norms (Purity, Authority, General).\"}, {\"trait_index\": 169, \"differential\": \"unprepared :: hoarder\", \"left_pole\": \"unprepared\", \"right_pole\": \"hoarder\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 170, \"differential\": \"sheltered :: street-smart\", \"left_pole\": \"sheltered\", \"right_pole\": \"street-smart\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 171, \"differential\": \"open-minded :: close-minded\", \"left_pole\": \"open-minded\", \"right_pole\": \"close-minded\", \"care\": 0, \"fairness\": 1, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"Relates to tolerance and prejudice (Fairness).\"}, {\"trait_index\": 172, \"differential\": \"permanent :: transient\", \"left_pole\": \"permanent\", \"right_pole\": \"transient\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 173, \"differential\": \"dramatic :: no-nonsense\", \"left_pole\": \"dramatic\", \"right_pole\": \"no-nonsense\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 174, \"differential\": \"apprentice :: master\", \"left_pole\": \"apprentice\", \"right_pole\": \"master\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"Relates to hierarchy and roles within authority.\"}, {\"trait_index\": 175, \"differential\": \"straight :: queer\", \"left_pole\": \"straight\", \"right_pole\": \"queer\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"Relates to adherence to/defiance of traditional norms (Authority) and conventional/natural order (Purity).\"}]}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3533,
+      "candidatesTokenCount": 2467,
+      "totalTokenCount": 9391,
+      "cachedContentTokenCount": 2419,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3533
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2419
+        }
+      ],
+      "thoughtsTokenCount": 3391,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "cxkwatCiApbg_uMPgI-GsQk"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 151,
+        "differential": "vague :: precise",
+        "left_pole": "vague",
+        "right_pole": "precise",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 152,
+        "differential": "philosophical :: real",
+        "left_pole": "philosophical",
+        "right_pole": "real",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 153,
+        "differential": "modern :: historical",
+        "left_pole": "modern",
+        "right_pole": "historical",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Historical can relate to tradition (Authority)."
+      },
+      {
+        "trait_index": 154,
+        "differential": "judgemental :: accepting",
+        "left_pole": "judgemental",
+        "right_pole": "accepting",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Judgemental can imply unfairness or purity-based judgment; accepting implies tolerance. Also relates to general moral character."
+      },
+      {
+        "trait_index": 155,
+        "differential": "average :: deviant",
+        "left_pole": "average",
+        "right_pole": "deviant",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Deviant can relate to disrespect for norms/traditions (Authority), impurity, or general immorality."
+      },
+      {
+        "trait_index": 156,
+        "differential": "gossiping :: confidential",
+        "left_pole": "gossiping",
+        "right_pole": "confidential",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Gossiping can be disloyal; confidential implies loyalty/trust. Gossiping is also generally immoral."
+      },
+      {
+        "trait_index": 157,
+        "differential": "official :: backdoor",
+        "left_pole": "official",
+        "right_pole": "backdoor",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Official relates to authority/rules; backdoor implies defiance of authority or improper conduct."
+      },
+      {
+        "trait_index": 158,
+        "differential": "scholarly :: crafty",
+        "left_pole": "scholarly",
+        "right_pole": "crafty",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Crafty can imply dishonesty or trickery, a general vice."
+      },
+      {
+        "trait_index": 159,
+        "differential": "leisurely :: hurried",
+        "left_pole": "leisurely",
+        "right_pole": "hurried",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 160,
+        "differential": "explorer :: builder",
+        "left_pole": "explorer",
+        "right_pole": "builder",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 161,
+        "differential": "captain :: first-mate",
+        "left_pole": "captain",
+        "right_pole": "first-mate",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to hierarchy and roles within authority."
+      },
+      {
+        "trait_index": 162,
+        "differential": "mysterious :: unambiguous",
+        "left_pole": "mysterious",
+        "right_pole": "unambiguous",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 163,
+        "differential": "independent :: codependent",
+        "left_pole": "independent",
+        "right_pole": "codependent",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "Independent relates to freedom/autonomy (Liberty); codependent implies a lack of liberty."
+      },
+      {
+        "trait_index": 164,
+        "differential": "family-first :: work-first",
+        "left_pole": "family-first",
+        "right_pole": "work-first",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Family is a key ingroup, relating to Loyalty."
+      },
+      {
+        "trait_index": 165,
+        "differential": "scruffy :: manicured",
+        "left_pole": "scruffy",
+        "right_pole": "manicured",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to cleanliness and order, aspects of Purity."
+      },
+      {
+        "trait_index": 166,
+        "differential": "wild :: tame",
+        "left_pole": "wild",
+        "right_pole": "tame",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Tame implies control/obedience (Authority, Purity); wild implies lack of control."
+      },
+      {
+        "trait_index": 167,
+        "differential": "prestigious :: disreputable",
+        "left_pole": "prestigious",
+        "right_pole": "disreputable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Prestigious relates to status/respect (Authority); disreputable implies lack of respect or general bad character."
+      },
+      {
+        "trait_index": 168,
+        "differential": "scandalous :: proper",
+        "left_pole": "scandalous",
+        "right_pole": "proper",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Scandalous implies indecency/immorality; proper implies decency/adherence to norms (Purity, Authority, General)."
+      },
+      {
+        "trait_index": 169,
+        "differential": "unprepared :: hoarder",
+        "left_pole": "unprepared",
+        "right_pole": "hoarder",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 170,
+        "differential": "sheltered :: street-smart",
+        "left_pole": "sheltered",
+        "right_pole": "street-smart",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 171,
+        "differential": "open-minded :: close-minded",
+        "left_pole": "open-minded",
+        "right_pole": "close-minded",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to tolerance and prejudice (Fairness)."
+      },
+      {
+        "trait_index": 172,
+        "differential": "permanent :: transient",
+        "left_pole": "permanent",
+        "right_pole": "transient",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 173,
+        "differential": "dramatic :: no-nonsense",
+        "left_pole": "dramatic",
+        "right_pole": "no-nonsense",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 174,
+        "differential": "apprentice :: master",
+        "left_pole": "apprentice",
+        "right_pole": "master",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to hierarchy and roles within authority."
+      },
+      {
+        "trait_index": 175,
+        "differential": "straight :: queer",
+        "left_pole": "straight",
+        "right_pole": "queer",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to adherence to/defiance of traditional norms (Authority) and conventional/natural order (Purity)."
+      }
+    ]
+  }
+}

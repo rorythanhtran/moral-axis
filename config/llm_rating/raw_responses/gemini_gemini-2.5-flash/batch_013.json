@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"ratings\": [\n    {\n      \"trait_index\": 301,\n      \"differential\": \"empath :: psychopath\",\n      \"left_pole\": \"empath\",\n      \"right_pole\": \"psychopath\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Empath relates to care; psychopath relates to lack of care and general immorality.\"\n    },\n    {\n      \"trait_index\": 302,\n      \"differential\": \"haunted :: blissful\",\n      \"left_pole\": \"haunted\",\n      \"right_pole\": \"blissful\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Haunted relates to suffering (Care vice); blissful relates to well-being (Care virtue).\"\n    },\n    {\n      \"trait_index\": 303,\n      \"differential\": \"entitled :: grateful\",\n      \"left_pole\": \"entitled\",\n      \"right_pole\": \"grateful\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Entitled can relate to unfairness and disrespect for authority; grateful relates to humility and acknowledging others (Purity, General).\"\n    },\n    {\n      \"trait_index\": 304,\n      \"differential\": \"ambitious :: realistic\",\n      \"left_pole\": \"ambitious\",\n      \"right_pole\": \"realistic\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 305,\n      \"differential\": \"stuck-in-the-past :: forward-thinking\",\n      \"left_pole\": \"stuck-in-the-past\",\n      \"right_pole\": \"forward-thinking\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Stuck-in-the-past relates to tradition (Authority).\"\n    },\n    {\n      \"trait_index\": 306,\n      \"differential\": \"fire :: water\",\n      \"left_pole\": \"fire\",\n      \"right_pole\": \"water\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 307,\n      \"differential\": \"earth :: air\",\n      \"left_pole\": \"earth\",\n      \"right_pole\": \"air\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 308,\n      \"differential\": \"lover :: fighter\",\n      \"left_pole\": \"lover\",\n      \"right_pole\": \"fighter\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Lover relates to peace (Care virtue); fighter relates to violence (Care vice).\"\n    },\n    {\n      \"trait_index\": 309,\n      \"differential\": \"overachiever :: underachiever\",\n      \"left_pole\": \"overachiever\",\n      \"right_pole\": \"underachiever\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 310,\n      \"differential\": \"Coke :: Pepsi\",\n      \"left_pole\": \"Coke\",\n      \"right_pole\": \"Pepsi\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 311,\n      \"differential\": \"twitchy :: still\",\n      \"left_pole\": \"twitchy\",\n      \"right_pole\": \"still\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 312,\n      \"differential\": \"freak :: normie\",\n      \"left_pole\": \"freak\",\n      \"right_pole\": \"normie\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Freak can relate to deviance from social norms (Purity, Authority).\"\n    },\n    {\n      \"trait_index\": 313,\n      \"differential\": \"thinker :: doer\",\n      \"left_pole\": \"thinker\",\n      \"right_pole\": \"doer\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 314,\n      \"differential\": \"hard-work :: natural-talent\",\n      \"left_pole\": \"hard-work\",\n      \"right_pole\": \"natural-talent\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 315,\n      \"differential\": \"stingy :: generous\",\n      \"left_pole\": \"stingy\",\n      \"right_pole\": \"generous\",\n      \"care\": 1,\n      \"fairness\": 1,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Generous relates to kindness (Care) and equitable sharing (Fairness); stingy relates to lack of these and general immorality.\"\n    },\n    {\n      \"trait_index\": 316,\n      \"differential\": \"stubborn :: accommodating\",\n      \"left_pole\": \"stubborn\",\n      \"right_pole\": \"accommodating\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Stubborn can relate to defiance (Authority) or unwillingness to compromise (Fairness).\"\n    },\n    {\n      \"trait_index\": 317,\n      \"differential\": \"extravagant :: thrifty\",\n      \"left_pole\": \"extravagant\",\n      \"right_pole\": \"thrifty\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Thrifty can relate to self-discipline (Purity).\"\n    },\n    {\n      \"trait_index\": 318,\n      \"differential\": \"demanding :: unchallenging\",\n      \"left_pole\": \"demanding\",\n      \"right_pole\": \"unchallenging\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 319,\n      \"differential\": \"two-faced :: one-faced\",\n      \"left_pole\": \"two-faced\",\n      \"right_pole\": \"one-faced\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 1,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Two-faced relates to dishonesty (Fairness, Loyalty, Purity) and general immorality.\"\n    },\n    {\n      \"trait_index\": 320,\n      \"differential\": \"plastic :: wooden\",\n      \"left_pole\": \"plastic\",\n      \"right_pole\": \"wooden\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 321,\n      \"differential\": \"neutral :: opinionated\",\n      \"left_pole\": \"neutral\",\n      \"right_pole\": \"opinionated\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Neutral can imply impartiality (Fairness).\"\n    },\n    {\n      \"trait_index\": 322,\n      \"differential\": \"chivalrous :: businesslike\",\n      \"left_pole\": \"chivalrous\",\n      \"right_pole\": \"businesslike\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Chivalrous relates to protection (Care), honor/respect (Authority), and general virtue.\"\n    },\n    {\n      \"trait_index\": 323,\n      \"differential\": \"high standards :: desperate\",\n      \"left_pole\": \"high standards\",\n      \"right_pole\": \"desperate\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 324,\n      \"differential\": \"on-time :: tardy\",\n      \"left_pole\": \"on-time\",\n      \"right_pole\": \"tardy\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"On-time can relate to respect for others' time and adherence to norms (Authority).\"\n    },\n    {\n      \"trait_index\": 325,\n      \"differential\": \"everyman :: chosen one\",\n      \"left_pole\": \"everyman\",\n      \"right_pole\": \"chosen one\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Everyman relates to equality (Fairness); chosen one relates to status/hierarchy (Authority).\"\n    }\n  ]\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3554,
+      "candidatesTokenCount": 3220,
+      "totalTokenCount": 9610,
+      "cachedContentTokenCount": 3229,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3554
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3229
+        }
+      ],
+      "thoughtsTokenCount": 2836,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "TBowaqeYLLu2_uMP-9SSoAQ"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 301,
+        "differential": "empath :: psychopath",
+        "left_pole": "empath",
+        "right_pole": "psychopath",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Empath relates to care; psychopath relates to lack of care and general immorality."
+      },
+      {
+        "trait_index": 302,
+        "differential": "haunted :: blissful",
+        "left_pole": "haunted",
+        "right_pole": "blissful",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Haunted relates to suffering (Care vice); blissful relates to well-being (Care virtue)."
+      },
+      {
+        "trait_index": 303,
+        "differential": "entitled :: grateful",
+        "left_pole": "entitled",
+        "right_pole": "grateful",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Entitled can relate to unfairness and disrespect for authority; grateful relates to humility and acknowledging others (Purity, General)."
+      },
+      {
+        "trait_index": 304,
+        "differential": "ambitious :: realistic",
+        "left_pole": "ambitious",
+        "right_pole": "realistic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 305,
+        "differential": "stuck-in-the-past :: forward-thinking",
+        "left_pole": "stuck-in-the-past",
+        "right_pole": "forward-thinking",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Stuck-in-the-past relates to tradition (Authority)."
+      },
+      {
+        "trait_index": 306,
+        "differential": "fire :: water",
+        "left_pole": "fire",
+        "right_pole": "water",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 307,
+        "differential": "earth :: air",
+        "left_pole": "earth",
+        "right_pole": "air",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 308,
+        "differential": "lover :: fighter",
+        "left_pole": "lover",
+        "right_pole": "fighter",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Lover relates to peace (Care virtue); fighter relates to violence (Care vice)."
+      },
+      {
+        "trait_index": 309,
+        "differential": "overachiever :: underachiever",
+        "left_pole": "overachiever",
+        "right_pole": "underachiever",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 310,
+        "differential": "Coke :: Pepsi",
+        "left_pole": "Coke",
+        "right_pole": "Pepsi",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 311,
+        "differential": "twitchy :: still",
+        "left_pole": "twitchy",
+        "right_pole": "still",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 312,
+        "differential": "freak :: normie",
+        "left_pole": "freak",
+        "right_pole": "normie",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Freak can relate to deviance from social norms (Purity, Authority)."
+      },
+      {
+        "trait_index": 313,
+        "differential": "thinker :: doer",
+        "left_pole": "thinker",
+        "right_pole": "doer",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 314,
+        "differential": "hard-work :: natural-talent",
+        "left_pole": "hard-work",
+        "right_pole": "natural-talent",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 315,
+        "differential": "stingy :: generous",
+        "left_pole": "stingy",
+        "right_pole": "generous",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Generous relates to kindness (Care) and equitable sharing (Fairness); stingy relates to lack of these and general immorality."
+      },
+      {
+        "trait_index": 316,
+        "differential": "stubborn :: accommodating",
+        "left_pole": "stubborn",
+        "right_pole": "accommodating",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Stubborn can relate to defiance (Authority) or unwillingness to compromise (Fairness)."
+      },
+      {
+        "trait_index": 317,
+        "differential": "extravagant :: thrifty",
+        "left_pole": "extravagant",
+        "right_pole": "thrifty",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Thrifty can relate to self-discipline (Purity)."
+      },
+      {
+        "trait_index": 318,
+        "differential": "demanding :: unchallenging",
+        "left_pole": "demanding",
+        "right_pole": "unchallenging",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 319,
+        "differential": "two-faced :: one-faced",
+        "left_pole": "two-faced",
+        "right_pole": "one-faced",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Two-faced relates to dishonesty (Fairness, Loyalty, Purity) and general immorality."
+      },
+      {
+        "trait_index": 320,
+        "differential": "plastic :: wooden",
+        "left_pole": "plastic",
+        "right_pole": "wooden",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 321,
+        "differential": "neutral :: opinionated",
+        "left_pole": "neutral",
+        "right_pole": "opinionated",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Neutral can imply impartiality (Fairness)."
+      },
+      {
+        "trait_index": 322,
+        "differential": "chivalrous :: businesslike",
+        "left_pole": "chivalrous",
+        "right_pole": "businesslike",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Chivalrous relates to protection (Care), honor/respect (Authority), and general virtue."
+      },
+      {
+        "trait_index": 323,
+        "differential": "high standards :: desperate",
+        "left_pole": "high standards",
+        "right_pole": "desperate",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 324,
+        "differential": "on-time :: tardy",
+        "left_pole": "on-time",
+        "right_pole": "tardy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "On-time can relate to respect for others' time and adherence to norms (Authority)."
+      },
+      {
+        "trait_index": 325,
+        "differential": "everyman :: chosen one",
+        "left_pole": "everyman",
+        "right_pole": "chosen one",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Everyman relates to equality (Fairness); chosen one relates to status/hierarchy (Authority)."
+      }
+    ]
+  }
+}

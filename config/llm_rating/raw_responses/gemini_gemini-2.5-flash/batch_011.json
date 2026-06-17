@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\"ratings\":[{\"trait_index\":251,\"differential\":\"oppressed :: privileged\",\"left_pole\":\"oppressed\",\"right_pole\":\"privileged\",\"care\":1,\"fairness\":1,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":1,\"notes\":\"Oppressed relates to harm, unfairness, lack of liberty, and being subject to authority. Privileged relates to unfairness and authority.\"},{\"trait_index\":252,\"differential\":\"sunny :: gloomy\",\"left_pole\":\"sunny\",\"right_pole\":\"gloomy\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Emotional states, not moral.\"},{\"trait_index\":253,\"differential\":\"vegan :: cannibal\",\"left_pole\":\"vegan\",\"right_pole\":\"cannibal\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":1,\"liberty\":0,\"general\":1,\"notes\":\"Cannibalism is extreme harm and impurity. Veganism relates to care (animals) and sometimes purity.\"},{\"trait_index\":254,\"differential\":\"loveable :: punchable\",\"left_pole\":\"loveable\",\"right_pole\":\"punchable\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Punchable implies harm. Loveable implies deserving care.\"},{\"trait_index\":255,\"differential\":\"slow-talking :: fast-talking\",\"left_pole\":\"slow-talking\",\"right_pole\":\"fast-talking\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Communication style, not moral.\"},{\"trait_index\":256,\"differential\":\"believable :: poorly-written\",\"left_pole\":\"believable\",\"right_pole\":\"poorly-written\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to quality/credibility, not moral.\"},{\"trait_index\":257,\"differential\":\"vibrant :: geriatric\",\"left_pole\":\"vibrant\",\"right_pole\":\"geriatric\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to energy/age, not moral.\"},{\"trait_index\":258,\"differential\":\"consistent :: variable\",\"left_pole\":\"consistent\",\"right_pole\":\"variable\",\"care\":0,\"fairness\":1,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Consistency can relate to fairness (consistent rules), authority (consistent traditions/rules), and general virtue.\"},{\"trait_index\":259,\"differential\":\"dispassionate :: romantic\",\"left_pole\":\"dispassionate\",\"right_pole\":\"romantic\",\"care\":1,\"fairness\":0,\"loyalty\":1,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Romantic can imply care and loyalty in relationships.\"},{\"trait_index\":260,\"differential\":\"linear :: circular\",\"left_pole\":\"linear\",\"right_pole\":\"circular\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to structure/process, not moral.\"},{\"trait_index\":261,\"differential\":\"intense :: lighthearted\",\"left_pole\":\"intense\",\"right_pole\":\"lighthearted\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to emotional tone, not moral.\"},{\"trait_index\":262,\"differential\":\"knowledgeable :: ignorant\",\"left_pole\":\"knowledgeable\",\"right_pole\":\"ignorant\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Knowledgeable can be a general virtue.\"},{\"trait_index\":263,\"differential\":\"fixable :: unfixable\",\"left_pole\":\"fixable\",\"right_pole\":\"unfixable\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to repairability, not moral.\"},{\"trait_index\":264,\"differential\":\"exuberant :: subdued\",\"left_pole\":\"exuberant\",\"right_pole\":\"subdued\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to energy/mood, not moral.\"},{\"trait_index\":265,\"differential\":\"secretive :: open-book\",\"left_pole\":\"secretive\",\"right_pole\":\"open-book\",\"care\":0,\"fairness\":1,\"loyalty\":1,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Secretive can imply unfairness or disloyalty. Open-book implies honesty.\"},{\"trait_index\":266,\"differential\":\"perceptive :: unobservant\",\"left_pole\":\"perceptive\",\"right_pole\":\"unobservant\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to awareness, not moral.\"},{\"trait_index\":267,\"differential\":\"folksy :: presidential\",\"left_pole\":\"folksy\",\"right_pole\":\"presidential\",\"care\":0,\"fairness\":0,\"loyalty\":1,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Presidential relates to authority. Folksy can relate to ingroup loyalty.\"},{\"trait_index\":268,\"differential\":\"corporate :: freelance\",\"left_pole\":\"corporate\",\"right_pole\":\"freelance\",\"care\":0,\"fairness\":0,\"loyalty\":1,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":0,\"notes\":\"Corporate implies loyalty to a group and authority structures. Freelance implies liberty and less group loyalty.\"},{\"trait_index\":269,\"differential\":\"sleepy :: frenzied\",\"left_pole\":\"sleepy\",\"right_pole\":\"frenzied\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to energy levels, not moral.\"},{\"trait_index\":270,\"differential\":\"loose :: tight\",\"left_pole\":\"loose\",\"right_pole\":\"tight\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":0,\"notes\":\"Tight can imply authority/control. Loose can imply liberty.\"},{\"trait_index\":271,\"differential\":\"narcissistic :: low self esteem\",\"left_pole\":\"narcissistic\",\"right_pole\":\"low self esteem\",\"care\":1,\"fairness\":1,\"loyalty\":1,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":1,\"notes\":\"Narcissistic relates to lack of care, unfairness, disloyalty, challenging authority, and restricting liberty.\"},{\"trait_index\":272,\"differential\":\"poetic :: factual\",\"left_pole\":\"poetic\",\"right_pole\":\"factual\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to style of expression, not moral.\"},{\"trait_index\":273,\"differential\":\"melee :: ranged\",\"left_pole\":\"melee\",\"right_pole\":\"ranged\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to combat style, not moral.\"},{\"trait_index\":274,\"differential\":\"giggling :: chortling\",\"left_pole\":\"giggling\",\"right_pole\":\"chortling\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Relates to types of laughter, not moral.\"},{\"trait_index\":275,\"differential\":\"whippersnapper :: sage\",\"left_pole\":\"whippersnapper\",\"right_pole\":\"sage\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Sage implies authority/respect for tradition. Whippersnapper implies disrespect for authority. Sage is a general virtue.\"}]}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3543,
+      "candidatesTokenCount": 1949,
+      "totalTokenCount": 9019,
+      "cachedContentTokenCount": 2420,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3543
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2420
+        }
+      ],
+      "thoughtsTokenCount": 3527,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "7RkwapPIBO-d9MoP88b22QI"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 251,
+        "differential": "oppressed :: privileged",
+        "left_pole": "oppressed",
+        "right_pole": "privileged",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Oppressed relates to harm, unfairness, lack of liberty, and being subject to authority. Privileged relates to unfairness and authority."
+      },
+      {
+        "trait_index": 252,
+        "differential": "sunny :: gloomy",
+        "left_pole": "sunny",
+        "right_pole": "gloomy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Emotional states, not moral."
+      },
+      {
+        "trait_index": 253,
+        "differential": "vegan :: cannibal",
+        "left_pole": "vegan",
+        "right_pole": "cannibal",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Cannibalism is extreme harm and impurity. Veganism relates to care (animals) and sometimes purity."
+      },
+      {
+        "trait_index": 254,
+        "differential": "loveable :: punchable",
+        "left_pole": "loveable",
+        "right_pole": "punchable",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Punchable implies harm. Loveable implies deserving care."
+      },
+      {
+        "trait_index": 255,
+        "differential": "slow-talking :: fast-talking",
+        "left_pole": "slow-talking",
+        "right_pole": "fast-talking",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Communication style, not moral."
+      },
+      {
+        "trait_index": 256,
+        "differential": "believable :: poorly-written",
+        "left_pole": "believable",
+        "right_pole": "poorly-written",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to quality/credibility, not moral."
+      },
+      {
+        "trait_index": 257,
+        "differential": "vibrant :: geriatric",
+        "left_pole": "vibrant",
+        "right_pole": "geriatric",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to energy/age, not moral."
+      },
+      {
+        "trait_index": 258,
+        "differential": "consistent :: variable",
+        "left_pole": "consistent",
+        "right_pole": "variable",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Consistency can relate to fairness (consistent rules), authority (consistent traditions/rules), and general virtue."
+      },
+      {
+        "trait_index": 259,
+        "differential": "dispassionate :: romantic",
+        "left_pole": "dispassionate",
+        "right_pole": "romantic",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Romantic can imply care and loyalty in relationships."
+      },
+      {
+        "trait_index": 260,
+        "differential": "linear :: circular",
+        "left_pole": "linear",
+        "right_pole": "circular",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to structure/process, not moral."
+      },
+      {
+        "trait_index": 261,
+        "differential": "intense :: lighthearted",
+        "left_pole": "intense",
+        "right_pole": "lighthearted",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to emotional tone, not moral."
+      },
+      {
+        "trait_index": 262,
+        "differential": "knowledgeable :: ignorant",
+        "left_pole": "knowledgeable",
+        "right_pole": "ignorant",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Knowledgeable can be a general virtue."
+      },
+      {
+        "trait_index": 263,
+        "differential": "fixable :: unfixable",
+        "left_pole": "fixable",
+        "right_pole": "unfixable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to repairability, not moral."
+      },
+      {
+        "trait_index": 264,
+        "differential": "exuberant :: subdued",
+        "left_pole": "exuberant",
+        "right_pole": "subdued",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to energy/mood, not moral."
+      },
+      {
+        "trait_index": 265,
+        "differential": "secretive :: open-book",
+        "left_pole": "secretive",
+        "right_pole": "open-book",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Secretive can imply unfairness or disloyalty. Open-book implies honesty."
+      },
+      {
+        "trait_index": 266,
+        "differential": "perceptive :: unobservant",
+        "left_pole": "perceptive",
+        "right_pole": "unobservant",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to awareness, not moral."
+      },
+      {
+        "trait_index": 267,
+        "differential": "folksy :: presidential",
+        "left_pole": "folksy",
+        "right_pole": "presidential",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Presidential relates to authority. Folksy can relate to ingroup loyalty."
+      },
+      {
+        "trait_index": 268,
+        "differential": "corporate :: freelance",
+        "left_pole": "corporate",
+        "right_pole": "freelance",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "Corporate implies loyalty to a group and authority structures. Freelance implies liberty and less group loyalty."
+      },
+      {
+        "trait_index": 269,
+        "differential": "sleepy :: frenzied",
+        "left_pole": "sleepy",
+        "right_pole": "frenzied",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to energy levels, not moral."
+      },
+      {
+        "trait_index": 270,
+        "differential": "loose :: tight",
+        "left_pole": "loose",
+        "right_pole": "tight",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "Tight can imply authority/control. Loose can imply liberty."
+      },
+      {
+        "trait_index": 271,
+        "differential": "narcissistic :: low self esteem",
+        "left_pole": "narcissistic",
+        "right_pole": "low self esteem",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Narcissistic relates to lack of care, unfairness, disloyalty, challenging authority, and restricting liberty."
+      },
+      {
+        "trait_index": 272,
+        "differential": "poetic :: factual",
+        "left_pole": "poetic",
+        "right_pole": "factual",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to style of expression, not moral."
+      },
+      {
+        "trait_index": 273,
+        "differential": "melee :: ranged",
+        "left_pole": "melee",
+        "right_pole": "ranged",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to combat style, not moral."
+      },
+      {
+        "trait_index": 274,
+        "differential": "giggling :: chortling",
+        "left_pole": "giggling",
+        "right_pole": "chortling",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to types of laughter, not moral."
+      },
+      {
+        "trait_index": 275,
+        "differential": "whippersnapper :: sage",
+        "left_pole": "whippersnapper",
+        "right_pole": "sage",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Sage implies authority/respect for tradition. Whippersnapper implies disrespect for authority. Sage is a general virtue."
+      }
+    ]
+  }
+}

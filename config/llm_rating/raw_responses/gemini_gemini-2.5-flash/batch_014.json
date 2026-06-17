@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\"ratings\":[{\"trait_index\":326,\"differential\":\"jealous :: opinionated\",\"left_pole\":\"jealous\",\"right_pole\":\"opinionated\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":327,\"differential\":\"protagonist :: antagonist\",\"left_pole\":\"protagonist\",\"right_pole\":\"antagonist\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Antagonist implies general moral badness.\"},{\"trait_index\":328,\"differential\":\"devoted :: unfaithful\",\"left_pole\":\"devoted\",\"right_pole\":\"unfaithful\",\"care\":0,\"fairness\":0,\"loyalty\":1,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Devoted relates to loyalty; unfaithful relates to disloyalty/betrayal (IngroupVice, AuthorityVice).\"},{\"trait_index\":329,\"differential\":\"fearmongering :: reassuring\",\"left_pole\":\"fearmongering\",\"right_pole\":\"reassuring\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Fearmongering relates to causing harm (Care vice); reassuring relates to preventing harm (Care virtue).\"},{\"trait_index\":330,\"differential\":\"common sense :: analysis\",\"left_pole\":\"common sense\",\"right_pole\":\"analysis\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":331,\"differential\":\"unemotional :: emotional\",\"left_pole\":\"unemotional\",\"right_pole\":\"emotional\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":332,\"differential\":\"rap :: rock\",\"left_pole\":\"rap\",\"right_pole\":\"rock\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":333,\"differential\":\"genocidal :: not genocidal\",\"left_pole\":\"genocidal\",\"right_pole\":\"not genocidal\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Genocidal is extreme harm (Care vice) and a general vice.\"},{\"trait_index\":334,\"differential\":\"cat person :: dog person\",\"left_pole\":\"cat person\",\"right_pole\":\"dog person\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":335,\"differential\":\"indie :: pop\",\"left_pole\":\"indie\",\"right_pole\":\"pop\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":336,\"differential\":\"cultured :: rustic\",\"left_pole\":\"cultured\",\"right_pole\":\"rustic\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":337,\"differential\":\"tautology :: oxymoron\",\"left_pole\":\"tautology\",\"right_pole\":\"oxymoron\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":338,\"differential\":\"bad boy :: white knight\",\"left_pole\":\"bad boy\",\"right_pole\":\"white knight\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"White knight relates to protection (Care virtue); bad boy relates to defiance (Authority vice) and general badness.\"},{\"trait_index\":339,\"differential\":\"princess :: queen\",\"left_pole\":\"princess\",\"right_pole\":\"queen\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":340,\"differential\":\"hypochondriac :: stoic\",\"left_pole\":\"hypochondriac\",\"right_pole\":\"stoic\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":341,\"differential\":\"yes-man :: contrarian\",\"left_pole\":\"yes-man\",\"right_pole\":\"contrarian\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":0,\"notes\":\"Yes-man implies deference to authority; contrarian implies defiance of authority and valuing liberty.\"},{\"trait_index\":342,\"differential\":\"giving :: receiving\",\"left_pole\":\"giving\",\"right_pole\":\"receiving\",\"care\":1,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Giving relates to kindness and benefit (Care virtue).\"},{\"trait_index\":343,\"differential\":\"chic :: cheesy\",\"left_pole\":\"chic\",\"right_pole\":\"cheesy\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":344,\"differential\":\"celebrity :: boy/girl-next-door\",\"left_pole\":\"celebrity\",\"right_pole\":\"boy/girl-next-door\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":345,\"differential\":\"goth :: flower child\",\"left_pole\":\"goth\",\"right_pole\":\"flower child\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":346,\"differential\":\"summer :: winter\",\"left_pole\":\"summer\",\"right_pole\":\"winter\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":347,\"differential\":\"frank :: sugarcoated\",\"left_pole\":\"frank\",\"right_pole\":\"sugarcoated\",\"care\":0,\"fairness\":1,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":1,\"notes\":\"Frank relates to honesty (Fairness virtue, General virtue); sugarcoated implies dishonesty.\"},{\"trait_index\":348,\"differential\":\"naive :: paranoid\",\"left_pole\":\"naive\",\"right_pole\":\"paranoid\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":349,\"differential\":\"gullible :: cynical\",\"left_pole\":\"gullible\",\"right_pole\":\"cynical\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":350,\"differential\":\"motivated :: unmotivated\",\"left_pole\":\"motivated\",\"right_pole\":\"unmotivated\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"}]}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3538,
+      "candidatesTokenCount": 1774,
+      "totalTokenCount": 8255,
+      "cachedContentTokenCount": 2420,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3538
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2420
+        }
+      ],
+      "thoughtsTokenCount": 2943,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "aBowatiNJLel1MkP0dOMoQ0"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 326,
+        "differential": "jealous :: opinionated",
+        "left_pole": "jealous",
+        "right_pole": "opinionated",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 327,
+        "differential": "protagonist :: antagonist",
+        "left_pole": "protagonist",
+        "right_pole": "antagonist",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Antagonist implies general moral badness."
+      },
+      {
+        "trait_index": 328,
+        "differential": "devoted :: unfaithful",
+        "left_pole": "devoted",
+        "right_pole": "unfaithful",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Devoted relates to loyalty; unfaithful relates to disloyalty/betrayal (IngroupVice, AuthorityVice)."
+      },
+      {
+        "trait_index": 329,
+        "differential": "fearmongering :: reassuring",
+        "left_pole": "fearmongering",
+        "right_pole": "reassuring",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Fearmongering relates to causing harm (Care vice); reassuring relates to preventing harm (Care virtue)."
+      },
+      {
+        "trait_index": 330,
+        "differential": "common sense :: analysis",
+        "left_pole": "common sense",
+        "right_pole": "analysis",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 331,
+        "differential": "unemotional :: emotional",
+        "left_pole": "unemotional",
+        "right_pole": "emotional",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 332,
+        "differential": "rap :: rock",
+        "left_pole": "rap",
+        "right_pole": "rock",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 333,
+        "differential": "genocidal :: not genocidal",
+        "left_pole": "genocidal",
+        "right_pole": "not genocidal",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Genocidal is extreme harm (Care vice) and a general vice."
+      },
+      {
+        "trait_index": 334,
+        "differential": "cat person :: dog person",
+        "left_pole": "cat person",
+        "right_pole": "dog person",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 335,
+        "differential": "indie :: pop",
+        "left_pole": "indie",
+        "right_pole": "pop",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 336,
+        "differential": "cultured :: rustic",
+        "left_pole": "cultured",
+        "right_pole": "rustic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 337,
+        "differential": "tautology :: oxymoron",
+        "left_pole": "tautology",
+        "right_pole": "oxymoron",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 338,
+        "differential": "bad boy :: white knight",
+        "left_pole": "bad boy",
+        "right_pole": "white knight",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "White knight relates to protection (Care virtue); bad boy relates to defiance (Authority vice) and general badness."
+      },
+      {
+        "trait_index": 339,
+        "differential": "princess :: queen",
+        "left_pole": "princess",
+        "right_pole": "queen",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 340,
+        "differential": "hypochondriac :: stoic",
+        "left_pole": "hypochondriac",
+        "right_pole": "stoic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 341,
+        "differential": "yes-man :: contrarian",
+        "left_pole": "yes-man",
+        "right_pole": "contrarian",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "Yes-man implies deference to authority; contrarian implies defiance of authority and valuing liberty."
+      },
+      {
+        "trait_index": 342,
+        "differential": "giving :: receiving",
+        "left_pole": "giving",
+        "right_pole": "receiving",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Giving relates to kindness and benefit (Care virtue)."
+      },
+      {
+        "trait_index": 343,
+        "differential": "chic :: cheesy",
+        "left_pole": "chic",
+        "right_pole": "cheesy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 344,
+        "differential": "celebrity :: boy/girl-next-door",
+        "left_pole": "celebrity",
+        "right_pole": "boy/girl-next-door",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 345,
+        "differential": "goth :: flower child",
+        "left_pole": "goth",
+        "right_pole": "flower child",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 346,
+        "differential": "summer :: winter",
+        "left_pole": "summer",
+        "right_pole": "winter",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 347,
+        "differential": "frank :: sugarcoated",
+        "left_pole": "frank",
+        "right_pole": "sugarcoated",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Frank relates to honesty (Fairness virtue, General virtue); sugarcoated implies dishonesty."
+      },
+      {
+        "trait_index": 348,
+        "differential": "naive :: paranoid",
+        "left_pole": "naive",
+        "right_pole": "paranoid",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 349,
+        "differential": "gullible :: cynical",
+        "left_pole": "gullible",
+        "right_pole": "cynical",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 350,
+        "differential": "motivated :: unmotivated",
+        "left_pole": "motivated",
+        "right_pole": "unmotivated",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\"ratings\": [{\"trait_index\": 76, \"differential\": \"quarrelsome :: warm\", \"left_pole\": \"quarrelsome\", \"right_pole\": \"warm\", \"care\": 1, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"warm relates to care; quarrelsome relates to harm.\"}, {\"trait_index\": 77, \"differential\": \"nerd :: jock\", \"left_pole\": \"nerd\", \"right_pole\": \"jock\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No clear moral foundation.\"}, {\"trait_index\": 78, \"differential\": \"lowbrow :: highbrow\", \"left_pole\": \"lowbrow\", \"right_pole\": \"highbrow\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"highbrow relates to refinement/elevation (purity); lowbrow could be seen as less refined.\"}, {\"trait_index\": 79, \"differential\": \"selfish :: altruistic\", \"left_pole\": \"selfish\", \"right_pole\": \"altruistic\", \"care\": 1, \"fairness\": 1, \"loyalty\": 1, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"altruistic relates to care, fairness, loyalty; selfish relates to harm, unfairness, disloyalty.\"}, {\"trait_index\": 80, \"differential\": \"autistic :: neurotypical\", \"left_pole\": \"autistic\", \"right_pole\": \"neurotypical\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No moral foundation.\"}, {\"trait_index\": 81, \"differential\": \"angelic :: demonic\", \"left_pole\": \"angelic\", \"right_pole\": \"demonic\", \"care\": 1, \"fairness\": 1, \"loyalty\": 1, \"authority\": 1, \"purity\": 1, \"liberty\": 1, \"general\": 1, \"notes\": \"Both poles strongly relate to multiple foundations, especially purity and general morality.\"}, {\"trait_index\": 82, \"differential\": \"hesitant :: decisive\", \"left_pole\": \"hesitant\", \"right_pole\": \"decisive\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"decisive can be a virtue of leadership (authority).\"}, {\"trait_index\": 83, \"differential\": \"devout :: heathen\", \"left_pole\": \"devout\", \"right_pole\": \"heathen\", \"care\": 0, \"fairness\": 0, \"loyalty\": 1, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 1, \"notes\": \"devout relates to loyalty, authority, purity; heathen relates to disloyalty, defiance, impurity.\"}, {\"trait_index\": 84, \"differential\": \"cruel :: kind\", \"left_pole\": \"cruel\", \"right_pole\": \"kind\", \"care\": 1, \"fairness\": 1, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 1, \"general\": 1, \"notes\": \"kind relates to care; cruel relates to harm, unfairness, and potentially oppression.\"}, {\"trait_index\": 85, \"differential\": \"direct :: roundabout\", \"left_pole\": \"direct\", \"right_pole\": \"roundabout\", \"care\": 0, \"fairness\": 1, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"direct can relate to honesty (fairness).\"}, {\"trait_index\": 86, \"differential\": \"mathematical :: literary\", \"left_pole\": \"mathematical\", \"right_pole\": \"literary\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No moral foundation.\"}, {\"trait_index\": 87, \"differential\": \"blue-collar :: ivory-tower\", \"left_pole\": \"blue-collar\", \"right_pole\": \"ivory-tower\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No strong moral foundation.\"}, {\"trait_index\": 88, \"differential\": \"slovenly :: stylish\", \"left_pole\": \"slovenly\", \"right_pole\": \"stylish\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"slovenly relates to uncleanness (purity); stylish relates to refinement (purity).\"}, {\"trait_index\": 89, \"differential\": \"playful :: shy\", \"left_pole\": \"playful\", \"right_pole\": \"shy\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No moral foundation.\"}, {\"trait_index\": 90, \"differential\": \"serious :: bold\", \"left_pole\": \"serious\", \"right_pole\": \"bold\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 1, \"general\": 0, \"notes\": \"bold can relate to leadership (authority) or challenging oppression (liberty).\"}, {\"trait_index\": 91, \"differential\": \"charming :: trusting\", \"left_pole\": \"charming\", \"right_pole\": \"trusting\", \"care\": 1, \"fairness\": 1, \"loyalty\": 1, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"charming can be used to exploit (harm, unfairness, disloyalty); trusting relates to amity (care).\"}, {\"trait_index\": 92, \"differential\": \"awkward :: suspicious\", \"left_pole\": \"awkward\", \"right_pole\": \"suspicious\", \"care\": 0, \"fairness\": 0, \"loyalty\": 1, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"suspicious can relate to vigilance against disloyalty.\"}, {\"trait_index\": 93, \"differential\": \"hipster :: basic\", \"left_pole\": \"hipster\", \"right_pole\": \"basic\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No clear moral foundation.\"}, {\"trait_index\": 94, \"differential\": \"coordinated :: clumsy\", \"left_pole\": \"coordinated\", \"right_pole\": \"clumsy\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No moral foundation.\"}, {\"trait_index\": 95, \"differential\": \"funny :: humorless\", \"left_pole\": \"funny\", \"right_pole\": \"humorless\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No moral foundation.\"}, {\"trait_index\": 96, \"differential\": \"politically correct :: edgy\", \"left_pole\": \"politically correct\", \"right_pole\": \"edgy\", \"care\": 1, \"fairness\": 1, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 1, \"general\": 1, \"notes\": \"politically correct relates to care, fairness, authority, purity; edgy relates to harm, unfairness, defiance, impurity, and liberty (challenging restrictions).\"}, {\"trait_index\": 97, \"differential\": \"rich :: poor\", \"left_pole\": \"rich\", \"right_pole\": \"poor\", \"care\": 0, \"fairness\": 1, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 1, \"general\": 0, \"notes\": \"rich vs poor relates to fairness (equality/inequality), authority (status), and liberty (freedom from constraint).\"}, {\"trait_index\": 98, \"differential\": \"hard :: soft\", \"left_pole\": \"hard\", \"right_pole\": \"soft\", \"care\": 1, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"soft relates to gentleness (care); hard can relate to lack of care or strict authority.\"}, {\"trait_index\": 99, \"differential\": \"remote :: involved\", \"left_pole\": \"remote\", \"right_pole\": \"involved\", \"care\": 1, \"fairness\": 0, \"loyalty\": 1, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"involved relates to care, loyalty, and authority (engagement); remote implies lack of engagement.\"}, {\"trait_index\": 100, \"differential\": \"metaphorical :: literal\", \"left_pole\": \"metaphorical\", \"right_pole\": \"literal\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"No moral foundation.\"}]}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3492,
+      "candidatesTokenCount": 2485,
+      "totalTokenCount": 10832,
+      "cachedContentTokenCount": 3217,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3492
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3217
+        }
+      ],
+      "thoughtsTokenCount": 4855,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "Ascqas7yD7Dc_uMP1fPfYQ"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 76,
+        "differential": "quarrelsome :: warm",
+        "left_pole": "quarrelsome",
+        "right_pole": "warm",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "warm relates to care; quarrelsome relates to harm."
+      },
+      {
+        "trait_index": 77,
+        "differential": "nerd :: jock",
+        "left_pole": "nerd",
+        "right_pole": "jock",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No clear moral foundation."
+      },
+      {
+        "trait_index": 78,
+        "differential": "lowbrow :: highbrow",
+        "left_pole": "lowbrow",
+        "right_pole": "highbrow",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "highbrow relates to refinement/elevation (purity); lowbrow could be seen as less refined."
+      },
+      {
+        "trait_index": 79,
+        "differential": "selfish :: altruistic",
+        "left_pole": "selfish",
+        "right_pole": "altruistic",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "altruistic relates to care, fairness, loyalty; selfish relates to harm, unfairness, disloyalty."
+      },
+      {
+        "trait_index": 80,
+        "differential": "autistic :: neurotypical",
+        "left_pole": "autistic",
+        "right_pole": "neurotypical",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No moral foundation."
+      },
+      {
+        "trait_index": 81,
+        "differential": "angelic :: demonic",
+        "left_pole": "angelic",
+        "right_pole": "demonic",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Both poles strongly relate to multiple foundations, especially purity and general morality."
+      },
+      {
+        "trait_index": 82,
+        "differential": "hesitant :: decisive",
+        "left_pole": "hesitant",
+        "right_pole": "decisive",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "decisive can be a virtue of leadership (authority)."
+      },
+      {
+        "trait_index": 83,
+        "differential": "devout :: heathen",
+        "left_pole": "devout",
+        "right_pole": "heathen",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "devout relates to loyalty, authority, purity; heathen relates to disloyalty, defiance, impurity."
+      },
+      {
+        "trait_index": 84,
+        "differential": "cruel :: kind",
+        "left_pole": "cruel",
+        "right_pole": "kind",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "kind relates to care; cruel relates to harm, unfairness, and potentially oppression."
+      },
+      {
+        "trait_index": 85,
+        "differential": "direct :: roundabout",
+        "left_pole": "direct",
+        "right_pole": "roundabout",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "direct can relate to honesty (fairness)."
+      },
+      {
+        "trait_index": 86,
+        "differential": "mathematical :: literary",
+        "left_pole": "mathematical",
+        "right_pole": "literary",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No moral foundation."
+      },
+      {
+        "trait_index": 87,
+        "differential": "blue-collar :: ivory-tower",
+        "left_pole": "blue-collar",
+        "right_pole": "ivory-tower",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No strong moral foundation."
+      },
+      {
+        "trait_index": 88,
+        "differential": "slovenly :: stylish",
+        "left_pole": "slovenly",
+        "right_pole": "stylish",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "slovenly relates to uncleanness (purity); stylish relates to refinement (purity)."
+      },
+      {
+        "trait_index": 89,
+        "differential": "playful :: shy",
+        "left_pole": "playful",
+        "right_pole": "shy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No moral foundation."
+      },
+      {
+        "trait_index": 90,
+        "differential": "serious :: bold",
+        "left_pole": "serious",
+        "right_pole": "bold",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "bold can relate to leadership (authority) or challenging oppression (liberty)."
+      },
+      {
+        "trait_index": 91,
+        "differential": "charming :: trusting",
+        "left_pole": "charming",
+        "right_pole": "trusting",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "charming can be used to exploit (harm, unfairness, disloyalty); trusting relates to amity (care)."
+      },
+      {
+        "trait_index": 92,
+        "differential": "awkward :: suspicious",
+        "left_pole": "awkward",
+        "right_pole": "suspicious",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "suspicious can relate to vigilance against disloyalty."
+      },
+      {
+        "trait_index": 93,
+        "differential": "hipster :: basic",
+        "left_pole": "hipster",
+        "right_pole": "basic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No clear moral foundation."
+      },
+      {
+        "trait_index": 94,
+        "differential": "coordinated :: clumsy",
+        "left_pole": "coordinated",
+        "right_pole": "clumsy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No moral foundation."
+      },
+      {
+        "trait_index": 95,
+        "differential": "funny :: humorless",
+        "left_pole": "funny",
+        "right_pole": "humorless",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No moral foundation."
+      },
+      {
+        "trait_index": 96,
+        "differential": "politically correct :: edgy",
+        "left_pole": "politically correct",
+        "right_pole": "edgy",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 1,
+        "general": 1,
+        "notes": "politically correct relates to care, fairness, authority, purity; edgy relates to harm, unfairness, defiance, impurity, and liberty (challenging restrictions)."
+      },
+      {
+        "trait_index": 97,
+        "differential": "rich :: poor",
+        "left_pole": "rich",
+        "right_pole": "poor",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "rich vs poor relates to fairness (equality/inequality), authority (status), and liberty (freedom from constraint)."
+      },
+      {
+        "trait_index": 98,
+        "differential": "hard :: soft",
+        "left_pole": "hard",
+        "right_pole": "soft",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "soft relates to gentleness (care); hard can relate to lack of care or strict authority."
+      },
+      {
+        "trait_index": 99,
+        "differential": "remote :: involved",
+        "left_pole": "remote",
+        "right_pole": "involved",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "involved relates to care, loyalty, and authority (engagement); remote implies lack of engagement."
+      },
+      {
+        "trait_index": 100,
+        "differential": "metaphorical :: literal",
+        "left_pole": "metaphorical",
+        "right_pole": "literal",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "No moral foundation."
+      }
+    ]
+  }
+}
