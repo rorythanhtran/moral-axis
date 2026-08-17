@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+101	biased :: impartial	biased	impartial	0	1	0	0	0	0	0	Impartial relates to fairness.
+102	mundane :: extraordinary	mundane	extraordinary	0	0	0	0	0	0	0	
+103	tiresome :: interesting	tiresome	interesting	0	0	0	0	0	0	0	
+104	smooth :: rough	smooth	rough	0	0	0	0	0	0	0	
+105	spicy :: mild	spicy	mild	0	0	0	0	0	0	0	
+106	enslaved :: emancipated	enslaved	emancipated	0	0	0	0	0	1	0	Emancipated relates to liberty.
+107	optimistic :: pessimistic	optimistic	pessimistic	0	0	0	0	0	0	0	
+108	sickly :: healthy	sickly	healthy	0	0	0	0	1	0	0	Healthy relates to purity.
+109	luddite :: technophile	luddite	technophile	0	0	0	0	0	0	0	
+110	vain :: demure	vain	demure	0	0	0	0	1	0	0	Demure relates to purity.
+111	high-tech :: low-tech	high-tech	low-tech	0	0	0	0	0	0	0	
+112	flexible :: rigid	flexible	rigid	0	0	0	0	0	0	0	
+113	cosmopolitan :: provincial	cosmopolitan	provincial	0	0	0	0	0	0	0	
+114	arcane :: mainstream	arcane	mainstream	0	0	0	0	0	0	0	
+115	outlaw :: sheriff	outlaw	sheriff	0	0	0	1	0	0	0	Sheriff relates to authority.
+116	pronatalist :: child free	pronatalist	child free	0	0	0	0	0	0	0	
+117	sad :: happy	sad	happy	0	0	0	0	0	0	0	
+118	jealous :: compersive	jealous	compersive	0	0	0	0	0	0	0	
+119	bitter :: sweet	bitter	sweet	0	0	0	0	0	0	0	
+120	resigned :: resistant	resigned	resistant	0	0	0	0	0	1	0	Resistant relates to liberty.
+121	sarcastic :: genuine	sarcastic	genuine	0	0	0	0	0	0	0	
+122	human :: animalistic	human	animalistic	0	0	0	0	1	0	0	Human relates to purity.
+123	sporty :: bookish	sporty	bookish	0	0	0	0	0	0	0	
+124	moderate :: extreme	moderate	extreme	0	0	0	0	0	0	0	
+125	angry :: good-humored	angry	good-humored	0	0	0	0	0	0	0	

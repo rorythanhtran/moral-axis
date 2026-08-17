@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+376	capitalist :: communist	capitalist	communist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+377	positive :: negative	positive	negative	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+379	thinker :: feeler	thinker	feeler	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+381	questioning :: believing	questioning	believing	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+382	proud :: apologetic	proud	apologetic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+383	bubbly :: flat	bubbly	flat	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+385	woke :: problematic	woke	problematic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+386	grumpy :: cheery	grumpy	cheery	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+387	hippie :: militaristic	hippie	militaristic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+389	flawed :: perfect	flawed	perfect	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+395	friendly :: unfriendly	friendly	unfriendly	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+396	innovative :: routine	innovative	routine	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+397	delicate :: coarse	delicate	coarse	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+398	resentful :: euphoric	resentful	euphoric	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+399	uptight :: easy	uptight	easy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+400	blue :: red	blue	red	0	0	0	0	0	0	0	ERROR: no valid model response after retries

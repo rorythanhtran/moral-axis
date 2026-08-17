@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+101	biased :: impartial	biased	impartial	0	1	0	0	0	0	0	Both poles map directly to fairness (bias=FairnessVice, impartial=FairnessVirtue).
+102	mundane :: extraordinary	mundane	extraordinary	0	0	0	0	0	0	0	Descriptive quality dimension; no clear moral foundation relevance.
+103	tiresome :: interesting	tiresome	interesting	0	0	0	0	0	0	0	Descriptive/aesthetic dimension; no moral foundation relevance.
+104	smooth :: rough	smooth	rough	0	0	0	0	0	0	0	Textural/stylistic dimension; no moral foundation relevance.
+105	spicy :: mild	spicy	mild	0	0	0	0	0	0	0	Sensory/stylistic dimension; no moral foundation relevance.
+106	enslaved :: emancipated	enslaved	emancipated	1	1	0	0	0	1	0	Slavery involves harm/care, denial of rights/fairness, and oppression of liberty; emancipation is the liberty pole.
+107	optimistic :: pessimistic	optimistic	pessimistic	0	0	0	0	0	0	0	Attitudinal/dispositional dimension; no moral foundation relevance.
+108	sickly :: healthy	sickly	healthy	0	0	0	0	1	0	0	Health/disease relates to purity foundation (contamination, bodily integrity); sickly pole connects to PurityVice via disease.
+109	luddite :: technophile	luddite	technophile	0	0	0	0	0	0	0	Attitude toward technology; no clear moral foundation relevance.
+110	vain :: demure	vain	demure	0	0	0	0	1	0	0	Demure relates to modesty (PurityVirtue); vanity is its opposite.
+111	high-tech :: low-tech	high-tech	low-tech	0	0	0	0	0	0	0	Technological preference dimension; no moral foundation relevance.
+112	flexible :: rigid	flexible	rigid	0	0	0	0	0	0	0	Cognitive/behavioral style dimension; no clear moral foundation relevance.
+113	cosmopolitan :: provincial	cosmopolitan	provincial	0	0	1	0	0	0	0	Provincial pole relates to ingroup/loyalty (favoring local community over broader world).
+114	arcane :: mainstream	arcane	mainstream	0	0	0	0	0	0	0	Stylistic/cultural dimension; no moral foundation relevance.
+115	outlaw :: sheriff	outlaw	sheriff	0	1	0	1	0	1	0	Sheriff represents law/authority and justice/fairness; outlaw represents defiance of authority and liberty from law.
+116	pronatalist :: child free	pronatalist	child free	0	0	0	0	0	1	0	Child free pole relates to personal liberty/autonomy over reproductive choices.
+117	sad :: happy	sad	happy	0	0	0	0	0	0	0	Emotional state dimension; no moral foundation relevance.
+118	jealous :: compersive	jealous	compersive	1	0	0	0	0	0	0	Compersive (feeling joy at others' joy) relates to care/empathy; jealousy involves harm to relationships.
+119	bitter :: sweet	bitter	sweet	0	0	0	0	0	0	0	Primarily sensory/temperamental dimension; no clear moral foundation relevance.
+120	resigned :: resistant	resigned	resistant	0	0	0	0	0	1	0	Resistant pole relates to liberty foundation (reactance against oppression/domination).
+121	sarcastic :: genuine	sarcastic	genuine	0	1	0	0	0	0	0	Genuine relates to honesty (FairnessVirtue in dictionary); sarcasm can involve deception.
+122	human :: animalistic	human	animalistic	0	0	0	0	1	0	0	Animalistic pole relates to purity foundation (carnal, less elevated; purity involves striving to live in a less carnal way).
+123	sporty :: bookish	sporty	bookish	0	0	0	0	0	0	0	Lifestyle/interest dimension; no moral foundation relevance.
+124	moderate :: extreme	moderate	extreme	0	0	0	0	0	0	0	Degree/intensity dimension; no clear moral foundation relevance on its own.
+125	angry :: good-humored	angry	good-humored	1	0	0	0	0	0	0	Good-humored relates to care/kindness; anger can involve harm to others.

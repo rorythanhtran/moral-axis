@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+301	empath :: psychopath	empath	psychopath	1	0	0	0	0	0	0	Empath directly relates to empathy/care.
+302	haunted :: blissful	haunted	blissful	0	0	0	0	0	0	0	
+303	entitled :: grateful	entitled	grateful	0	1	0	0	0	0	1	Entitlement/gratitude can involve deservedness and reciprocal obligation.
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	0	0	
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	0	0	0	0	
+306	fire :: water	fire	water	0	0	0	0	0	0	0	
+307	earth :: air	earth	air	0	0	0	0	0	0	0	
+308	lover :: fighter	lover	fighter	1	0	0	0	0	0	0	Fighter relates to conflict/harm; lover to affection.
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	0	0	
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	0	0	
+311	twitchy :: still	twitchy	still	0	0	0	0	0	0	0	
+312	freak :: normie	freak	normie	0	0	0	0	0	0	0	
+313	thinker :: doer	thinker	doer	0	0	0	0	0	0	0	
+314	hard-work :: natural-talent	hard-work	natural-talent	0	0	0	0	1	0	1	Hard work can imply self-discipline and virtue.
+315	stingy :: generous	stingy	generous	1	1	0	0	0	0	1	Generosity/stinginess involve helping and resource sharing.
+316	stubborn :: accommodating	stubborn	accommodating	0	0	0	0	0	0	0	
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	1	0	1	Thrifty/extravagant relates to restraint versus excess.
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	0	0	0	0	
+319	two-faced :: one-faced	two-faced	one-faced	0	1	0	0	0	0	1	Two-faced implies dishonesty or duplicity.
+320	plastic :: wooden	plastic	wooden	0	0	0	0	0	0	0	
+321	neutral :: opinionated	neutral	opinionated	0	0	0	0	0	0	0	
+322	chivalrous :: businesslike	chivalrous	businesslike	1	0	0	1	0	0	1	Chivalrous suggests protection, honor, and traditional conduct.
+323	high standards :: desperate	high standards	desperate	0	0	0	0	0	0	0	
+324	on-time :: tardy	on-time	tardy	0	0	0	1	0	0	1	Punctuality relates to duty, order, and social obligation.
+325	everyman :: chosen one	everyman	chosen one	0	0	0	1	0	0	0	Chosen one can imply special status or rank.

@@ -1,0 +1,241 @@
+{
+  "api_response": {
+    "id": "88f160eb-5058-94db-999f-b423230cf530",
+    "object": "chat.completion",
+    "created": 1782929141,
+    "model": "grok-4.3",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\n  \"ratings\": [\n    {\n      \"trait_index\": 451,\n      \"differential\": \"social chameleon :: strong identity\",\n      \"left_pole\": \"social chameleon\",\n      \"right_pole\": \"strong identity\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 1,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"left pole matches disloyalty\"\n    },\n    {\n      \"trait_index\": 452,\n      \"differential\": \"awkward :: comfortable\",\n      \"left_pole\": \"awkward\",\n      \"right_pole\": \"comfortable\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 453,\n      \"differential\": \"sincere :: irreverent\",\n      \"left_pole\": \"sincere\",\n      \"right_pole\": \"irreverent\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"sincere matches honest; irreverent matches disrespect\"\n    },\n    {\n      \"trait_index\": 454,\n      \"differential\": \"intuitive :: analytical\",\n      \"left_pole\": \"intuitive\",\n      \"right_pole\": \"analytical\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 455,\n      \"differential\": \"cringing away :: welcoming experience\",\n      \"left_pole\": \"cringing away\",\n      \"right_pole\": \"welcoming experience\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 456,\n      \"differential\": \"stereotypical :: boundary breaking\",\n      \"left_pole\": \"stereotypical\",\n      \"right_pole\": \"boundary breaking\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 1,\n      \"general\": 0,\n      \"notes\": \"right pole matches defy/oppose\"\n    },\n    {\n      \"trait_index\": 457,\n      \"differential\": \"energetic :: mellow\",\n      \"left_pole\": \"energetic\",\n      \"right_pole\": \"mellow\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 458,\n      \"differential\": \"hopeful :: fearful\",\n      \"left_pole\": \"hopeful\",\n      \"right_pole\": \"fearful\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 459,\n      \"differential\": \"likes change :: resists change\",\n      \"left_pole\": \"likes change\",\n      \"right_pole\": \"resists change\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"right pole matches tradition\"\n    },\n    {\n      \"trait_index\": 460,\n      \"differential\": \"manic :: mild\",\n      \"left_pole\": \"manic\",\n      \"right_pole\": \"mild\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 461,\n      \"differential\": \"old-fashioned :: progressive\",\n      \"left_pole\": \"old-fashioned\",\n      \"right_pole\": \"progressive\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"left pole matches tradition\"\n    },\n    {\n      \"trait_index\": 462,\n      \"differential\": \"gross :: hygienic\",\n      \"left_pole\": \"gross\",\n      \"right_pole\": \"hygienic\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"left pole matches disgust/gross\"\n    },\n    {\n      \"trait_index\": 463,\n      \"differential\": \"stable :: unstable\",\n      \"left_pole\": \"stable\",\n      \"right_pole\": \"unstable\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 464,\n      \"differential\": \"overthinker :: underthinker\",\n      \"left_pole\": \"overthinker\",\n      \"right_pole\": \"underthinker\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    }\n  ]\n}",
+          "reasoning_content": "The task is to classify personality trait differentials according to Moral Foundations Theory. I need to rate each trait differential for care, fairness, loyalty, authority, purity, liberty, and gener...First, the user has provided 14 traits to rate, from 451 to 464.",
+          "refusal": null
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3342,
+      "completion_tokens": 1482,
+      "total_tokens": 5452,
+      "prompt_tokens_details": {
+        "text_tokens": 3342,
+        "audio_tokens": 0,
+        "image_tokens": 0,
+        "cached_tokens": 3136
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 628,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      },
+      "num_sources_used": 0,
+      "cost_in_usd_ticks": 61597000
+    },
+    "system_fingerprint": "fp_eb3c003fc66c14ed",
+    "service_tier": "default"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 451,
+        "differential": "social chameleon :: strong identity",
+        "left_pole": "social chameleon",
+        "right_pole": "strong identity",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "left pole matches disloyalty"
+      },
+      {
+        "trait_index": 452,
+        "differential": "awkward :: comfortable",
+        "left_pole": "awkward",
+        "right_pole": "comfortable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 453,
+        "differential": "sincere :: irreverent",
+        "left_pole": "sincere",
+        "right_pole": "irreverent",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "sincere matches honest; irreverent matches disrespect"
+      },
+      {
+        "trait_index": 454,
+        "differential": "intuitive :: analytical",
+        "left_pole": "intuitive",
+        "right_pole": "analytical",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 455,
+        "differential": "cringing away :: welcoming experience",
+        "left_pole": "cringing away",
+        "right_pole": "welcoming experience",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 456,
+        "differential": "stereotypical :: boundary breaking",
+        "left_pole": "stereotypical",
+        "right_pole": "boundary breaking",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "right pole matches defy/oppose"
+      },
+      {
+        "trait_index": 457,
+        "differential": "energetic :: mellow",
+        "left_pole": "energetic",
+        "right_pole": "mellow",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 458,
+        "differential": "hopeful :: fearful",
+        "left_pole": "hopeful",
+        "right_pole": "fearful",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 459,
+        "differential": "likes change :: resists change",
+        "left_pole": "likes change",
+        "right_pole": "resists change",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "right pole matches tradition"
+      },
+      {
+        "trait_index": 460,
+        "differential": "manic :: mild",
+        "left_pole": "manic",
+        "right_pole": "mild",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 461,
+        "differential": "old-fashioned :: progressive",
+        "left_pole": "old-fashioned",
+        "right_pole": "progressive",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "left pole matches tradition"
+      },
+      {
+        "trait_index": 462,
+        "differential": "gross :: hygienic",
+        "left_pole": "gross",
+        "right_pole": "hygienic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "left pole matches disgust/gross"
+      },
+      {
+        "trait_index": 463,
+        "differential": "stable :: unstable",
+        "left_pole": "stable",
+        "right_pole": "unstable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 464,
+        "differential": "overthinker :: underthinker",
+        "left_pole": "overthinker",
+        "right_pole": "underthinker",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      }
+    ]
+  }
+}

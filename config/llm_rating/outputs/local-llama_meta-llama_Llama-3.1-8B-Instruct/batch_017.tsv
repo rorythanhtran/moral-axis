@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+401	slumbering :: insomniac	slumbering	insomniac	0	0	0	0	0	0	1	0 lacks clear moral weight
+402	spirited :: lifeless	spirited	lifeless	0	0	0	0	0	0	1	0 lacks clear moral weight
+403	outgoing :: withdrawn	outgoing	withdrawn	0	0	0	0	0	0	1	0 lacks clear moral weight
+404	Hates PDA :: Constant PDA	Hates PDA	Constant PDA	0	0	0	0	0	0	1	0 lacks clear moral weight
+405	buffoon :: charmer	buffoon	charmer	0	0	0	0	0	0	1	0 lacks clear moral weight
+406	sloppy :: fussy	sloppy	fussy	0	0	0	0	0	0	1	0 lacks clear moral weight
+407	accurate :: off target	accurate	off target	0	0	0	0	0	0	1	0 lacks clear moral weight
+408	harsh :: gentle	harsh	gentle	0	1	0	0	0	0	0	0 contrasts harsh and gentle
+409	clinical :: heartfelt	clinical	heartfelt	0	0	0	0	0	0	1	0 lacks clear moral weight
+410	inappropriate :: seemly	inappropriate	seemly	0	1	0	0	0	0	0	0 contrasts seemly and unseemly
+411	smug :: sheepish	smug	sheepish	0	0	0	0	0	0	1	0 lacks clear moral weight
+412	fake :: real	fake	real	0	0	0	0	0	0	1	0 lacks clear moral weight
+413	popular :: rejected	popular	rejected	0	0	0	0	0	0	1	0 lacks clear moral weight
+414	catty :: supportive	catty	supportive	0	1	0	0	0	0	0	0 contrasts supportive and unsupportive
+415	chronically single :: serial dater	chronically single	serial dater	0	0	0	0	0	0	1	0 lacks clear moral weight
+416	people-person :: things-person	people-person	things-person	0	0	0	0	0	0	1	0 lacks clear moral weight
+417	eager :: reluctant	eager	reluctant	0	0	0	0	0	0	1	0 lacks clear moral weight
+418	goal-oriented :: experience-oriented	goal-oriented	experience-oriented	0	0	0	0	0	0	1	0 lacks clear moral weight
+419	outdoorsy :: indoorsy	outdoorsy	indoorsy	0	0	0	0	0	0	1	0 lacks clear moral weight
+420	divine :: earthly	divine	earthly	0	0	0	0	1	0	0	0 contrasts earthly and divine
+421	foodie :: unenthusiastic about food	foodie	unenthusiastic about food	0	0	0	0	0	0	1	0 lacks clear moral weight
+422	chill :: sassy	chill	sassy	0	0	0	0	0	0	1	0 lacks clear moral weight
+423	glamorous :: spartan	glamorous	spartan	0	0	0	0	1	0	0	0 contrasts spartan and glamorous
+424	prankster :: anti-prank	prankster	anti-prank	0	0	0	0	0	0	1	0 lacks clear moral weight
+425	goofy :: unfrivolous	goofy	unfrivolous	0	0	0	0	0	0	1	0 lacks clear moral weight

@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+151	vague :: precise	vague	precise	0	0	0	0	0	0	0	
+152	philosophical :: real	philosophical	real	0	0	0	0	0	0	0	
+153	modern :: historical	modern	historical	0	0	0	1	0	0	0	Right pole relates to tradition, which maps to authority foundation.
+154	judgemental :: accepting	judgemental	accepting	0	1	0	0	0	0	0	Accepting relates to tolerance/impartiality; judgemental relates to bias/prejudice, both fairness-relevant.
+155	average :: deviant	average	deviant	0	0	0	1	1	0	0	Deviant implies violation of norms (authority) and impurity/contamination (purity).
+156	gossiping :: confidential	gossiping	confidential	0	1	1	0	0	0	0	Gossiping involves betrayal of trust (loyalty) and dishonesty/unfairness; confidential reflects trustworthiness.
+157	official :: backdoor	official	backdoor	0	1	0	1	0	0	0	Official relates to legitimate authority/order; backdoor implies circumventing rules, touching fairness and authority.
+158	scholarly :: crafty	scholarly	crafty	0	0	0	0	0	0	0	
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	0	0	
+160	explorer :: builder	explorer	builder	0	0	0	0	0	0	0	
+161	captain :: first-mate	captain	first-mate	0	0	0	1	0	0	0	Reflects leadership/followership hierarchy and rank, core to authority foundation.
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	0	0	
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	Independent pole relates to liberty/autonomy; codependent implies constrained freedom.
+164	family-first :: work-first	family-first	work-first	1	0	1	0	0	0	0	Family-first relates to care/nurturance and ingroup loyalty toward family.
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	Manicured/scruffy relate to cleanliness and bodily presentation, touching purity foundation.
+166	wild :: tame	wild	tame	0	0	0	1	1	1	0	Wild implies freedom from constraint (liberty) and lack of order (authority); tame implies submission to norms. Purity relevant via naturalness/carnal dimension.
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	0	0	1	Prestigious relates to status/rank (authority); disreputable implies moral failing (general).
+168	scandalous :: proper	scandalous	proper	0	0	0	1	1	0	1	Proper maps to authority norms and purity; scandalous implies moral/social transgression (general).
+169	unprepared :: hoarder	unprepared	hoarder	0	1	0	0	0	0	0	Hoarding can relate to fairness concerns around equitable distribution of resources.
+170	sheltered :: street-smart	sheltered	street-smart	0	0	0	0	0	0	0	
+171	open-minded :: close-minded	open-minded	close-minded	0	1	0	0	0	0	0	Open-minded relates to tolerance and impartiality; close-minded relates to bias/prejudice, both fairness-relevant.
+172	permanent :: transient	permanent	transient	0	0	0	0	0	0	0	
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	0	0	
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	Reflects hierarchical rank and leader/follower dynamic central to authority foundation.
+175	straight :: queer	straight	queer	0	1	0	0	1	1	0	Purity foundation historically invoked around sexual nonconformity; fairness/liberty relevant regarding rights and freedom from discrimination.

@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+151	vague :: precise	vague	precise	0	0	0	0	0	0	0	
+152	philosophical :: real	philosophical	real	0	0	0	0	0	0	0	
+153	modern :: historical	modern	historical	0	0	0	0	0	0	0	
+154	judgemental :: accepting	judgemental	accepting	0	1	0	0	0	0	0	Accepting suggests tolerance/impartiality.
+155	average :: deviant	average	deviant	0	0	0	1	0	0	0	Deviant suggests nonconformity to norms/order.
+156	gossiping :: confidential	gossiping	confidential	0	0	0	0	0	0	1	Gossiping can imply a general character vice.
+157	official :: backdoor	official	backdoor	0	1	0	1	0	0	1	Official maps to authority; backdoor suggests unfair or improper procedure.
+158	scholarly :: crafty	scholarly	crafty	0	0	0	0	0	0	0	
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	0	0	
+160	explorer :: builder	explorer	builder	0	0	0	0	0	0	0	
+161	captain :: first-mate	captain	first-mate	0	0	0	1	0	0	0	Roles imply hierarchy/leadership and followership.
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	0	0	
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	Independent relates to autonomy/freedom from dependence.
+164	family-first :: work-first	family-first	work-first	0	0	1	0	0	0	0	Family-first directly invokes family/ingroup priority.
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	Grooming/cleanliness aspect relates to purity.
+166	wild :: tame	wild	tame	0	0	0	1	0	1	0	Tame suggests control/submission; wild suggests freedom from constraint.
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	0	0	1	Prestige relates to status; disreputable implies bad moral reputation.
+168	scandalous :: proper	scandalous	proper	0	0	0	0	1	0	1	Scandalous/proper invokes propriety, decency, and moral transgression.
+169	unprepared :: hoarder	unprepared	hoarder	0	0	0	0	0	0	0	
+170	sheltered :: street-smart	sheltered	street-smart	1	0	0	0	0	0	0	Sheltered implies being protected.
+171	open-minded :: close-minded	open-minded	close-minded	0	1	0	0	0	0	0	Open-mindedness/closed-mindedness relates to tolerance and bias.
+172	permanent :: transient	permanent	transient	0	0	0	0	0	0	0	
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	0	0	
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	Apprentice/master implies hierarchy and authority.
+175	straight :: queer	straight	queer	0	0	0	0	0	0	0	

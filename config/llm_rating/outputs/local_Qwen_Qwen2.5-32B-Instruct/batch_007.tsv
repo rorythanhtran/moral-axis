@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+151	vague :: precise	vague	precise	0	0	0	0	0	0	0	
+152	philosophical :: real	philosophical	real	0	0	0	0	0	0	0	
+153	modern :: historical	modern	historical	0	0	0	0	0	0	0	
+154	judgemental :: accepting	judgemental	accepting	1	0	0	0	1	0	0	judgemental relates to purity
+155	average :: deviant	average	deviant	0	0	0	0	1	0	0	deviant relates to purity
+156	gossiping :: confidential	gossiping	confidential	0	0	0	0	1	0	0	gossiping relates to purity
+157	official :: backdoor	official	backdoor	0	0	0	1	0	0	0	official relates to authority
+158	scholarly :: crafty	scholarly	crafty	0	0	0	0	0	0	0	
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	0	0	
+160	explorer :: builder	explorer	builder	0	0	0	0	0	0	0	
+161	captain :: first-mate	captain	first-mate	0	0	0	1	0	0	0	captain relates to authority
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	0	0	
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	independent relates to liberty
+164	family-first :: work-first	family-first	work-first	0	0	1	0	0	0	0	family-first relates to loyalty
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	manicured relates to purity
+166	wild :: tame	wild	tame	0	0	0	0	1	0	0	tame relates to purity
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	1	0	0	prestigious relates to authority; disreputable relates to purity
+168	scandalous :: proper	scandalous	proper	0	0	0	0	1	0	0	scandalous relates to purity
+169	unprepared :: hoarder	unprepared	hoarder	0	0	0	0	0	0	0	
+170	sheltered :: street-smart	sheltered	street-smart	0	0	0	0	0	0	0	
+171	open-minded :: close-minded	open-minded	close-minded	0	0	0	0	1	0	0	close-minded relates to purity
+172	permanent :: transient	permanent	transient	0	0	0	0	0	0	0	
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	0	0	
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	master relates to authority
+175	straight :: queer	straight	queer	0	0	0	0	1	0	0	queer relates to purity

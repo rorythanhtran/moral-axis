@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+1	playful :: serious	playful	serious	0	0	0	0	0	1	0	lacks clear moral weight
+2	shy :: bold	shy	bold	0	0	0	0	0	0	0	lacks clear moral weight
+3	cheery :: sorrowful	cheery	sorrowful	0	0	0	0	0	0	0	lacks clear moral weight
+4	masculine :: feminine	masculine	feminine	0	0	0	0	0	0	0	lacks clear moral weight
+5	charming :: awkward	charming	awkward	0	0	0	0	0	0	0	lacks clear moral weight
+6	lewd :: tasteful	lewd	tasteful	0	0	0	0	1	0	0	related to purity
+7	intellectual :: physical	intellectual	physical	0	0	0	0	0	0	0	lacks clear moral weight
+8	strict :: lenient	strict	lenient	0	0	0	0	0	0	0	lacks clear moral weight
+9	refined :: rugged	refined	rugged	0	0	0	0	1	0	0	related to purity
+10	trusting :: suspicious	trusting	suspicious	0	0	0	0	0	0	0	lacks clear moral weight
+11	innocent :: worldly	innocent	worldly	0	0	0	0	1	0	0	related to purity
+12	artistic :: scientific	artistic	scientific	0	0	0	0	0	0	0	lacks clear moral weight
+13	stoic :: expressive	stoic	expressive	0	0	0	0	0	0	0	lacks clear moral weight
+14	cunning :: honorable	cunning	honorable	0	0	0	0	0	0	0	lacks clear moral weight
+15	orderly :: chaotic	orderly	chaotic	0	0	0	0	0	0	0	lacks clear moral weight
+16	normal :: weird	normal	weird	0	0	0	0	0	0	0	lacks clear moral weight
+17	competitive :: cooperative	competitive	cooperative	0	0	0	0	0	0	0	lacks clear moral weight
+18	tense :: relaxed	tense	relaxed	0	0	0	0	0	0	0	lacks clear moral weight
+19	brave :: careful	brave	careful	0	0	0	0	0	0	0	lacks clear moral weight
+20	spiritual :: skeptical	spiritual	skeptical	0	0	0	0	1	0	0	related to purity
+21	unlucky :: fortunate	unlucky	fortunate	0	0	0	0	0	0	0	lacks clear moral weight
+22	ferocious :: pacifist	ferocious	pacifist	0	0	0	0	0	0	0	lacks clear moral weight
+23	modest :: flamboyant	modest	flamboyant	0	0	0	0	1	0	0	related to purity
+24	dominant :: submissive	dominant	submissive	0	0	0	0	0	0	0	lacks clear moral weight
+25	forgiving :: vengeful	forgiving	vengeful	0	0	0	0	0	0	0	lacks clear moral weight

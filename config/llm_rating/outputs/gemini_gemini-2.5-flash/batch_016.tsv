@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+376	capitalist :: communist	capitalist	communist	1	1	1	1	0	1	1	Communist pole relates to collective care, fairness, and loyalty; capitalist to liberty. Both involve authority and general moral systems.
+377	positive :: negative	positive	negative	0	0	0	0	0	0	1	Positive disposition is generally seen as virtuous, negative as a vice.
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	1	Being grounded can be seen as a virtue of responsibility or practicality.
+379	thinker :: feeler	thinker	feeler	1	0	0	0	0	0	0	Feeler pole strongly relates to empathy and compassion (care).
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	1	Insightful is a positive intellectual virtue, generic implies a lack of such virtue.
+381	questioning :: believing	questioning	believing	0	0	0	1	0	0	0	'Questioning' relates to defying authority (08); 'believing' relates to deference to authority (07).
+382	proud :: apologetic	proud	apologetic	0	0	1	1	0	0	0	'Proud' can relate to group loyalty (05); 'apologetic' can relate to deference to authority (07).
+383	bubbly :: flat	bubbly	flat	0	0	0	0	0	0	0	
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	
+385	woke :: problematic	woke	problematic	1	1	1	1	1	1	1	'Woke' relates to preventing harm (01), justice (03), group solidarity (05), challenging authority (08), moral purity (09), and liberty. 'Problematic' relates to causing harm (02), unfairness (04), disloyalty (06), upholding unjust authority (07), impurity (10), and restricting liberty. Both have general moral implications (11).
+386	grumpy :: cheery	grumpy	cheery	0	0	0	0	0	0	0	
+387	hippie :: militaristic	hippie	militaristic	1	0	1	1	0	1	1	Hippie relates to peace/liberty/anti-authority. Militaristic relates to loyalty/authority/potential harm.
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	1	0	1	Gluttonous is a vice, opposite of self-discipline (PurityVice). Moderate is a virtue, self-discipline (PurityVirtue).
+389	flawed :: perfect	flawed	perfect	0	0	0	0	1	0	1	Perfect relates to self-improvement/elevated living (PurityVirtue). Both poles have general moral connotations.
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	Relates to taste, not morality.
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	1	0	0	1	Good manners relate to respect and tradition (Authority). Manners are also a component of general proper behavior (General).
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	1	1	0	0	Creationism often involves deference to religious authority and tradition (Authority) and is tied to spiritual or sacred beliefs (Purity).
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	0	
+395	friendly :: unfriendly	friendly	unfriendly	1	0	0	0	0	0	1	Friendliness relates to kindness and avoiding harm (Care). It is also a generally positive character trait (General).
+396	innovative :: routine	innovative	routine	0	0	0	1	0	0	0	routine relates to tradition/established order.
+397	delicate :: coarse	delicate	coarse	0	0	0	0	1	0	1	delicate relates to refinement/purity; coarse relates to lack of refinement/purity and general indecency.
+398	resentful :: euphoric	resentful	euphoric	0	1	0	0	0	1	0	resentful relates to feeling unfairly treated and resentment towards restricted liberty.
+399	uptight :: easy	uptight	easy	0	0	0	1	1	0	0	uptight can imply rigid adherence to convention/rules and self-discipline; easy can imply laxity.
+400	blue :: red	blue	red	0	0	0	0	0	0	0	

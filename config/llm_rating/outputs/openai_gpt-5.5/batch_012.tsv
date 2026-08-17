@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+276	tailor :: blacksmith	tailor	blacksmith	0	0	0	0	0	0	0	
+277	hunter :: gatherer	hunter	gatherer	1	0	0	0	0	0	0	Hunter can imply killing/harm.
+278	experimental :: reliable	experimental	reliable	0	0	0	0	0	0	1	Reliable can be a broad virtue.
+279	moist :: dry	moist	dry	0	0	0	0	0	0	0	
+280	trolling :: triggered	trolling	triggered	1	0	0	0	0	0	1	Trolling can involve harmful provocation.
+281	tattle-tale :: f***-the-police	tattle-tale	f***-the-police	0	0	1	1	0	1	0	Tattle-tale can imply betrayal; anti-police pole is anti-authority/liberty-related.
+282	punk rock :: preppy	punk rock	preppy	0	0	0	1	0	1	0	Punk rock is associated with rebellion/nonconformity.
+283	realistic :: fantastical	realistic	fantastical	0	0	0	0	0	0	0	
+284	trendy :: vintage	trendy	vintage	0	0	0	0	0	0	0	
+285	factual :: exaggerating	factual	exaggerating	0	1	0	0	0	0	1	Factual/exaggerating relates to honesty versus distortion.
+286	good-cook :: bad-cook	good-cook	bad-cook	0	0	0	0	0	0	0	Good/bad refer to skill, not moral character.
+287	comedic :: dramatic	comedic	dramatic	0	0	0	0	0	0	0	
+288	OCD :: ADHD	OCD	ADHD	0	0	0	0	0	0	0	
+289	interrupting :: attentive	interrupting	attentive	1	0	0	0	0	0	1	Attentive/interrupting can reflect consideration versus discourtesy.
+290	exhibitionist :: bashful	exhibitionist	bashful	0	0	0	0	1	0	0	Exhibitionist and bashful can invoke sexual modesty norms.
+291	badass :: weakass	badass	weakass	0	0	0	0	0	0	0	
+292	gamer :: non-gamer	gamer	non-gamer	0	0	0	0	0	0	0	
+293	random :: pointed	random	pointed	0	0	0	0	0	0	0	
+294	epic :: deep	epic	deep	0	0	0	0	0	0	0	
+295	serene :: pensive	serene	pensive	0	0	0	0	0	0	0	
+296	bored :: interested	bored	interested	0	0	0	0	0	0	0	
+297	envious :: prideful	envious	prideful	0	0	0	0	0	0	1	Envy and pride can be broad moral vices.
+298	ironic :: profound	ironic	profound	0	0	0	0	0	0	0	
+299	sexual :: asexual	sexual	asexual	0	0	0	0	1	0	0	Sexual/asexual can relate to chastity or carnality norms.
+300	clean :: perverted	clean	perverted	0	0	0	0	1	0	1	Clean and perverted directly match purity terms; perverted is morally valenced.

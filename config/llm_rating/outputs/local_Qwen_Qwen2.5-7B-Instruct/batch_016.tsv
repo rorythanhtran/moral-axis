@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+376	capitalist :: communist	capitalist	communist	0	0	0	0	0	1	0	Capitalism emphasizes individual freedom and liberty, while communism prioritizes collective control.
+377	positive :: negative	positive	negative	1	0	0	0	0	0	0	Positivity is associated with care and benevolence.
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+379	thinker :: feeler	thinker	feeler	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+381	questioning :: believing	questioning	believing	0	0	0	0	0	1	0	Questioning can relate to liberty, especially in the context of challenging authority.
+382	proud :: apologetic	proud	apologetic	0	0	0	1	0	0	0	Pride can relate to loyalty and authority.
+383	bubbly :: flat	bubbly	flat	1	0	0	0	0	0	0	Bubbly can relate to care and friendliness.
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+385	woke :: problematic	woke	problematic	1	0	0	0	0	0	0	Woke can relate to care and fairness.
+386	grumpy :: cheery	grumpy	cheery	1	0	0	0	0	0	0	Cheery can relate to care and friendliness.
+387	hippie :: militaristic	hippie	militaristic	1	0	0	0	0	0	0	Hippie can relate to care and purity.
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	1	0	0	Gluttony can relate to purity.
+389	flawed :: perfect	flawed	perfect	0	0	0	0	0	0	1	Perfect can relate to general moral goodness.
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	0	0	0	0	This differential does not clearly align with any specific foundation.
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	1	Fulfilled can relate to general moral goodness.
+395	friendly :: unfriendly	friendly	unfriendly	1	0	0	0	0	0	0	Friendly can relate to care.
+396	innovative :: routine	innovative	routine	0	0	0	0	0	1	0	Innovative can relate to liberty.
+397	delicate :: coarse	delicate	coarse	1	0	0	0	1	0	0	Delicate can relate to care and purity.
+398	resentful :: euphoric	resentful	euphoric	0	0	0	0	0	0	1	Euphoria can relate to general moral goodness.
+399	uptight :: easy	uptight	easy	0	0	0	1	0	0	0	Uptight can relate to authority.
+400	blue :: red	blue	red	1	0	0	0	0	0	0	Blue can relate to care.

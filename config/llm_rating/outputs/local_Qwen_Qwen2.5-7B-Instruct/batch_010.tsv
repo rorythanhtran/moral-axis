@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+226	racist :: egalitarian	racist	egalitarian	0	0	0	0	0	0	0	
+227	abstract :: concrete	abstract	concrete	0	0	0	0	0	0	0	
+228	formal :: intimate	formal	intimate	0	0	0	0	0	0	0	
+229	resolute :: wavering	resolute	wavering	0	0	0	0	0	0	0	
+230	deep :: shallow	deep	shallow	0	0	0	0	0	0	0	
+231	valedictorian :: drop out	valedictorian	drop out	0	0	0	0	0	0	0	
+232	minimalist :: pack rat	minimalist	pack rat	0	0	0	0	0	0	0	
+233	trash :: treasure	trash	treasure	0	0	0	0	0	0	0	
+234	stinky :: fresh	stinky	fresh	0	0	0	0	0	0	0	
+235	legit :: scrub	legit	scrub	0	0	0	0	0	0	0	
+236	self-destructive :: self-improving	self-destructive	self-improving	0	0	0	0	0	0	0	
+237	French :: Russian	French	Russian	0	0	0	0	0	0	0	
+238	German :: English	German	English	0	0	0	0	0	0	0	
+239	Italian :: Swedish	Italian	Swedish	0	0	0	0	0	0	0	
+240	Greek :: Roman	Greek	Roman	0	0	0	0	0	0	0	
+241	traumatized :: flourishing	traumatized	flourishing	1	0	0	0	0	0	0	The left pole relates to harm, which is covered by care.
+242	sturdy :: flimsy	sturdy	flimsy	0	0	0	0	0	0	0	
+243	macho :: metrosexual	macho	metrosexual	0	0	0	0	0	0	0	
+244	claustrophobic :: spelunker	claustrophobic	spelunker	0	0	0	0	0	1	0	The right pole relates to freedom and exploration, which aligns with liberty.
+245	offended :: chill	offended	chill	1	0	0	0	0	0	0	The left pole relates to harm, which is covered by care.
+246	rhythmic :: stuttering	rhythmic	stuttering	0	0	0	0	0	0	0	
+247	musical :: off-key	musical	off-key	0	0	0	0	0	0	0	
+248	lost :: enlightened	lost	enlightened	0	0	0	0	0	0	0	
+249	masochistic :: pain-avoidant	masochistic	pain-avoidant	1	0	0	0	0	0	0	The left pole relates to harm, which is covered by care.
+250	efficient :: overprepared	efficient	overprepared	0	0	0	0	0	0	0	

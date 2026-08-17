@@ -1,0 +1,237 @@
+{
+  "api_response": {
+    "id": "chatcmpl-DwtNjHM3ixDRDK7LwxNRVuYfXiquB",
+    "object": "chat.completion",
+    "created": 1782928283,
+    "model": "gpt-5.5-2026-04-23",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "{\"ratings\":[{\"trait_index\":451,\"differential\":\"social chameleon :: strong identity\",\"left_pole\":\"social chameleon\",\"right_pole\":\"strong identity\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":452,\"differential\":\"awkward :: comfortable\",\"left_pole\":\"awkward\",\"right_pole\":\"comfortable\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":453,\"differential\":\"sincere :: irreverent\",\"left_pole\":\"sincere\",\"right_pole\":\"irreverent\",\"care\":0,\"fairness\":1,\"loyalty\":0,\"authority\":1,\"purity\":1,\"liberty\":0,\"general\":1,\"notes\":\"Sincere relates to honesty; irreverent relates to disrespect for authority or sacredness.\"},{\"trait_index\":454,\"differential\":\"intuitive :: analytical\",\"left_pole\":\"intuitive\",\"right_pole\":\"analytical\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":455,\"differential\":\"cringing away :: welcoming experience\",\"left_pole\":\"cringing away\",\"right_pole\":\"welcoming experience\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":456,\"differential\":\"stereotypical :: boundary breaking\",\"left_pole\":\"stereotypical\",\"right_pole\":\"boundary breaking\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":1,\"general\":0,\"notes\":\"Boundary breaking suggests nonconformity and freedom from constraints.\"},{\"trait_index\":457,\"differential\":\"energetic :: mellow\",\"left_pole\":\"energetic\",\"right_pole\":\"mellow\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":458,\"differential\":\"hopeful :: fearful\",\"left_pole\":\"hopeful\",\"right_pole\":\"fearful\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":459,\"differential\":\"likes change :: resists change\",\"left_pole\":\"likes change\",\"right_pole\":\"resists change\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":460,\"differential\":\"manic :: mild\",\"left_pole\":\"manic\",\"right_pole\":\"mild\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":461,\"differential\":\"old-fashioned :: progressive\",\"left_pole\":\"old-fashioned\",\"right_pole\":\"progressive\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"Old-fashioned suggests respect for tradition.\"},{\"trait_index\":462,\"differential\":\"gross :: hygienic\",\"left_pole\":\"gross\",\"right_pole\":\"hygienic\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":1,\"liberty\":0,\"general\":0,\"notes\":\"Gross and hygienic relate to disgust, cleanliness, and contamination.\"},{\"trait_index\":463,\"differential\":\"stable :: unstable\",\"left_pole\":\"stable\",\"right_pole\":\"unstable\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":464,\"differential\":\"overthinker :: underthinker\",\"left_pole\":\"overthinker\",\"right_pole\":\"underthinker\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"}]}",
+          "refusal": null,
+          "annotations": []
+        },
+        "finish_reason": "stop"
+      }
+    ],
+    "usage": {
+      "prompt_tokens": 3272,
+      "completion_tokens": 1575,
+      "total_tokens": 4847,
+      "prompt_tokens_details": {
+        "cached_tokens": 2816,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 570,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "service_tier": "default",
+    "system_fingerprint": null
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 451,
+        "differential": "social chameleon :: strong identity",
+        "left_pole": "social chameleon",
+        "right_pole": "strong identity",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 452,
+        "differential": "awkward :: comfortable",
+        "left_pole": "awkward",
+        "right_pole": "comfortable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 453,
+        "differential": "sincere :: irreverent",
+        "left_pole": "sincere",
+        "right_pole": "irreverent",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Sincere relates to honesty; irreverent relates to disrespect for authority or sacredness."
+      },
+      {
+        "trait_index": 454,
+        "differential": "intuitive :: analytical",
+        "left_pole": "intuitive",
+        "right_pole": "analytical",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 455,
+        "differential": "cringing away :: welcoming experience",
+        "left_pole": "cringing away",
+        "right_pole": "welcoming experience",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 456,
+        "differential": "stereotypical :: boundary breaking",
+        "left_pole": "stereotypical",
+        "right_pole": "boundary breaking",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "Boundary breaking suggests nonconformity and freedom from constraints."
+      },
+      {
+        "trait_index": 457,
+        "differential": "energetic :: mellow",
+        "left_pole": "energetic",
+        "right_pole": "mellow",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 458,
+        "differential": "hopeful :: fearful",
+        "left_pole": "hopeful",
+        "right_pole": "fearful",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 459,
+        "differential": "likes change :: resists change",
+        "left_pole": "likes change",
+        "right_pole": "resists change",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 460,
+        "differential": "manic :: mild",
+        "left_pole": "manic",
+        "right_pole": "mild",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 461,
+        "differential": "old-fashioned :: progressive",
+        "left_pole": "old-fashioned",
+        "right_pole": "progressive",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Old-fashioned suggests respect for tradition."
+      },
+      {
+        "trait_index": 462,
+        "differential": "gross :: hygienic",
+        "left_pole": "gross",
+        "right_pole": "hygienic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Gross and hygienic relate to disgust, cleanliness, and contamination."
+      },
+      {
+        "trait_index": 463,
+        "differential": "stable :: unstable",
+        "left_pole": "stable",
+        "right_pole": "unstable",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 464,
+        "differential": "overthinker :: underthinker",
+        "left_pole": "overthinker",
+        "right_pole": "underthinker",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      }
+    ]
+  }
+}

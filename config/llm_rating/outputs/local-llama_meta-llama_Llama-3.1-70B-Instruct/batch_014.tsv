@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+326	jealous :: opinionated	jealous	opinionated	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+327	protagonist :: antagonist	protagonist	antagonist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+328	devoted :: unfaithful	devoted	unfaithful	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+329	fearmongering :: reassuring	fearmongering	reassuring	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+330	common sense :: analysis	common sense	analysis	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+331	unemotional :: emotional	unemotional	emotional	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+332	rap :: rock	rap	rock	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+333	genocidal :: not genocidal	genocidal	not genocidal	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+334	cat person :: dog person	cat person	dog person	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+335	indie :: pop	indie	pop	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+336	cultured :: rustic	cultured	rustic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+337	tautology :: oxymoron	tautology	oxymoron	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+338	bad boy :: white knight	bad boy	white knight	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+339	princess :: queen	princess	queen	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+340	hypochondriac :: stoic	hypochondriac	stoic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+341	yes-man :: contrarian	yes-man	contrarian	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+342	giving :: receiving	giving	receiving	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+343	chic :: cheesy	chic	cheesy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+344	celebrity :: boy/girl-next-door	celebrity	boy/girl-next-door	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+345	goth :: flower child	goth	flower child	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+346	summer :: winter	summer	winter	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+347	frank :: sugarcoated	frank	sugarcoated	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+348	naive :: paranoid	naive	paranoid	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+349	gullible :: cynical	gullible	cynical	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+350	motivated :: unmotivated	motivated	unmotivated	0	0	0	0	0	0	0	ERROR: no valid model response after retries

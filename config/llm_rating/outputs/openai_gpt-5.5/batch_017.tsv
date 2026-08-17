@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+401	slumbering :: insomniac	slumbering	insomniac	0	0	0	0	0	0	0	
+402	spirited :: lifeless	spirited	lifeless	0	0	0	0	0	0	0	
+403	outgoing :: withdrawn	outgoing	withdrawn	0	0	0	0	0	0	0	
+404	Hates PDA :: Constant PDA	Hates PDA	Constant PDA	0	0	0	0	1	0	0	PDA can invoke modesty/sexual propriety concerns.
+405	buffoon :: charmer	buffoon	charmer	0	0	0	0	0	0	0	
+406	sloppy :: fussy	sloppy	fussy	0	0	0	0	1	0	0	Sloppy/fussy can relate to cleanliness or contamination sensitivity.
+407	accurate :: off target	accurate	off target	0	0	0	0	0	0	0	
+408	harsh :: gentle	harsh	gentle	1	0	0	0	0	0	0	Gentle directly matches care virtue.
+409	clinical :: heartfelt	clinical	heartfelt	1	0	0	0	0	0	0	Heartfelt suggests warmth or empathic concern.
+410	inappropriate :: seemly	inappropriate	seemly	0	0	0	0	1	0	1	Seemly/inappropriate imply propriety and decency.
+411	smug :: sheepish	smug	sheepish	0	0	0	0	0	0	0	
+412	fake :: real	fake	real	0	1	0	0	0	0	0	Fake can imply deception or dishonesty.
+413	popular :: rejected	popular	rejected	0	0	0	0	0	0	0	
+414	catty :: supportive	catty	supportive	1	0	0	0	0	0	0	Supportive/catty contrasts helping with hurtful behavior.
+415	chronically single :: serial dater	chronically single	serial dater	0	0	0	0	1	0	0	Serial dater may imply sexual or romantic promiscuity.
+416	people-person :: things-person	people-person	things-person	0	0	0	0	0	0	0	
+417	eager :: reluctant	eager	reluctant	0	0	0	0	0	0	0	
+418	goal-oriented :: experience-oriented	goal-oriented	experience-oriented	0	0	0	0	0	0	0	
+419	outdoorsy :: indoorsy	outdoorsy	indoorsy	0	0	0	0	0	0	0	
+420	divine :: earthly	divine	earthly	0	0	0	0	1	0	0	Divine relates to sacred or spiritual purity.
+421	foodie :: unenthusiastic about food	foodie	unenthusiastic about food	0	0	0	0	0	0	0	
+422	chill :: sassy	chill	sassy	0	0	0	1	0	0	0	Sassy can imply cheeky disrespect.
+423	glamorous :: spartan	glamorous	spartan	0	0	0	0	1	0	0	Spartan suggests austerity and self-discipline.
+424	prankster :: anti-prank	prankster	anti-prank	0	0	0	0	0	0	0	
+425	goofy :: unfrivolous	goofy	unfrivolous	0	0	0	0	0	0	0	

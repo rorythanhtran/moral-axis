@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+226	racist :: egalitarian	racist	egalitarian	0	1	0	0	0	0	0	Racist/egalitarian maps to discrimination vs equality.
+227	abstract :: concrete	abstract	concrete	0	0	0	0	0	0	0	
+228	formal :: intimate	formal	intimate	0	0	0	0	0	0	0	
+229	resolute :: wavering	resolute	wavering	0	0	0	0	0	0	0	
+230	deep :: shallow	deep	shallow	0	0	0	0	0	0	0	
+231	valedictorian :: drop out	valedictorian	drop out	0	0	0	0	0	0	0	
+232	minimalist :: pack rat	minimalist	pack rat	0	0	0	0	1	0	0	Minimalist can imply austerity/self-discipline.
+233	trash :: treasure	trash	treasure	0	0	0	0	1	0	0	Trash pole evokes filth/contamination.
+234	stinky :: fresh	stinky	fresh	0	0	0	0	1	0	0	Odor/freshness relates to disgust and cleanliness.
+235	legit :: scrub	legit	scrub	0	0	0	1	0	0	1	Legit implies lawful/proper status.
+236	self-destructive :: self-improving	self-destructive	self-improving	1	0	0	0	1	0	0	Self-destructive implies harm; self-improving maps to purity.
+237	French :: Russian	French	Russian	0	0	1	0	0	0	0	National group identities.
+238	German :: English	German	English	0	0	1	0	0	0	0	National group identities.
+239	Italian :: Swedish	Italian	Swedish	0	0	1	0	0	0	0	National group identities.
+240	Greek :: Roman	Greek	Roman	0	0	1	0	0	0	0	Ethnic/civic group identities.
+241	traumatized :: flourishing	traumatized	flourishing	1	0	0	0	0	0	0	Traumatized implies harm or suffering.
+242	sturdy :: flimsy	sturdy	flimsy	0	0	0	0	0	0	0	
+243	macho :: metrosexual	macho	metrosexual	0	0	0	0	0	0	0	
+244	claustrophobic :: spelunker	claustrophobic	spelunker	0	0	0	0	0	0	0	
+245	offended :: chill	offended	chill	0	0	0	0	0	0	1	Offended can signal moral offense.
+246	rhythmic :: stuttering	rhythmic	stuttering	0	0	0	0	0	0	0	
+247	musical :: off-key	musical	off-key	0	0	0	0	0	0	0	
+248	lost :: enlightened	lost	enlightened	0	0	0	0	1	0	0	Enlightened can imply spiritual elevation.
+249	masochistic :: pain-avoidant	masochistic	pain-avoidant	1	0	0	0	0	0	0	Masochistic/pain-avoidant concerns pain and suffering.
+250	efficient :: overprepared	efficient	overprepared	0	0	0	0	0	0	0	

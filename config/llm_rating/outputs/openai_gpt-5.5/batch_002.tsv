@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+26	wise :: foolish	wise	foolish	0	0	0	0	0	0	1	Wisdom/foolishness is a broad virtue/vice.
+27	impulsive :: cautious	impulsive	cautious	0	0	0	0	1	0	0	Relates to self-control versus impulsiveness.
+28	loyal :: traitorous	loyal	traitorous	0	0	1	1	0	0	0	Loyalty and treason also cue allegiance/authority.
+29	creative :: conventional	creative	conventional	0	0	0	1	0	0	0	Conventional implies conformity to norms/tradition.
+30	curious :: apathetic	curious	apathetic	0	0	0	0	0	0	0	
+31	rude :: respectful	rude	respectful	0	0	0	1	0	0	0	Respectful cues deference/respect.
+32	diligent :: lazy	diligent	lazy	0	0	0	0	1	0	0	Diligence/laziness relates to self-discipline.
+33	lustful :: chaste	lustful	chaste	0	0	0	0	1	0	0	Chastity/lust are purity-related.
+34	chatty :: reserved	chatty	reserved	0	0	0	0	0	0	0	
+35	emotional :: logical	emotional	logical	0	0	0	0	0	0	0	
+36	moody :: stable	moody	stable	0	0	0	0	0	0	0	
+37	dunce :: genius	dunce	genius	0	0	0	0	0	0	0	
+38	arrogant :: humble	arrogant	humble	0	0	0	1	1	0	1	Humility cues modesty/deference; pair is broad vice/virtue.
+39	heroic :: villainous	heroic	villainous	1	0	0	0	0	0	1	Heroes protect; villainous is broad moral badness.
+40	attractive :: repulsive	attractive	repulsive	0	0	0	0	1	0	0	Repulsive cues disgust.
+41	rational :: whimsical	rational	whimsical	0	0	0	0	0	0	0	
+42	mischievous :: well behaved	mischievous	well behaved	0	0	0	1	0	0	0	Well behaved cues compliance/rule-following.
+43	aloof :: obsessed	aloof	obsessed	0	0	0	0	0	0	0	
+44	indulgent :: sober	indulgent	sober	0	0	0	0	1	0	0	Indulgence/sobriety cues temperance.
+45	kinky :: vanilla	kinky	vanilla	0	0	0	0	1	0	0	Sexual norm/deviance cues purity.
+46	straightforward :: cryptic	straightforward	cryptic	0	1	0	0	0	0	1	Straightforward can imply honesty.
+47	spontaneous :: deliberate	spontaneous	deliberate	0	0	0	0	1	0	0	Deliberate cues self-control.
+48	libertarian :: socialist	libertarian	socialist	0	1	1	0	0	1	0	Libertarian cues liberty; socialist cues equality/collectivism.
+49	scheduled :: spontaneous	scheduled	spontaneous	0	0	0	0	1	0	0	Scheduled/spontaneous reflects self-discipline/order.
+50	works hard :: plays hard	works hard	plays hard	0	0	0	0	1	0	0	Work discipline and indulgence cue purity.

@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+251	oppressed :: privileged	oppressed	privileged	0	1	0	0	0	1	0	Oppressed relates to domination/liberty; privileged can imply unequal advantage.
+252	sunny :: gloomy	sunny	gloomy	0	0	0	0	0	0	0	
+253	vegan :: cannibal	vegan	cannibal	1	0	0	0	1	0	0	Cannibal relates to harm and purity taboo; vegan can imply dietary abstention.
+254	loveable :: punchable	loveable	punchable	1	0	0	0	0	0	0	Punchable invokes violence/harm.
+255	slow-talking :: fast-talking	slow-talking	fast-talking	0	0	0	0	0	0	0	
+256	believable :: poorly-written	believable	poorly-written	0	0	0	0	0	0	0	
+257	vibrant :: geriatric	vibrant	geriatric	0	0	0	0	0	0	0	
+258	consistent :: variable	consistent	variable	0	0	0	0	0	0	0	
+259	dispassionate :: romantic	dispassionate	romantic	0	0	0	0	0	0	0	
+260	linear :: circular	linear	circular	0	0	0	0	0	0	0	
+261	intense :: lighthearted	intense	lighthearted	0	0	0	0	0	0	0	
+262	knowledgeable :: ignorant	knowledgeable	ignorant	0	0	0	0	0	0	0	
+263	fixable :: unfixable	fixable	unfixable	0	0	0	0	0	0	0	
+264	exuberant :: subdued	exuberant	subdued	0	0	0	0	0	0	0	
+265	secretive :: open-book	secretive	open-book	0	0	0	0	0	0	0	
+266	perceptive :: unobservant	perceptive	unobservant	0	0	0	0	0	0	0	
+267	folksy :: presidential	folksy	presidential	0	0	0	1	0	0	0	Presidential relates to leadership/authority.
+268	corporate :: freelance	corporate	freelance	0	0	0	0	0	0	0	
+269	sleepy :: frenzied	sleepy	frenzied	0	0	0	0	0	0	0	
+270	loose :: tight	loose	tight	0	0	0	0	0	0	0	
+271	narcissistic :: low self esteem	narcissistic	low self esteem	0	0	0	0	0	0	1	Narcissistic is commonly a broad character vice.
+272	poetic :: factual	poetic	factual	0	0	0	0	0	0	0	
+273	melee :: ranged	melee	ranged	1	0	0	0	0	0	0	Both poles are combat-related terms.
+274	giggling :: chortling	giggling	chortling	0	0	0	0	0	0	0	
+275	whippersnapper :: sage	whippersnapper	sage	0	0	0	1	0	0	0	Sage suggests respected elder/prestigious authority.

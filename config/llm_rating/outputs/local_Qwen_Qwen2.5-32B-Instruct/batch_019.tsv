@@ -1,0 +1,15 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+451	social chameleon :: strong identity	social chameleon	strong identity	0	0	1	0	0	0	0	Strong identity relates to loyalty.
+452	awkward :: comfortable	awkward	comfortable	0	0	0	0	0	0	0	
+453	sincere :: irreverent	sincere	irreverent	0	0	0	1	1	0	0	Irreverent relates to both authority and purity.
+454	intuitive :: analytical	intuitive	analytical	0	0	0	0	0	0	0	
+455	cringing away :: welcoming experience	cringing away	welcoming experience	0	0	0	0	0	0	0	
+456	stereotypical :: boundary breaking	stereotypical	boundary breaking	0	0	1	0	0	1	0	Boundary breaking relates to both loyalty and liberty.
+457	energetic :: mellow	energetic	mellow	0	0	0	0	0	0	0	
+458	hopeful :: fearful	hopeful	fearful	0	0	0	0	0	0	0	
+459	likes change :: resists change	likes change	resists change	0	0	0	0	0	1	0	Likes change relates to liberty.
+460	manic :: mild	manic	mild	0	0	0	0	0	0	0	
+461	old-fashioned :: progressive	old-fashioned	progressive	0	0	0	1	0	1	0	Old-fashioned relates to authority; progressive relates to liberty.
+462	gross :: hygienic	gross	hygienic	0	0	0	0	1	0	0	Hygienic relates to purity.
+463	stable :: unstable	stable	unstable	0	0	0	0	0	0	0	
+464	overthinker :: underthinker	overthinker	underthinker	0	0	0	0	0	0	0	

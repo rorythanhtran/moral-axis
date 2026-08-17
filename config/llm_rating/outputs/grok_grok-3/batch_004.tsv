@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+76	quarrelsome :: warm	quarrelsome	warm	1	0	0	0	0	0	0	warm matches care
+77	nerd :: jock	nerd	jock	0	0	0	0	0	0	0	
+78	lowbrow :: highbrow	lowbrow	highbrow	0	0	0	0	0	0	0	
+79	selfish :: altruistic	selfish	altruistic	1	1	0	0	0	0	1	altruistic matches care
+80	autistic :: neurotypical	autistic	neurotypical	0	0	0	0	0	0	0	
+81	angelic :: demonic	angelic	demonic	0	0	0	0	1	0	1	angelic/demonic match purity/general
+82	hesitant :: decisive	hesitant	decisive	0	0	0	0	0	0	0	
+83	devout :: heathen	devout	heathen	0	0	0	0	1	0	1	devout/heathen match purity
+84	cruel :: kind	cruel	kind	1	0	0	0	0	0	1	cruel/kind match care
+85	direct :: roundabout	direct	roundabout	0	0	0	0	0	0	0	
+86	mathematical :: literary	mathematical	literary	0	0	0	0	0	0	0	
+87	blue-collar :: ivory-tower	blue-collar	ivory-tower	0	0	0	0	0	0	0	
+88	slovenly :: stylish	slovenly	stylish	0	0	0	0	0	0	0	
+89	playful :: shy	playful	shy	0	0	0	0	0	0	0	
+90	serious :: bold	serious	bold	0	0	0	0	0	0	0	
+91	charming :: trusting	charming	trusting	0	0	0	0	0	0	0	
+92	awkward :: suspicious	awkward	suspicious	0	0	0	0	0	0	0	
+93	hipster :: basic	hipster	basic	0	0	0	0	0	0	0	
+94	coordinated :: clumsy	coordinated	clumsy	0	0	0	0	0	0	0	
+95	funny :: humorless	funny	humorless	0	0	0	0	0	0	0	
+96	politically correct :: edgy	politically correct	edgy	0	1	0	0	0	0	0	politically correct matches fairness
+97	rich :: poor	rich	poor	0	1	0	0	0	0	0	rich/poor matches fairness
+98	hard :: soft	hard	soft	0	0	0	0	0	0	0	
+99	remote :: involved	remote	involved	0	0	0	0	0	0	0	
+100	metaphorical :: literal	metaphorical	literal	0	0	0	0	0	0	0	

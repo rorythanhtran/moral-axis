@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+326	jealous :: opinionated	jealous	opinionated	0	0	1	0	0	0	0	jealous relates to loyalty
+327	protagonist :: antagonist	protagonist	antagonist	0	0	0	0	0	0	0	
+328	devoted :: unfaithful	devoted	unfaithful	0	0	1	0	0	0	0	both poles relate to loyalty
+329	fearmongering :: reassuring	fearmongering	reassuring	1	0	0	0	0	0	0	reassuring relates to care
+330	common sense :: analysis	common sense	analysis	0	0	0	0	0	0	0	
+331	unemotional :: emotional	unemotional	emotional	0	0	0	0	0	0	0	
+332	rap :: rock	rap	rock	0	0	0	0	0	0	0	
+333	genocidal :: not genocidal	genocidal	not genocidal	1	0	0	0	0	0	0	genocidal relates to care
+334	cat person :: dog person	cat person	dog person	0	0	0	0	0	0	0	
+335	indie :: pop	indie	pop	0	0	0	0	0	0	0	
+336	cultured :: rustic	cultured	rustic	0	0	0	0	0	0	0	
+337	tautology :: oxymoron	tautology	oxymoron	0	0	0	0	0	0	0	
+338	bad boy :: white knight	bad boy	white knight	0	0	0	0	1	0	0	white knight relates to purity
+339	princess :: queen	princess	queen	0	0	0	1	0	0	0	queen relates to authority
+340	hypochondriac :: stoic	hypochondriac	stoic	0	0	0	0	0	0	0	
+341	yes-man :: contrarian	yes-man	contrarian	0	0	0	1	0	1	0	yes-man relates to authority, contrarian relates to liberty
+342	giving :: receiving	giving	receiving	1	0	0	0	0	0	0	giving relates to care
+343	chic :: cheesy	chic	cheesy	0	0	0	0	0	0	0	
+344	celebrity :: boy/girl-next-door	celebrity	boy/girl-next-door	0	0	0	0	0	0	0	
+345	goth :: flower child	goth	flower child	0	0	0	0	0	0	0	
+346	summer :: winter	summer	winter	0	0	0	0	0	0	0	
+347	frank :: sugarcoated	frank	sugarcoated	0	0	0	0	0	0	0	
+348	naive :: paranoid	naive	paranoid	0	0	0	0	0	0	0	
+349	gullible :: cynical	gullible	cynical	0	0	0	0	0	0	0	
+350	motivated :: unmotivated	motivated	unmotivated	0	0	0	0	0	0	0	

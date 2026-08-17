@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+201	anarchist :: statist	anarchist	statist	0	0	0	1	0	1	0	Anarchists often reject authority, while statists support it.
+202	cool :: dorky	cool	dorky	0	0	0	0	0	0	0	
+203	important :: irrelevant	important	irrelevant	0	0	0	0	0	0	0	
+204	noob :: pro	noob	pro	0	0	0	0	0	0	0	
+205	deranged :: reasonable	deranged	reasonable	0	0	0	0	0	0	1	Deranged behavior can be seen as a violation of societal norms and order.
+206	rural :: urban	rural	urban	0	0	0	0	0	0	0	
+207	introspective :: not introspective	introspective	not introspective	0	0	0	0	0	0	0	
+208	city-slicker :: country-bumpkin	city-slicker	country-bumpkin	0	0	0	0	0	0	0	
+209	western :: eastern	western	eastern	0	0	0	0	0	0	0	
+210	mad :: glad	mad	glad	0	0	0	0	0	0	1	Madness can be seen as a violation of societal norms and order.
+211	social :: reclusive	social	reclusive	0	0	0	0	0	0	0	
+212	studious :: goof-off	studious	goof-off	0	0	0	0	0	0	0	
+213	slugabed :: go-getter	slugabed	go-getter	0	0	0	0	0	0	0	
+214	penny-pincher :: overspender	penny-pincher	overspender	0	0	0	0	0	0	0	
+215	liberal :: conservative	liberal	conservative	0	0	0	0	0	1	0	Liberals often advocate for individual freedom, while conservatives may prioritize traditional authority.
+216	unassuming :: pretentious	unassuming	pretentious	0	0	0	0	0	0	0	
+217	persistent :: quitter	persistent	quitter	0	0	0	0	0	0	0	
+218	hedonist :: monastic	hedonist	monastic	0	0	0	0	1	0	0	Monastic behavior is often associated with purity and asceticism.
+219	patriotic :: unpatriotic	patriotic	unpatriotic	0	0	1	0	0	0	0	Patriotism involves loyalty to one's nation.
+220	tactful :: indiscreet	tactful	indiscreet	0	0	0	0	0	0	0	
+221	wholesome :: salacious	wholesome	salacious	0	0	0	0	1	0	0	Wholesome behavior is often associated with purity.
+222	joyful :: miserable	joyful	miserable	0	0	0	0	0	0	1	Joyfulness is generally seen as a positive trait, while misery is negative.
+223	zany :: regular	zany	regular	0	0	0	0	0	0	0	
+224	alert :: oblivious	alert	oblivious	0	0	0	0	0	0	0	
+225	feminist :: sexist	feminist	sexist	0	0	0	0	0	0	1	Feminism promotes equality and fairness, while sexism promotes inequality.

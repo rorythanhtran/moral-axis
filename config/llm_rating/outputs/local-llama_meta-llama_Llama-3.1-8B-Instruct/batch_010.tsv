@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+226	racist :: egalitarian	racist	egalitarian	0	0	0	0	0	1	0	concerns freedom and equality
+227	abstract :: concrete	abstract	concrete	0	0	0	0	0	1	0	concerns abstractness and concreteness
+228	formal :: intimate	formal	intimate	0	0	0	0	0	1	0	concerns formality and intimacy
+229	resolute :: wavering	resolute	wavering	0	0	0	0	0	1	0	concerns decisiveness and wavering
+230	deep :: shallow	deep	shallow	0	0	0	0	0	1	0	concerns depth and superficiality
+231	valedictorian :: drop out	valedictorian	drop out	0	0	0	0	0	1	0	concerns academic achievement and failure
+232	minimalist :: pack rat	minimalist	pack rat	0	0	0	0	0	1	0	concerns minimalism and excess
+233	trash :: treasure	trash	treasure	0	0	0	0	0	1	0	concerns value of trash and treasure
+234	stinky :: fresh	stinky	fresh	0	0	0	0	0	1	0	concerns cleanliness and stench
+235	legit :: scrub	legit	scrub	0	0	0	0	0	1	0	concerns legitimacy and worthlessness
+236	self-destructive :: self-improving	self-destructive	self-improving	0	0	0	0	0	1	0	concerns self-destruction and self-improvement
+237	French :: Russian	French	Russian	0	0	0	0	0	1	0	concerns French and Russian cultures
+238	German :: English	German	English	0	0	0	0	0	1	0	concerns German and English cultures
+239	Italian :: Swedish	Italian	Swedish	0	0	0	0	0	1	0	concerns Italian and Swedish cultures
+240	Greek :: Roman	Greek	Roman	0	0	0	0	0	1	0	concerns Greek and Roman cultures
+241	traumatized :: flourishing	traumatized	flourishing	0	0	0	0	0	1	0	concerns trauma and flourishing
+242	sturdy :: flimsy	sturdy	flimsy	0	0	0	0	0	1	0	concerns sturdiness and flimsiness
+243	macho :: metrosexual	macho	metrosexual	0	0	0	0	0	1	0	concerns masculinity and femininity
+244	claustrophobic :: spelunker	claustrophobic	spelunker	0	0	0	0	0	1	0	concerns claustrophobia and spelunking
+245	offended :: chill	offended	chill	0	0	0	0	0	1	0	concerns offense and calmness
+246	rhythmic :: stuttering	rhythmic	stuttering	0	0	0	0	0	1	0	concerns rhythm and stuttering
+247	musical :: off-key	musical	off-key	0	0	0	0	0	1	0	concerns music and off-key singing
+248	lost :: enlightened	lost	enlightened	0	0	0	0	0	1	0	concerns being lost and enlightened
+249	masochistic :: pain-avoidant	masochistic	pain-avoidant	0	0	0	0	0	1	0	concerns masochism and pain avoidance
+250	efficient :: overprepared	efficient	overprepared	0	0	0	0	0	1	0	concerns efficiency and overpreparation

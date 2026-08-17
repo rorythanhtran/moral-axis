@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+176	androgynous :: gendered	androgynous	gendered	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+177	repetitive :: varied	repetitive	varied	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+178	patient :: impatient	patient	impatient	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+179	poisonous :: nurturing	poisonous	nurturing	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+180	creepy :: disarming	creepy	disarming	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+181	inspiring :: cringeworthy	inspiring	cringeworthy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+182	soulless :: soulful	soulless	soulful	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+183	beautiful :: ugly	beautiful	ugly	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+184	domestic :: industrial	domestic	industrial	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+185	juvenile :: mature	juvenile	mature	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+186	idealist :: realist	idealist	realist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+187	nihilist :: existentialist	nihilist	existentialist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+188	objective :: subjective	objective	subjective	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+189	theist :: atheist	theist	atheist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+190	classical :: avant-garde	classical	avant-garde	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+191	utilitarian :: decorative	utilitarian	decorative	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+192	generalist :: specialist	generalist	specialist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+193	multicolored :: monochrome	multicolored	monochrome	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+194	complimentary :: insulting	complimentary	insulting	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+195	individualist :: communal	individualist	communal	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+196	equitable :: hypocritical	equitable	hypocritical	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+197	traditional :: unorthodox	traditional	unorthodox	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+198	workaholic :: slacker	workaholic	slacker	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+199	resourceful :: helpless	resourceful	helpless	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+200	crazy :: sane	crazy	sane	0	0	0	0	0	0	0	ERROR: no valid model response after retries

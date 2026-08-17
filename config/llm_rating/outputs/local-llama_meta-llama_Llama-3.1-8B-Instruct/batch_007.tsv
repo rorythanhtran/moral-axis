@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+151	vague :: precise	vague	precise	0	0	0	0	0	1	0	neutral terms
+152	philosophical :: real	philosophical	real	0	0	0	0	0	1	0	philosophical vs real
+153	modern :: historical	modern	historical	0	0	0	0	0	1	0	historical vs modern
+154	judgemental :: accepting	judgemental	accepting	0	0	0	0	0	1	0	judgemental vs accepting
+155	average :: deviant	average	deviant	0	0	0	0	0	1	0	average vs deviant
+156	gossiping :: confidential	gossiping	confidential	0	0	0	0	0	1	0	gossiping vs confidential
+157	official :: backdoor	official	backdoor	0	0	0	0	0	1	0	official vs backdoor
+158	scholarly :: crafty	scholarly	crafty	0	0	0	0	0	1	0	scholarly vs crafty
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	1	0	leisurely vs hurried
+160	explorer :: builder	explorer	builder	0	0	0	0	0	1	0	explorer vs builder
+161	captain :: first-mate	captain	first-mate	0	0	0	0	0	1	0	captain vs first-mate
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	1	0	mysterious vs unambiguous
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	independent vs codependent
+164	family-first :: work-first	family-first	work-first	0	0	0	1	0	0	0	respect for authority and tradition
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	purity and cleanliness
+166	wild :: tame	wild	tame	0	0	0	0	1	0	0	purity and cleanliness
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	0	0	0	respect for authority and prestige
+168	scandalous :: proper	scandalous	proper	0	0	0	0	1	0	0	purity and moral standards
+169	unprepared :: hoarder	unprepared	hoarder	0	0	0	0	0	1	0	unprepared vs hoarder
+170	sheltered :: street-smart	sheltered	street-smart	0	0	0	0	0	1	0	sheltered vs street-smart
+171	open-minded :: close-minded	open-minded	close-minded	0	0	0	0	0	1	0	open-minded vs close-minded
+172	permanent :: transient	permanent	transient	0	0	0	0	0	1	0	permanent vs transient
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	1	0	dramatic vs no-nonsense
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	respect for authority and tradition
+175	straight :: queer	straight	queer	0	0	0	0	0	1	0	straight vs queer

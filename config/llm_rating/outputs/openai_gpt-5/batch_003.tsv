@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+51	reasoned :: instinctual	reasoned	instinctual	0	0	0	0	0	0	0	
+52	focused on the present :: focused on the future	focused on the present	focused on the future	0	0	0	0	0	0	0	
+53	empirical :: theoretical	empirical	theoretical	0	0	0	0	0	0	0	
+54	open :: guarded	open	guarded	0	0	0	0	0	0	0	
+55	methodical :: astonishing	methodical	astonishing	0	0	0	0	0	0	0	
+56	mighty :: puny	mighty	puny	0	0	0	0	0	0	0	
+57	bossy :: meek	bossy	meek	0	0	0	1	0	0	0	Dominance–submission relates to hierarchy/authority.
+58	barbaric :: civilized	barbaric	civilized	0	0	0	0	0	0	1	Broad moralized valence.
+59	gregarious :: private	gregarious	private	0	0	0	0	0	0	0	
+60	quiet :: loud	quiet	loud	0	0	0	0	0	0	0	
+61	political :: nonpolitical	political	nonpolitical	0	0	0	0	0	0	0	
+62	confident :: insecure	confident	insecure	0	0	0	0	0	0	0	
+63	democratic :: authoritarian	democratic	authoritarian	0	1	0	1	0	1	0	Democratic links to rights/equality (fairness); authoritarian to hierarchy (authority) and opposition to domination (liberty).
+64	debased :: pure	debased	pure	0	0	0	0	1	0	0	Right pole matches purity foundation.
+65	fast :: slow	fast	slow	0	0	0	0	0	0	0	
+66	frugal :: lavish	frugal	lavish	0	0	0	0	1	0	0	Self-restraint/austerity vs profligacy relates to purity/self-control.
+67	ludicrous :: sensible	ludicrous	sensible	0	0	0	0	0	0	0	
+68	orange :: purple	orange	purple	0	0	0	0	0	0	0	
+69	tall :: short	tall	short	0	0	0	0	0	0	0	
+70	young :: old	young	old	0	0	0	0	0	0	0	
+71	down2earth :: head@clouds	down2earth	head@clouds	0	0	0	0	0	0	0	
+72	extrovert :: introvert	extrovert	introvert	0	0	0	0	0	0	0	
+73	open to new experiences :: uncreative	open to new experiences	uncreative	0	0	0	0	0	0	0	
+74	calm :: anxious	calm	anxious	0	0	0	0	0	0	0	
+75	disorganized :: self-disciplined	disorganized	self-disciplined	0	0	0	0	1	0	0	Right pole (self-discipline) aligns with purity virtues of self-control.

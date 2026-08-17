@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+101	biased :: impartial	biased	impartial	0	1	0	0	0	0	0	The left pole 'biased' relates to fairness, as it implies a lack of impartiality.
+102	mundane :: extraordinary	mundane	extraordinary	0	0	0	0	0	0	0	
+103	tiresome :: interesting	tiresome	interesting	0	0	0	0	0	0	0	
+104	smooth :: rough	smooth	rough	0	0	0	0	0	0	0	
+105	spicy :: mild	spicy	mild	0	0	0	0	0	0	0	
+106	enslaved :: emancipated	enslaved	emancipated	0	1	0	0	0	1	0	The right pole 'emancipated' relates to both fairness and liberty.
+107	optimistic :: pessimistic	optimistic	pessimistic	0	0	0	0	0	0	0	
+108	sickly :: healthy	sickly	healthy	1	0	0	0	1	0	0	The left pole'sickly' relates to care, and the right pole 'healthy' relates to purity.
+109	luddite :: technophile	luddite	technophile	0	0	0	0	0	1	0	The right pole 'technophile' relates to liberty.
+110	vain :: demure	vain	demure	0	0	0	0	0	0	0	
+111	high-tech :: low-tech	high-tech	low-tech	0	0	0	0	0	1	0	The right pole 'high-tech' relates to liberty.
+112	flexible :: rigid	flexible	rigid	0	0	0	0	0	1	0	The right pole 'flexible' relates to liberty.
+113	cosmopolitan :: provincial	cosmopolitan	provincial	0	0	0	0	0	1	0	The right pole 'cosmopolitan' relates to liberty.
+114	arcane :: mainstream	arcane	mainstream	0	0	0	0	0	1	0	The right pole 'arcane' relates to liberty.
+115	outlaw :: sheriff	outlaw	sheriff	0	1	0	1	0	1	0	The left pole 'outlaw' relates to both fairness and authority, while the right pole'sheriff' relates to both fairness and liberty.
+116	pronatalist :: child free	pronatalist	child free	1	0	0	0	0	0	0	The left pole 'pronatalist' relates to care.
+117	sad :: happy	sad	happy	1	0	0	0	0	0	0	The right pole 'happy' relates to care.
+118	jealous :: compersive	jealous	compersive	1	0	0	0	0	0	0	The right pole 'compersive' relates to care.
+119	bitter :: sweet	bitter	sweet	1	0	0	0	0	0	0	The right pole'sweet' relates to care.
+120	resigned :: resistant	resigned	resistant	0	0	0	0	0	1	0	The right pole'resistant' relates to liberty.
+121	sarcastic :: genuine	sarcastic	genuine	0	0	0	0	0	1	0	The right pole 'genuine' relates to liberty.
+122	human :: animalistic	human	animalistic	1	0	0	0	0	0	0	The left pole 'human' relates to care.
+123	sporty :: bookish	sporty	bookish	0	0	0	0	0	0	0	
+124	moderate :: extreme	moderate	extreme	0	0	0	0	0	0	0	
+125	angry :: good-humored	angry	good-humored	1	0	0	0	0	0	0	The right pole 'good-humored' relates to care.

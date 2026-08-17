@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+351	radical :: centrist	radical	centrist	0	0	0	0	0	1	0	Radical may imply a desire for significant change, potentially against established authority.
+352	monotone :: expressive	monotone	expressive	0	0	0	0	0	0	0	
+353	love-focused :: money-focused	love-focused	money-focused	1	0	0	0	0	0	0	Love-focused relates to care.
+354	transparent :: machiavellian	transparent	machiavellian	0	0	0	0	0	0	0	
+355	timid :: cocky	timid	cocky	0	0	0	0	0	0	0	
+356	concise :: long-winded	concise	long-winded	0	0	0	0	0	0	0	
+357	picky :: always down	picky	always down	0	0	0	0	0	0	0	
+358	proactive :: reactive	proactive	reactive	0	0	0	0	0	0	0	
+359	prudish :: flirtatious	prudish	flirtatious	0	0	0	0	1	0	0	Prudish relates to purity.
+360	innocent :: jaded	innocent	jaded	0	0	0	0	1	0	0	Innocent relates to purity.
+361	touchy-feely :: distant	touchy-feely	distant	1	0	0	0	0	0	0	Touchy-feely relates to care.
+362	muddy :: washed	muddy	washed	0	0	0	0	1	0	0	Washed relates to purity.
+363	quirky :: predictable	quirky	predictable	0	0	0	0	0	0	0	
+364	never cries :: often crying	never cries	often crying	0	0	0	0	0	0	0	
+365	main character :: side character	main character	side character	0	0	0	0	0	0	0	
+366	original :: cliché	original	cliché	0	0	0	0	0	0	0	
+367	hugs :: handshakes	hugs	handshakes	1	0	0	0	0	0	0	Hugs relate to care.
+368	homebody :: world traveler	homebody	world traveler	0	0	0	0	0	0	0	
+369	naughty :: nice	naughty	nice	1	0	0	0	1	0	0	Nice relates to care; naughty relates to purity.
+370	junkie :: straight edge	junkie	straight edge	0	0	0	0	1	0	0	Straight edge relates to purity.
+371	small-vocabulary :: big-vocabulary	small-vocabulary	big-vocabulary	0	0	0	0	0	0	0	
+372	dystopian :: utopian	dystopian	utopian	0	0	0	0	0	0	0	
+373	parental :: childlike	parental	childlike	1	0	0	1	0	0	0	Parental relates to both care and authority.
+374	writer :: reader	writer	reader	0	0	0	0	0	0	0	
+375	creator :: consumer	creator	consumer	0	0	0	0	0	0	0	

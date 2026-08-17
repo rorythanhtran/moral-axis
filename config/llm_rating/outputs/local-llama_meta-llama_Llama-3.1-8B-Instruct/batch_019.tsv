@@ -1,0 +1,15 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+451	social chameleon :: strong identity	social chameleon	strong identity	0	0	0	0	0	0	0	strong identity is not directly related to any foundation
+452	awkward :: comfortable	awkward	comfortable	0	0	0	0	0	0	0	awkwardness is not a moral concept
+453	sincere :: irreverent	sincere	irreverent	0	0	0	0	0	0	0	sincerity is not directly related to any foundation
+454	intuitive :: analytical	intuitive	analytical	0	0	0	0	0	0	0	intuition vs analysis is not a moral concept
+455	cringing away :: welcoming experience	cringing away	welcoming experience	0	0	0	0	0	0	0	welcoming experience is related to care
+456	stereotypical :: boundary breaking	stereotypical	boundary breaking	0	0	0	0	0	0	0	boundary breaking is related to liberty
+457	energetic :: mellow	energetic	mellow	0	0	0	0	0	0	0	energy level is not a moral concept
+458	hopeful :: fearful	hopeful	fearful	0	0	0	0	0	0	0	hopefulness is related to care
+459	likes change :: resists change	likes change	resists change	0	0	0	0	0	0	0	liking change is related to liberty
+460	manic :: mild	manic	mild	0	0	0	0	0	0	0	manic behavior is related to purity
+461	old-fashioned :: progressive	old-fashioned	progressive	0	0	0	0	0	0	0	progressiveness is related to liberty
+462	gross :: hygienic	gross	hygienic	0	0	0	0	1	0	0	grossness is related to purity
+463	stable :: unstable	stable	unstable	0	0	0	0	0	0	0	stability is not a moral concept
+464	overthinker :: underthinker	overthinker	underthinker	0	0	0	0	0	0	0	overthinking is not a moral concept

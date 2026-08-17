@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+276	tailor :: blacksmith	tailor	blacksmith	0	0	0	0	0	0	0	
+277	hunter :: gatherer	hunter	gatherer	0	0	0	0	0	0	0	
+278	experimental :: reliable	experimental	reliable	0	0	0	0	0	0	0	
+279	moist :: dry	moist	dry	0	0	0	0	1	0	0	Dry is associated with purity.
+280	trolling :: triggered	trolling	triggered	0	0	0	0	0	0	0	
+281	tattle-tale :: f***-the-police	tattle-tale	f***-the-police	0	0	0	1	0	1	0	F***-the-police relates to liberty, while tattle-tale relates to authority.
+282	punk rock :: preppy	punk rock	preppy	0	0	0	0	0	1	0	Preppy relates to liberty.
+283	realistic :: fantastical	realistic	fantastical	0	0	0	0	0	1	0	Fantastical relates to liberty.
+284	trendy :: vintage	trendy	vintage	0	0	0	0	0	1	0	Trendy relates to liberty.
+285	factual :: exaggerating	factual	exaggerating	0	0	0	0	0	0	0	
+286	good-cook :: bad-cook	good-cook	bad-cook	0	0	0	0	0	0	0	
+287	comedic :: dramatic	comedic	dramatic	0	0	0	0	0	0	0	
+288	OCD :: ADHD	OCD	ADHD	0	0	0	0	0	0	0	
+289	interrupting :: attentive	interrupting	attentive	0	0	0	0	0	0	0	
+290	exhibitionist :: bashful	exhibitionist	bashful	0	0	0	0	0	1	0	Exhibitionist relates to liberty.
+291	badass :: weakass	badass	weakass	0	0	0	0	0	0	0	
+292	gamer :: non-gamer	gamer	non-gamer	0	0	0	0	0	0	0	
+293	random :: pointed	random	pointed	0	0	0	0	0	1	0	Pointed relates to liberty.
+294	epic :: deep	epic	deep	0	0	0	0	0	0	0	
+295	serene :: pensive	serene	pensive	0	0	0	0	0	0	0	
+296	bored :: interested	bored	interested	0	0	0	0	0	0	0	
+297	envious :: prideful	envious	prideful	0	0	0	0	0	0	0	
+298	ironic :: profound	ironic	profound	0	0	0	0	0	0	0	
+299	sexual :: asexual	sexual	asexual	0	0	0	0	0	0	0	
+300	clean :: perverted	clean	perverted	0	0	0	0	1	0	0	Clean relates to purity.

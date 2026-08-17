@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+226	racist :: egalitarian	racist	egalitarian	1	1	0	0	0	1	1	Racist pole involves discrimination and prejudice (fairness vice); egalitarian pole relates to equal rights and anti-oppression (fairness virtue, liberty). General moral valence is strong.
+227	abstract :: concrete	abstract	concrete	0	0	0	0	0	0	0	Cognitive style dimension; no clear moral foundation relevance.
+228	formal :: intimate	formal	intimate	0	0	0	1	0	0	0	Formal pole relates to authority/hierarchy norms and social decorum.
+229	resolute :: wavering	resolute	wavering	0	0	0	0	0	0	0	Personality/temperament dimension without clear moral foundation relevance.
+230	deep :: shallow	deep	shallow	0	0	0	0	0	0	0	Intellectual/personality dimension; no clear moral foundation relevance.
+231	valedictorian :: drop out	valedictorian	drop out	0	0	0	0	0	0	0	Academic achievement dimension; no clear moral foundation relevance.
+232	minimalist :: pack rat	minimalist	pack rat	0	0	0	0	0	0	0	Lifestyle/behavioral dimension; no clear moral foundation relevance.
+233	trash :: treasure	trash	treasure	0	0	0	0	0	0	0	Value/worth dimension used metaphorically; no clear moral foundation relevance.
+234	stinky :: fresh	stinky	fresh	0	0	0	0	1	0	0	Stinky/fresh relates to cleanliness and purity/contamination dimension.
+235	legit :: scrub	legit	scrub	0	0	0	0	0	0	1	Legit implies legitimacy and worthiness; scrub implies low moral/social worth. General moral valence present.
+236	self-destructive :: self-improving	self-destructive	self-improving	1	0	0	0	1	0	0	Self-destructive relates to harm (care vice); self-improving relates to purity virtue of self-discipline and self-improvement.
+237	French :: Russian	French	Russian	0	0	0	0	0	0	0	National/cultural identity dimension; no clear moral foundation relevance.
+238	German :: English	German	English	0	0	0	0	0	0	0	National/cultural identity dimension; no clear moral foundation relevance.
+239	Italian :: Swedish	Italian	Swedish	0	0	0	0	0	0	0	National/cultural identity dimension; no clear moral foundation relevance.
+240	Greek :: Roman	Greek	Roman	0	0	0	0	0	0	0	Cultural/historical identity dimension; no clear moral foundation relevance.
+241	traumatized :: flourishing	traumatized	flourishing	1	0	0	0	0	0	0	Traumatized pole relates to harm/suffering (care vice).
+242	sturdy :: flimsy	sturdy	flimsy	0	0	0	0	0	0	0	Physical/structural dimension; no clear moral foundation relevance.
+243	macho :: metrosexual	macho	metrosexual	0	0	0	1	1	0	0	Macho relates to traditional gender norms (authority); both poles touch on purity-related notions of gender propriety and bodily presentation.
+244	claustrophobic :: spelunker	claustrophobic	spelunker	0	0	0	0	0	0	0	Psychological/behavioral dimension; no clear moral foundation relevance.
+245	offended :: chill	offended	chill	0	0	0	0	0	0	1	Offended pole has general moral connotation (taking offense at moral transgressions per MFT dictionary entry for offend*).
+246	rhythmic :: stuttering	rhythmic	stuttering	0	0	0	0	0	0	0	Motor/speech dimension; no clear moral foundation relevance.
+247	musical :: off-key	musical	off-key	0	0	0	0	0	0	0	Aesthetic/skill dimension; no clear moral foundation relevance.
+248	lost :: enlightened	lost	enlightened	0	0	0	0	1	0	0	Enlightened pole relates to purity's spiritual elevation and noble living dimension.
+249	masochistic :: pain-avoidant	masochistic	pain-avoidant	1	0	0	0	1	0	0	Masochistic pole relates to self-harm (care vice) and bodily degradation (purity vice).
+250	efficient :: overprepared	efficient	overprepared	0	0	0	0	0	0	0	Behavioral/cognitive style dimension; no clear moral foundation relevance.

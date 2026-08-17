@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+76	quarrelsome :: warm	quarrelsome	warm	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+77	nerd :: jock	nerd	jock	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+78	lowbrow :: highbrow	lowbrow	highbrow	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+79	selfish :: altruistic	selfish	altruistic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+80	autistic :: neurotypical	autistic	neurotypical	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+81	angelic :: demonic	angelic	demonic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+82	hesitant :: decisive	hesitant	decisive	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+83	devout :: heathen	devout	heathen	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+84	cruel :: kind	cruel	kind	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+85	direct :: roundabout	direct	roundabout	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+86	mathematical :: literary	mathematical	literary	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+87	blue-collar :: ivory-tower	blue-collar	ivory-tower	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+88	slovenly :: stylish	slovenly	stylish	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+89	playful :: shy	playful	shy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+90	serious :: bold	serious	bold	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+91	charming :: trusting	charming	trusting	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+92	awkward :: suspicious	awkward	suspicious	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+93	hipster :: basic	hipster	basic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+94	coordinated :: clumsy	coordinated	clumsy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+95	funny :: humorless	funny	humorless	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+96	politically correct :: edgy	politically correct	edgy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+97	rich :: poor	rich	poor	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+98	hard :: soft	hard	soft	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+99	remote :: involved	remote	involved	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+100	metaphorical :: literal	metaphorical	literal	0	0	0	0	0	0	0	ERROR: no valid model response after retries

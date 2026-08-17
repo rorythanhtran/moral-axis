@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+376	capitalist :: communist	capitalist	communist	0	0	1	0	0	0	0	communist matches communal/collectiv* (loyalty)
+377	positive :: negative	positive	negative	0	0	0	0	0	0	0	
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	0	
+379	thinker :: feeler	thinker	feeler	0	0	0	0	0	0	0	
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	0	
+381	questioning :: believing	questioning	believing	0	0	0	1	0	0	0	questioning matches defian*/dissent* (authority)
+382	proud :: apologetic	proud	apologetic	0	0	0	0	0	0	0	
+383	bubbly :: flat	bubbly	flat	0	0	0	0	0	0	0	
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	
+385	woke :: problematic	woke	problematic	0	0	0	0	0	0	1	problematic matches immoral*/wrong* (general)
+386	grumpy :: cheery	grumpy	cheery	0	0	0	0	0	0	0	
+387	hippie :: militaristic	hippie	militaristic	0	0	1	1	0	0	0	militaristic matches patriot*/order*
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	1	0	0	gluttonous matches intemperate*/wanton* (purity)
+389	flawed :: perfect	flawed	perfect	0	0	0	0	0	0	1	perfect/flawed matches blameless/wrong* (general)
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	1	0	0	1	manners match respect/proper
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	0	1	0	0	creationist matches sacred*/holy* (purity)
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	0	
+395	friendly :: unfriendly	friendly	unfriendly	0	0	0	0	0	0	0	
+396	innovative :: routine	innovative	routine	0	0	0	1	0	0	0	routine matches order*/tradition* (authority)
+397	delicate :: coarse	delicate	coarse	0	0	0	0	1	0	0	coarse matches gross/filth* (purity)
+398	resentful :: euphoric	resentful	euphoric	0	0	0	0	0	0	0	
+399	uptight :: easy	uptight	easy	0	0	0	0	0	0	0	
+400	blue :: red	blue	red	0	0	0	0	0	0	0	

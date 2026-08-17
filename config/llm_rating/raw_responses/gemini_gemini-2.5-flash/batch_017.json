@@ -1,0 +1,394 @@
+{
+  "api_response": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "{\n  \"ratings\": [\n    {\n      \"trait_index\": 401,\n      \"differential\": \"slumbering :: insomniac\",\n      \"left_pole\": \"slumbering\",\n      \"right_pole\": \"insomniac\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 402,\n      \"differential\": \"spirited :: lifeless\",\n      \"left_pole\": \"spirited\",\n      \"right_pole\": \"lifeless\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 403,\n      \"differential\": \"outgoing :: withdrawn\",\n      \"left_pole\": \"outgoing\",\n      \"right_pole\": \"withdrawn\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 404,\n      \"differential\": \"Hates PDA :: Constant PDA\",\n      \"left_pole\": \"Hates PDA\",\n      \"right_pole\": \"Constant PDA\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Constant PDA could be seen as indecent (PurityVice).\"\n    },\n    {\n      \"trait_index\": 405,\n      \"differential\": \"buffoon :: charmer\",\n      \"left_pole\": \"buffoon\",\n      \"right_pole\": \"charmer\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 406,\n      \"differential\": \"sloppy :: fussy\",\n      \"left_pole\": \"sloppy\",\n      \"right_pole\": \"fussy\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Sloppy could be seen as lacking self-discipline, fussy as meticulous, relating to purity/cleanliness.\"\n    },\n    {\n      \"trait_index\": 407,\n      \"differential\": \"accurate :: off target\",\n      \"left_pole\": \"accurate\",\n      \"right_pole\": \"off target\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 408,\n      \"differential\": \"harsh :: gentle\",\n      \"left_pole\": \"harsh\",\n      \"right_pole\": \"gentle\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Harsh relates to HarmVice, gentle is a Care virtue.\"\n    },\n    {\n      \"trait_index\": 409,\n      \"differential\": \"clinical :: heartfelt\",\n      \"left_pole\": \"clinical\",\n      \"right_pole\": \"heartfelt\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Clinical implies lack of empathy, heartfelt implies deep feeling, relating to Care.\"\n    },\n    {\n      \"trait_index\": 410,\n      \"differential\": \"inappropriate :: seemly\",\n      \"left_pole\": \"inappropriate\",\n      \"right_pole\": \"seemly\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Inappropriate relates to indecency/wrong, seemly to propriety/decency.\"\n    },\n    {\n      \"trait_index\": 411,\n      \"differential\": \"smug :: sheepish\",\n      \"left_pole\": \"smug\",\n      \"right_pole\": \"sheepish\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 412,\n      \"differential\": \"fake :: real\",\n      \"left_pole\": \"fake\",\n      \"right_pole\": \"real\",\n      \"care\": 0,\n      \"fairness\": 1,\n      \"loyalty\": 1,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Fake implies dishonesty/deceit, real implies honesty.\"\n    },\n    {\n      \"trait_index\": 413,\n      \"differential\": \"popular :: rejected\",\n      \"left_pole\": \"popular\",\n      \"right_pole\": \"rejected\",\n      \"care\": 1,\n      \"fairness\": 1,\n      \"loyalty\": 1,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Rejected implies exclusion (FairnessVice) and abandonment (HarmVice, IngroupVice).\"\n    },\n    {\n      \"trait_index\": 414,\n      \"differential\": \"catty :: supportive\",\n      \"left_pole\": \"catty\",\n      \"right_pole\": \"supportive\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Catty implies harm/cruelty, supportive implies care/protection.\"\n    },\n    {\n      \"trait_index\": 415,\n      \"differential\": \"chronically single :: serial dater\",\n      \"left_pole\": \"chronically single\",\n      \"right_pole\": \"serial dater\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Serial dater could be seen as promiscuous (PurityVice).\"\n    },\n    {\n      \"trait_index\": 416,\n      \"differential\": \"people-person :: things-person\",\n      \"left_pole\": \"people-person\",\n      \"right_pole\": \"things-person\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 417,\n      \"differential\": \"eager :: reluctant\",\n      \"left_pole\": \"eager\",\n      \"right_pole\": \"reluctant\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 418,\n      \"differential\": \"goal-oriented :: experience-oriented\",\n      \"left_pole\": \"goal-oriented\",\n      \"right_pole\": \"experience-oriented\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 419,\n      \"differential\": \"outdoorsy :: indoorsy\",\n      \"left_pole\": \"outdoorsy\",\n      \"right_pole\": \"indoorsy\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 420,\n      \"differential\": \"divine :: earthly\",\n      \"left_pole\": \"divine\",\n      \"right_pole\": \"earthly\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Divine relates to spirituality/holiness, earthly to the opposite of elevated/spiritual.\"\n    },\n    {\n      \"trait_index\": 421,\n      \"differential\": \"foodie :: unenthusiastic about food\",\n      \"left_pole\": \"foodie\",\n      \"right_pole\": \"unenthusiastic about food\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 422,\n      \"differential\": \"chill :: sassy\",\n      \"left_pole\": \"chill\",\n      \"right_pole\": \"sassy\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Sassy can imply disrespect or defiance of authority.\"\n    },\n    {\n      \"trait_index\": 423,\n      \"differential\": \"glamorous :: spartan\",\n      \"left_pole\": \"glamorous\",\n      \"right_pole\": \"spartan\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Spartan relates to austerity and self-discipline (PurityVirtue).\"\n    },\n    {\n      \"trait_index\": 424,\n      \"differential\": \"prankster :: anti-prank\",\n      \"left_pole\": \"prankster\",\n      \"right_pole\": \"anti-prank\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 1,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Pranks can involve harm (Care), deceit (Loyalty), or be inappropriate (Purity, General).\"\n    },\n    {\n      \"trait_index\": 425,\n      \"differential\": \"goofy :: unfrivolous\",\n      \"left_pole\": \"goofy\",\n      \"right_pole\": \"unfrivolous\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    }\n  ]\n}"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "STOP",
+        "index": 0
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 3561,
+      "candidatesTokenCount": 3181,
+      "totalTokenCount": 11625,
+      "cachedContentTokenCount": 2423,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 3561
+        }
+      ],
+      "cacheTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 2423
+        }
+      ],
+      "thoughtsTokenCount": 4883,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "WHQ1apXXG9Sm1MkPjfTW2QM"
+  },
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": 401,
+        "differential": "slumbering :: insomniac",
+        "left_pole": "slumbering",
+        "right_pole": "insomniac",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 402,
+        "differential": "spirited :: lifeless",
+        "left_pole": "spirited",
+        "right_pole": "lifeless",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 403,
+        "differential": "outgoing :: withdrawn",
+        "left_pole": "outgoing",
+        "right_pole": "withdrawn",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 404,
+        "differential": "Hates PDA :: Constant PDA",
+        "left_pole": "Hates PDA",
+        "right_pole": "Constant PDA",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Constant PDA could be seen as indecent (PurityVice)."
+      },
+      {
+        "trait_index": 405,
+        "differential": "buffoon :: charmer",
+        "left_pole": "buffoon",
+        "right_pole": "charmer",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 406,
+        "differential": "sloppy :: fussy",
+        "left_pole": "sloppy",
+        "right_pole": "fussy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Sloppy could be seen as lacking self-discipline, fussy as meticulous, relating to purity/cleanliness."
+      },
+      {
+        "trait_index": 407,
+        "differential": "accurate :: off target",
+        "left_pole": "accurate",
+        "right_pole": "off target",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 408,
+        "differential": "harsh :: gentle",
+        "left_pole": "harsh",
+        "right_pole": "gentle",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Harsh relates to HarmVice, gentle is a Care virtue."
+      },
+      {
+        "trait_index": 409,
+        "differential": "clinical :: heartfelt",
+        "left_pole": "clinical",
+        "right_pole": "heartfelt",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Clinical implies lack of empathy, heartfelt implies deep feeling, relating to Care."
+      },
+      {
+        "trait_index": 410,
+        "differential": "inappropriate :: seemly",
+        "left_pole": "inappropriate",
+        "right_pole": "seemly",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Inappropriate relates to indecency/wrong, seemly to propriety/decency."
+      },
+      {
+        "trait_index": 411,
+        "differential": "smug :: sheepish",
+        "left_pole": "smug",
+        "right_pole": "sheepish",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 412,
+        "differential": "fake :: real",
+        "left_pole": "fake",
+        "right_pole": "real",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Fake implies dishonesty/deceit, real implies honesty."
+      },
+      {
+        "trait_index": 413,
+        "differential": "popular :: rejected",
+        "left_pole": "popular",
+        "right_pole": "rejected",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Rejected implies exclusion (FairnessVice) and abandonment (HarmVice, IngroupVice)."
+      },
+      {
+        "trait_index": 414,
+        "differential": "catty :: supportive",
+        "left_pole": "catty",
+        "right_pole": "supportive",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Catty implies harm/cruelty, supportive implies care/protection."
+      },
+      {
+        "trait_index": 415,
+        "differential": "chronically single :: serial dater",
+        "left_pole": "chronically single",
+        "right_pole": "serial dater",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Serial dater could be seen as promiscuous (PurityVice)."
+      },
+      {
+        "trait_index": 416,
+        "differential": "people-person :: things-person",
+        "left_pole": "people-person",
+        "right_pole": "things-person",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 417,
+        "differential": "eager :: reluctant",
+        "left_pole": "eager",
+        "right_pole": "reluctant",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 418,
+        "differential": "goal-oriented :: experience-oriented",
+        "left_pole": "goal-oriented",
+        "right_pole": "experience-oriented",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 419,
+        "differential": "outdoorsy :: indoorsy",
+        "left_pole": "outdoorsy",
+        "right_pole": "indoorsy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 420,
+        "differential": "divine :: earthly",
+        "left_pole": "divine",
+        "right_pole": "earthly",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Divine relates to spirituality/holiness, earthly to the opposite of elevated/spiritual."
+      },
+      {
+        "trait_index": 421,
+        "differential": "foodie :: unenthusiastic about food",
+        "left_pole": "foodie",
+        "right_pole": "unenthusiastic about food",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": 422,
+        "differential": "chill :: sassy",
+        "left_pole": "chill",
+        "right_pole": "sassy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Sassy can imply disrespect or defiance of authority."
+      },
+      {
+        "trait_index": 423,
+        "differential": "glamorous :: spartan",
+        "left_pole": "glamorous",
+        "right_pole": "spartan",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Spartan relates to austerity and self-discipline (PurityVirtue)."
+      },
+      {
+        "trait_index": 424,
+        "differential": "prankster :: anti-prank",
+        "left_pole": "prankster",
+        "right_pole": "anti-prank",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Pranks can involve harm (Care), deceit (Loyalty), or be inappropriate (Purity, General)."
+      },
+      {
+        "trait_index": 425,
+        "differential": "goofy :: unfrivolous",
+        "left_pole": "goofy",
+        "right_pole": "unfrivolous",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      }
+    ]
+  }
+}

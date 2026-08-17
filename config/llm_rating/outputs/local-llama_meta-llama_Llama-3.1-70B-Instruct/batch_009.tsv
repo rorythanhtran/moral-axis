@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+201	anarchist :: statist	anarchist	statist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+202	cool :: dorky	cool	dorky	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+203	important :: irrelevant	important	irrelevant	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+204	noob :: pro	noob	pro	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+205	deranged :: reasonable	deranged	reasonable	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+206	rural :: urban	rural	urban	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+207	introspective :: not introspective	introspective	not introspective	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+208	city-slicker :: country-bumpkin	city-slicker	country-bumpkin	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+209	western :: eastern	western	eastern	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+210	mad :: glad	mad	glad	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+211	social :: reclusive	social	reclusive	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+212	studious :: goof-off	studious	goof-off	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+213	slugabed :: go-getter	slugabed	go-getter	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+214	penny-pincher :: overspender	penny-pincher	overspender	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+215	liberal :: conservative	liberal	conservative	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+216	unassuming :: pretentious	unassuming	pretentious	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+217	persistent :: quitter	persistent	quitter	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+218	hedonist :: monastic	hedonist	monastic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+219	patriotic :: unpatriotic	patriotic	unpatriotic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+220	tactful :: indiscreet	tactful	indiscreet	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+221	wholesome :: salacious	wholesome	salacious	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+222	joyful :: miserable	joyful	miserable	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+223	zany :: regular	zany	regular	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+224	alert :: oblivious	alert	oblivious	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+225	feminist :: sexist	feminist	sexist	0	0	0	0	0	0	0	ERROR: no valid model response after retries

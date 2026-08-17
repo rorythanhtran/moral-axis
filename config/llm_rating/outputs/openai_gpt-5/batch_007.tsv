@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+151	vague :: precise	vague	precise	0	0	0	0	0	0	0	
+152	philosophical :: real	philosophical	real	0	0	0	0	0	0	0	
+153	modern :: historical	modern	historical	0	0	0	0	0	0	0	
+154	judgemental :: accepting	judgemental	accepting	0	1	0	0	0	0	0	Right pole ~ tolerance/unbiased
+155	average :: deviant	average	deviant	0	0	0	1	0	0	0	Right pole resembles nonconformity to norms
+156	gossiping :: confidential	gossiping	confidential	0	0	1	0	0	0	0	Gossiping breaches loyalty/confidentiality
+157	official :: backdoor	official	backdoor	0	0	0	1	0	0	0	Rules/order vs subverting procedures
+158	scholarly :: crafty	scholarly	crafty	0	1	0	0	0	0	0	Right pole implies deceit
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	0	0	
+160	explorer :: builder	explorer	builder	0	0	0	0	0	0	0	
+161	captain :: first-mate	captain	first-mate	0	0	0	1	0	0	0	Leader/follower hierarchy
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	0	0	
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	Left pole = autonomy/liberty
+164	family-first :: work-first	family-first	work-first	0	0	1	0	0	0	0	Family emphasis = ingroup loyalty
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	Right pole ~ cleanliness
+166	wild :: tame	wild	tame	0	0	0	0	1	0	0	Self-control/intemperance relates to purity
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	0	0	1	Status/hierarchy; bad reputation = general morality
+168	scandalous :: proper	scandalous	proper	0	0	0	0	1	0	1	Indecent vs proper/decency
+169	unprepared :: hoarder	unprepared	hoarder	0	0	0	0	0	0	0	
+170	sheltered :: street-smart	sheltered	street-smart	0	0	0	0	0	0	0	
+171	open-minded :: close-minded	open-minded	close-minded	0	1	0	0	0	0	0	Left pole ~ tolerant/unbiased
+172	permanent :: transient	permanent	transient	0	0	0	0	0	0	0	
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	0	0	
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	Clear hierarchy/rank
+175	straight :: queer	straight	queer	0	0	0	0	0	0	0	

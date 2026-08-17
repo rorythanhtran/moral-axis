@@ -1,0 +1,465 @@
+index	differential	flipped differential	care	fairness	loyalty	authority	sanctity	liberty		
+1	playful :: serious	serious :: playful	0	0	0	0	0	0		
+2	shy :: bold	bold :: shy	0	0	0	0	0	0		
+3	cheery :: sorrowful	sorrowful :: cheery	0	0	0	0	0	0		
+4	masculine :: feminine	feminine :: masculine	0	0	0	0	0	0		
+5	charming :: awkward	awkward :: charming	0	0	0	0	0	0		
+6	lewd :: tasteful	tasteful :: lewd	0	0	0	0	0	0		
+7	intellectual :: physical	physical :: intellectual	0	0	0	0	0	0		
+8	strict :: lenient	lenient :: strict	1	0	0	1	0	0		
+9	refined :: rugged	rugged :: refined	0	0	0	0	0	0		
+10	trusting :: suspicious	suspicious :: trusting	0	1	1	0	1	0		
+11	innocent :: worldly	worldly :: innocent	0	0	0	0	1	0		
+12	artistic :: scientific	scientific :: artistic	0	0	0	0	0	0		
+13	stoic :: expressive	expressive :: stoic	0	0	0	0	0	0		
+14	cunning :: honorable	honorable :: cunning	0	1	1	0	0	0		
+15	orderly :: chaotic	chaotic :: orderly	0	0	0	0	0	0		
+16	normal :: weird	weird :: normal	0	0	0	0	0	0		
+17	competitive :: cooperative	cooperative :: competitive	0	1	1	0	0	0		
+18	tense :: relaxed	relaxed :: tense	0	0	0	0	0	0		
+19	brave :: careful	careful :: brave	0	0	0	0	0	0		
+20	spiritual :: skeptical	skeptical :: spiritual	0	0	0	0	1	0		
+21	unlucky :: fortunate	fortunate :: unlucky	0	0	0	0	0	0		
+22	ferocious :: pacifist	pacifist :: ferocious	1	0	0	0	0	0		
+23	modest :: flamboyant	flamboyant :: modest	0	0	0	1	0	1		
+24	dominant :: submissive	submissive :: dominant	0	0	0	0	0	0		
+25	forgiving :: vengeful	vengeful :: forgiving	1	0	0	0	0	0		right pole - vice of care 
+26	wise :: foolish	foolish :: wise	0	0	0	0	0	0		
+27	impulsive :: cautious	cautious :: impulsive	0	0	0	0	0	0		
+28	loyal :: traitorous	traitorous :: loyal	0	0	1	0	0	0		
+29	creative :: conventional	conventional :: creative	0	0	0	1	0	1		
+30	curious :: apathetic	apathetic :: curious	1	0	0	0	0	0		
+31	rude :: respectful	respectful :: rude	1	0	0	1	0	0		
+32	diligent :: lazy	lazy :: diligent	0	0	0	0	0	0		
+33	lustful :: chaste	chaste :: lustful	0	0	0	0	1	0		
+34	chatty :: reserved	reserved :: chatty	0	0	0	0	0	0		
+35	emotional :: logical	logical :: emotional	0	0	0	0	0	0		
+36	moody :: stable	stable :: moody	0	0	0	0	0	0		
+37	dunce :: genius	genius :: dunce	0	0	0	0	0	0		
+38	arrogant :: humble	humble :: arrogant	0	0	0	1	1	0		
+39	heroic :: villainous	villainous :: heroic	1	1	0	0	0	0		right pole - vice of care
+40	attractive :: repulsive	repulsive :: attractive	0	0	0	0	1	0		
+41	rational :: whimsical	whimsical :: rational	0	0	0	0	0	0		
+42	mischievous :: well behaved	well behaved :: mischievous	0	1	1	1	0	0		
+43	aloof :: obsessed	obsessed :: aloof	0	0	0	0	0	0		
+44	indulgent :: sober	sober :: indulgent	0	0	0	0	1	0		
+45	kinky :: vanilla	vanilla :: kinky	0	0	0	0	0	0		
+46	straightforward :: cryptic	cryptic :: straightforward	0	0	0	0	0	0		
+47	spontaneous :: deliberate	deliberate :: spontaneous	0	0	0	1	0	1		
+48	libertarian :: socialist	socialist :: libertarian	0	1	0	1	0	1		
+49	scheduled :: spontaneous	spontaneous :: scheduled	0	0	0	0	0	0		
+50	works hard :: plays hard	plays hard :: works hard	0	0	0	0	0	0		
+51	reasoned :: instinctual	instinctual :: reasoned	0	0	0	0	0	0		
+52	focused on the present :: focused on the future	focused on the future :: focused on the present	0	0	0	0	0	0		
+53	empirical :: theoretical	theoretical :: empirical	0	0	0	0	0	0		
+54	open :: guarded	guarded :: open	0	0	0	0	0	0		
+55	methodical :: astonishing	astonishing :: methodical	0	0	0	0	0	0		
+56	mighty :: puny	puny :: mighty	0	0	0	0	1	0		
+57	bossy :: meek	meek :: bossy	0	0	0	1	0	1		
+58	barbaric :: civilized	civilized :: barbaric	0	0	0	1	1	0		
+59	gregarious :: private	private :: gregarious	0	0	0	0	0	0		
+60	quiet :: loud	loud :: quiet	0	0	0	0	0	0		
+61	political :: nonpolitical	nonpolitical :: political	0	0	0	0	0	0		
+62	confident :: insecure	insecure :: confident	0	0	0	0	0	0		
+63	democratic :: authoritarian	authoritarian :: democratic	0	1	0	1	0	1		
+64	debased :: pure	pure :: debased	0	0	0	0	1	0		
+65	fast :: slow	slow :: fast	0	0	0	0	0	0		
+66	frugal :: lavish	lavish :: frugal	0	0	0	0	0	0		
+67	ludicrous :: sensible	sensible :: ludicrous	0	0	0	0	0	0		
+68	orange :: purple	purple :: orange	0	0	0	0	0	0		
+69	tall :: short	short :: tall	0	0	0	0	0	0		
+70	young :: old	old :: young	0	0	0	0	0	0		
+71	down2earth :: head@clouds	head@clouds :: down2earth	0	0	0	0	0	0		
+72	extrovert :: introvert	introvert :: extrovert	0	0	0	0	0	0		
+73	open to new experiences :: uncreative	uncreative :: open to new experiences	0	0	0	1	0	1		
+74	calm :: anxious	anxious :: calm	0	0	0	0	0	0		
+75	disorganized :: self-disciplined	self-disciplined :: disorganized	0	0	0	1	1	0		
+76	quarrelsome :: warm	warm :: quarrelsome	1	0	0	0	0	0		
+77	nerd :: jock	jock :: nerd	0	0	0	0	0	0		
+78	lowbrow :: highbrow	highbrow :: lowbrow	0	0	0	0	0	0		
+79	selfish :: altruistic	altruistic :: selfish	1	1	0	0	0	0		
+80	autistic :: neurotypical	neurotypical :: autistic	0	0	0	0	0	0		
+81	angelic :: demonic	demonic :: angelic	0	0	0	0	1	0		
+82	hesitant :: decisive	decisive :: hesitant	0	0	0	0	0	0		
+83	devout :: heathen	heathen :: devout	0	0	0	1	1	1		
+84	cruel :: kind	kind :: cruel	1	0	0	0	0	0		
+85	direct :: roundabout	roundabout :: direct	0	0	0	0	0	0		
+86	mathematical :: literary	literary :: mathematical	0	0	0	0	0	0		
+87	blue-collar :: ivory-tower	ivory-tower :: blue-collar	0	0	0	0	0	0		
+88	slovenly :: stylish	stylish :: slovenly	0	0	0	0	1	0		
+89	playful :: shy	shy :: playful	0	0	0	0	0	0		
+90	serious :: bold	bold :: serious	0	0	0	1	0	1		
+91	charming :: trusting	trusting :: charming								
+92	awkward :: suspicious	suspicious :: awkward								
+93	hipster :: basic	basic :: hipster	0	0	0	0	0	0		
+94	coordinated :: clumsy	clumsy :: coordinated	0	0	0	0	0	0		
+95	funny :: humorless	humorless :: funny	0	0	0	0	0	0		
+96	politically correct :: edgy	edgy :: politically correct	0	0	0	1	0	1		
+97	rich :: poor	poor :: rich	0	0	0	0	0	0		
+98	hard :: soft	soft :: hard	0	0	0	0	0	0		
+99	remote :: involved	involved :: remote	1	0	0	0	0	0		left pole - virtue of care
+100	metaphorical :: literal	literal :: metaphorical	0	0	0	0	0	0		
+101	biased :: impartial	impartial :: biased	0	1	0	0	0	0		
+102	mundane :: extraordinary	extraordinary :: mundane	0	0	0	0	0	0		
+103	tiresome :: interesting	interesting :: tiresome	0	0	0	0	0	0		
+104	smooth :: rough	rough :: smooth	0	0	0	0	0	0		
+105	spicy :: mild	mild :: spicy	0	0	0	0	0	0		
+106	enslaved :: emancipated	emancipated :: enslaved	0	0	0	1	0	1		
+107	optimistic :: pessimistic	pessimistic :: optimistic	0	0	0	0	0	0		
+108	sickly :: healthy	healthy :: sickly	0	0	0	0	1	0		
+109	luddite :: technophile	technophile :: luddite	0	0	0	0	0	0		
+110	vain :: demure	demure :: vain	0	0	0	0	1	0		
+111	high-tech :: low-tech	low-tech :: high-tech	0	0	0	0	0	0		
+112	flexible :: rigid	rigid :: flexible	0	0	0	1	0	0		
+113	cosmopolitan :: provincial	provincial :: cosmopolitan	0	0	0	0	0	0		
+114	arcane :: mainstream	mainstream :: arcane	0	0	0	0	0	0		
+115	outlaw :: sheriff	sheriff :: outlaw	0	0	0	1	0	1		
+116	pronatalist :: child free	child free :: pronatalist	0	0	0	0	0	0		
+117	sad :: happy	happy :: sad	0	0	0	0	0	0		
+118	jealous :: compersive	compersive :: jealous	1	0	0	0	0	0		
+119	bitter :: sweet	sweet :: bitter	0	0	0	0	0	0		
+120	resigned :: resistant	resistant :: resigned	0	0	0	1	0	1		
+121	sarcastic :: genuine	genuine :: sarcastic	0	0	0	0	0	0		
+122	human :: animalistic	animalistic :: human	0	0	0	0	1	0		
+123	sporty :: bookish	bookish :: sporty	0	0	0	0	0	0		
+124	moderate :: extreme	extreme :: moderate	0	0	0	0	1	0		
+125	angry :: good-humored	good-humored :: angry	0	0	0	0	0	0		
+126	depressed :: bright	bright :: depressed	0	0	0	0	0	0		
+127	self-conscious :: self-assured	self-assured :: self-conscious	0	0	0	0	0	0		
+128	vulnerable :: armoured	armoured :: vulnerable	0	0	0	0	0	0		
+129	warm :: cold	cold :: warm	0	0	0	0	0	0		fixed traits vs towards other people
+130	assertive :: passive	passive :: assertive	0	0	0	0	0	0		
+131	active :: slothful	slothful :: active	0	0	0	0	0	0		
+132	imaginative :: practical	practical :: imaginative	0	0	0	0	0	0		
+133	adventurous :: stick-in-the-mud	stick-in-the-mud :: adventurous	0	0	0	0	0	0		
+134	obedient :: rebellious	rebellious :: obedient	0	0	0	1	0	1		
+135	competent :: incompetent	incompetent :: competent	0	0	0	0	0	0		
+136	unambitious :: driven	driven :: unambitious	0	0	0	0	0	0		
+137	simple :: complicated	complicated :: simple	0	0	0	0	0	0		
+138	proletariat :: bourgeoisie	bourgeoisie :: proletariat	0	0	0	1	0	1		
+139	alpha :: beta	beta :: alpha	0	0	0	0	0	0		
+140	right-brained :: left-brained	left-brained :: right-brained	0	0	0	0	0	0		
+141	thick-skinned :: sensitive	sensitive :: thick-skinned	0	0	0	0	0	0		
+142	charismatic :: uninspiring	uninspiring :: charismatic	0	0	0	0	0	0		
+143	feisty :: gracious	gracious :: feisty	1	0	0	0	0	0		barbaric vs civilized
+144	eloquent :: unpolished	unpolished :: eloquent	0	0	0	0	0	0		
+145	high IQ :: low IQ	low IQ :: high IQ	0	0	0	0	0	0		
+146	insider :: outsider	outsider :: insider	0	0	1	0	0	0		
+147	morning lark :: night owl	night owl :: morning lark	0	0	0	0	0	0		
+148	thin :: thick	thick :: thin	0	0	0	0	0	0		
+149	sheeple :: conspiracist	conspiracist :: sheeple	0	0	0	0	0	0		
+150	neat :: messy	messy :: neat	0	0	0	0	1	0		
+151	vague :: precise	precise :: vague	0	0	0	0	0	0		
+152	philosophical :: real	real :: philosophical	0	0	0	0	0	0		
+153	modern :: historical	historical :: modern	0	0	0	0	0	0		
+154	judgemental :: accepting	accepting :: judgemental	1	0	1	1	0	1		
+155	average :: deviant	deviant :: average	0	0	0	1	1	1		
+156	gossiping :: confidential	confidential :: gossiping	0	1	0	0	0	0		care (shelted) 
+157	official :: backdoor	backdoor :: official	0	0	0	0	1	0		
+158	scholarly :: crafty	crafty :: scholarly	0	0	0	0	0	0		
+159	leisurely :: hurried	hurried :: leisurely	0	0	0	0	0	0		
+160	explorer :: builder	builder :: explorer	0	0	0	0	0	0		
+161	captain :: first-mate	first-mate :: captain	0	0	0	1	0	0		
+162	mysterious :: unambiguous	unambiguous :: mysterious	0	0	0	0	0	0		
+163	independent :: codependent	codependent :: independent	0	0	0	0	0	1		
+164	family-first :: work-first	work-first :: family-first	0	0	0	0	0	0		
+165	scruffy :: manicured	manicured :: scruffy	0	0	0	0	1	0		
+166	wild :: tame	tame :: wild	0	0	0	1	0	1		
+167	prestigious :: disreputable	disreputable :: prestigious	0	0	0	0	0	0		
+168	scandalous :: proper	proper :: scandalous	0	0	0	1	1	1		
+169	unprepared :: hoarder	hoarder :: unprepared	0	0	0	0	0	0		
+170	sheltered :: street-smart	street-smart :: sheltered	0	0	0	0	0	0		
+171	open-minded :: close-minded	close-minded :: open-minded	0	0	0	0	0	1		
+172	permanent :: transient	transient :: permanent	0	0	0	0	0	0		
+173	dramatic :: no-nonsense	no-nonsense :: dramatic	0	0	0	0	0	0		
+174	apprentice :: master	master :: apprentice	0	0	0	0	0	0		
+175	straight :: queer	queer :: straight	0	0	0	0	0	0		
+176	androgynous :: gendered	gendered :: androgynous	0	0	0	0	0	0		
+177	repetitive :: varied	varied :: repetitive	0	0	0	0	0	0		
+178	patient :: impatient	impatient :: patient	0	0	0	0	0	0		
+179	poisonous :: nurturing	nurturing :: poisonous	1	0	0	0	0	0		
+180	creepy :: disarming	disarming :: creepy	0	0	0	0	1	0		
+181	inspiring :: cringeworthy	cringeworthy :: inspiring	0	0	0	0	0	0		
+182	soulless :: soulful	soulful :: soulless	1	0	0	0	0	0		warm vs cold 
+183	beautiful :: ugly	ugly :: beautiful	0	0	0	0	0	0		
+184	domestic :: industrial	industrial :: domestic	0	0	0	0	0	0		
+185	juvenile :: mature	mature :: juvenile	0	0	0	0	0	0		
+186	idealist :: realist	realist :: idealist	0	0	0	0	0	0		
+187	nihilist :: existentialist	existentialist :: nihilist	0	0	0	0	0	0		
+188	objective :: subjective	subjective :: objective	0	0	0	0	0	0		
+189	theist :: atheist	atheist :: theist	0	0	0	0	0	0		
+190	classical :: avant-garde	avant-garde :: classical	0	0	0	0	0	0		
+191	utilitarian :: decorative	decorative :: utilitarian	0	0	0	0	0	0		
+192	generalist :: specialist	specialist :: generalist	0	0	0	0	0	0		
+193	multicolored :: monochrome	monochrome :: multicolored	0	0	0	0	0	0		
+194	complimentary :: insulting	insulting :: complimentary	1	0	0	0	0	0		
+195	individualist :: communal	communal :: individualist	0	1	1	0	0	0		newer version of MFT splitting fairness
+196	equitable :: hypocritical	hypocritical :: equitable	0	1	0	0	0	0		
+197	traditional :: unorthodox	unorthodox :: traditional	0	0	0	1	0	1		
+198	workaholic :: slacker	slacker :: workaholic	0	0	0	0	0	0		
+199	resourceful :: helpless	helpless :: resourceful	0	0	0	0	0	0		
+200	crazy :: sane	sane :: crazy	0	0	0	0	0	0		
+201	anarchist :: statist	statist :: anarchist	0	0	0	1	0	1		
+202	cool :: dorky	dorky :: cool	0	0	0	0	0	0		
+203	important :: irrelevant	irrelevant :: important	0	0	0	0	0	0		
+204	noob :: pro	pro :: noob	0	0	0	0	0	0		
+205	deranged :: reasonable	reasonable :: deranged	0	0	0	0	0	0		
+206	rural :: urban	urban :: rural	0	0	0	0	0	0		
+207	introspective :: not introspective	not introspective :: introspective	0	0	0	0	0	0		
+208	city-slicker :: country-bumpkin	country-bumpkin :: city-slicker	0	0	0	0	0	0		
+209	western :: eastern	eastern :: western	0	0	0	0	0	0		
+210	mad :: glad	glad :: mad	0	0	0	0	0	0		
+211	social :: reclusive	reclusive :: social	0	0	0	0	0	0		
+212	studious :: goof-off	goof-off :: studious	0	0	0	0	0	0		
+213	slugabed :: go-getter	go-getter :: slugabed	0	0	0	0	0	0		
+214	penny-pincher :: overspender	overspender :: penny-pincher	0	0	0	0	0	0		
+215	liberal :: conservative	conservative :: liberal	0	0	0	1	0	1		
+216	unassuming :: pretentious	pretentious :: unassuming	0	1	0	0	1	0		
+217	persistent :: quitter	quitter :: persistent	0	0	0	0	0	0		
+218	hedonist :: monastic	monastic :: hedonist	0	0	0	0	1	0		
+219	patriotic :: unpatriotic	unpatriotic :: patriotic	0	0	1	0	0	0		
+220	tactful :: indiscreet	indiscreet :: tactful	1	0	0	0	0	0		
+221	wholesome :: salacious	salacious :: wholesome	0	0	0	0	1	0		
+222	joyful :: miserable	miserable :: joyful	0	0	0	0	0	0		
+223	zany :: regular	regular :: zany	0	0	0	0	0	0		
+224	alert :: oblivious	oblivious :: alert	0	0	0	0	0	0		
+225	feminist :: sexist	sexist :: feminist	0	1	0	0	0	0		
+226	racist :: egalitarian	egalitarian :: racist	1	1	0	0	0	0		care is universal or just in-group? 
+227	abstract :: concrete	concrete :: abstract	0	0	0	0	0	0		
+228	formal :: intimate	intimate :: formal	0	0	0	0	0	0		
+229	resolute :: wavering	wavering :: resolute	0	0	0	0	0	0		
+230	deep :: shallow	shallow :: deep	0	0	0	0	0	0		
+231	valedictorian :: drop out	drop out :: valedictorian	0	0	0	0	0	0		
+232	minimalist :: pack rat	pack rat :: minimalist	0	0	0	0	1	0		
+233	trash :: treasure	treasure :: trash	0	0	0	0	0	0		
+234	stinky :: fresh	fresh :: stinky	0	0	0	0	1	0		
+235	legit :: scrub	scrub :: legit	0	0	0	0	1	0		
+236	self-destructive :: self-improving	self-improving :: self-destructive	0	0	0	0	1	0		
+237	French :: Russian	Russian :: French	0	0	0	0	0	0		
+238	German :: English	English :: German	0	0	0	0	0	0		
+239	Italian :: Swedish	Swedish :: Italian	0	0	0	0	0	0		
+240	Greek :: Roman	Roman :: Greek	0	0	0	0	0	0		
+241	traumatized :: flourishing	flourishing :: traumatized	0	0	0	0	0	0		
+242	sturdy :: flimsy	flimsy :: sturdy	0	0	0	0	0	0		
+243	macho :: metrosexual	metrosexual :: macho	0	0	0	0	0	0		
+244	claustrophobic :: spelunker	spelunker :: claustrophobic	0	0	0	0	0	0		
+245	offended :: chill	chill :: offended	0	0	0	0	0	0		
+246	rhythmic :: stuttering	stuttering :: rhythmic	0	0	0	0	0	0		
+247	musical :: off-key	off-key :: musical	0	0	0	0	0	0		
+248	lost :: enlightened	enlightened :: lost	0	0	0	0	0	0		
+249	masochistic :: pain-avoidant	pain-avoidant :: masochistic	0	0	0	0	0	0		
+250	efficient :: overprepared	overprepared :: efficient	0	0	0	0	0	0		
+251	oppressed :: privileged	privileged :: oppressed	0	1	0	1	0	1		
+252	sunny :: gloomy	gloomy :: sunny	0	0	0	0	0	0		
+253	vegan :: cannibal	cannibal :: vegan	1	0	0	0	1	0		is eating your alikes acceptable? 
+254	loveable :: punchable	punchable :: loveable	1	0	0	0	0	0		
+255	slow-talking :: fast-talking	fast-talking :: slow-talking	0	0	0	0	0	0		
+256	believable :: poorly-written	poorly-written :: believable	0	0	0	0	0	0		
+257	vibrant :: geriatric	geriatric :: vibrant	0	0	0	0	0	0		
+258	consistent :: variable	variable :: consistent	0	0	0	0	0	0		
+259	dispassionate :: romantic	romantic :: dispassionate	0	0	0	0	0	0		
+260	linear :: circular	circular :: linear	0	0	0	0	0	0		
+261	intense :: lighthearted	lighthearted :: intense	0	0	0	0	0	0		
+262	knowledgeable :: ignorant	ignorant :: knowledgeable	0	0	0	0	0	0		
+263	fixable :: unfixable	unfixable :: fixable	0	0	0	0	0	0		
+264	exuberant :: subdued	subdued :: exuberant	0	0	0	0	0	0		
+265	secretive :: open-book	open-book :: secretive	0	1	1	0	0	0		
+266	perceptive :: unobservant	unobservant :: perceptive	0	0	0	0	0	0		
+267	folksy :: presidential	presidential :: folksy	0	0	0	0	0	0		
+268	corporate :: freelance	freelance :: corporate	0	0	0	1	0	1		
+269	sleepy :: frenzied	frenzied :: sleepy	0	0	0	0	0	0		
+270	loose :: tight	tight :: loose	0	0	0	1	0	1		
+271	narcissistic :: low self esteem	low self esteem :: narcissistic	0	0	0	0	0	0		
+272	poetic :: factual	factual :: poetic	0	0	0	0	0	0		
+273	melee :: ranged	ranged :: melee	0	0	0	0	0	0		
+274	giggling :: chortling	chortling :: giggling	0	0	0	0	0	0		
+275	whippersnapper :: sage	sage :: whippersnapper	0	0	0	0	0	0		
+276	tailor :: blacksmith	blacksmith :: tailor	0	0	0	0	0	0		
+277	hunter :: gatherer	gatherer :: hunter	0	0	0	0	0	0		
+278	experimental :: reliable	reliable :: experimental	0	0	1	0	0	0		
+279	moist :: dry	dry :: moist	0	0	0	0	0	0		
+280	trolling :: triggered	triggered :: trolling	1	0	0	0	0	0		
+281	tattle-tale :: f***-the-police	f***-the-police :: tattle-tale	0	0	0	1	0	1		
+282	punk rock :: preppy	preppy :: punk rock	0	0	0	0	0	0		
+283	realistic :: fantastical	fantastical :: realistic	0	0	0	0	0	0		
+284	trendy :: vintage	vintage :: trendy	0	0	0	0	0	0		
+285	factual :: exaggerating	exaggerating :: factual	0	1	0	0	0	0		
+286	good-cook :: bad-cook	bad-cook :: good-cook	0	0	0	0	0	0		
+287	comedic :: dramatic	dramatic :: comedic	0	0	0	0	0	0		
+288	OCD :: ADHD	ADHD :: OCD	0	0	0	0	0	0		
+289	interrupting :: attentive	attentive :: interrupting	1	0	0	0	0	0		
+290	exhibitionist :: bashful	bashful :: exhibitionist	0	0	0	0	0	0		
+291	badass :: weakass	weakass :: badass	0	0	0	0	0	1		
+292	gamer :: non-gamer	non-gamer :: gamer	0	0	0	0	0	0		
+293	random :: pointed	pointed :: random	0	0	0	0	0	0		
+294	epic :: deep	deep :: epic	0	0	0	0	0	0		
+295	serene :: pensive	pensive :: serene	1	0	0	0	1	0		
+296	bored :: interested	interested :: bored	0	0	0	0	0	0		
+297	envious :: prideful	prideful :: envious	0	0	0	0	0	0		
+298	ironic :: profound	profound :: ironic	1	0	0	0	0	0		
+299	sexual :: asexual	asexual :: sexual	0	0	0	0	0	0		
+300	clean :: perverted	perverted :: clean	0	0	0	0	1	0		
+301	empath :: psychopath	psychopath :: empath	1	0	0	0	0	0		
+302	haunted :: blissful	blissful :: haunted	0	0	0	0	1	0		
+303	entitled :: grateful	grateful :: entitled	0	0	0	0	0	0		
+304	ambitious :: realistic	realistic :: ambitious	0	0	0	0	0	0		
+305	stuck-in-the-past :: forward-thinking	forward-thinking :: stuck-in-the-past	0	0	0	0	0	0		
+306	fire :: water	water :: fire	0	0	0	0	0	0		
+307	earth :: air	air :: earth	0	0	0	0	0	0		
+308	lover :: fighter	fighter :: lover	1	0	0	0	0	0		
+309	overachiever :: underachiever	underachiever :: overachiever	0	0	0	0	0	0		
+310	Coke :: Pepsi	Pepsi :: Coke	0	0	0	0	0	0		
+311	twitchy :: still	still :: twitchy	0	0	0	0	0	0		
+312	freak :: normie	normie :: freak	0	0	0	0	1	0		
+313	thinker :: doer	doer :: thinker	0	0	0	0	0	0		
+314	hard-work :: natural-talent	natural-talent :: hard-work	0	0	0	0	0	0		
+315	stingy :: generous	generous :: stingy	0	0	0	0	0	0		
+316	stubborn :: accommodating	accommodating :: stubborn	1	0	0	0	0	0		
+317	extravagant :: thrifty	thrifty :: extravagant	0	0	0	0	0	0		
+318	demanding :: unchallenging	unchallenging :: demanding	0	0	0	0	0	0		
+319	two-faced :: one-faced	one-faced :: two-faced	0	0	1	0	0	0		
+320	plastic :: wooden	wooden :: plastic	0	0	0	0	0	0		
+321	neutral :: opinionated	opinionated :: neutral	0	1	0	0	0	0		
+322	chivalrous :: businesslike	businesslike :: chivalrous	0	0	0	0	0	0		
+323	high standards :: desperate	desperate :: high standards	0	0	0	0	0	0		
+324	on-time :: tardy	tardy :: on-time	0	0	0	0	0	0		
+325	everyman :: chosen one	chosen one :: everyman	0	0	0	0	0	0		
+326	jealous :: opinionated	opinionated :: jealous	0	1	0	0	0	0		
+327	protagonist :: antagonist	antagonist :: protagonist	0	0	0	0	0	0		
+328	devoted :: unfaithful	unfaithful :: devoted	1	0	1	0	0	0		
+329	fearmongering :: reassuring	reassuring :: fearmongering	0	0	0	0	0	0		
+330	common sense :: analysis	analysis :: common sense	0	0	0	0	0	0		
+331	unemotional :: emotional	emotional :: unemotional	1	0	0	0	0	0		
+332	rap :: rock	rock :: rap	0	0	0	0	0	0		
+333	genocidal :: not genocidal	not genocidal :: genocidal	1	0	0	0	0	0		
+334	cat person :: dog person	dog person :: cat person	0	0	0	0	0	0		
+335	indie :: pop	pop :: indie	0	0	0	0	0	0		
+336	cultured :: rustic	rustic :: cultured	0	0	0	0	0	0		
+337	tautology :: oxymoron	oxymoron :: tautology	0	0	0	0	0	0		
+338	bad boy :: white knight	white knight :: bad boy	1	0	0	0	1	0		
+339	princess :: queen	queen :: princess	0	0	0	0	0	0		
+340	hypochondriac :: stoic	stoic :: hypochondriac	1	0	0	0	0	0		
+341	yes-man :: contrarian	contrarian :: yes-man	0	0	1	0	0	0		
+342	giving :: receiving	receiving :: giving	1	0	0	0	0	0		
+343	chic :: cheesy	cheesy :: chic	0	0	0	0	0	0		
+344	celebrity :: boy/girl-next-door	boy/girl-next-door :: celebrity	0	0	0	0	0	0		
+345	goth :: flower child	flower child :: goth	0	0	0	0	0	0		
+346	summer :: winter	winter :: summer	0	0	0	0	0	0		
+347	frank :: sugarcoated	sugarcoated :: frank								
+348	naive :: paranoid	paranoid :: naive	0	0	0	0	0	0		
+349	gullible :: cynical	cynical :: gullible								
+350	motivated :: unmotivated	unmotivated :: motivated								
+351	radical :: centrist	centrist :: radical	0	0	0	1	0	1		
+352	monotone :: expressive	expressive :: monotone								
+353	love-focused :: money-focused	money-focused :: love-focused	1							
+354	transparent :: machiavellian	machiavellian :: transparent	0	1	0	0	0	0		
+355	timid :: cocky	cocky :: timid	0	0	0	0	0	0		
+356	concise :: long-winded	long-winded :: concise	0	0	0	0	0	0		
+357	picky :: always down	always down :: picky	0	0	0	0	0	0		
+358	proactive :: reactive	reactive :: proactive	0	0	0	0	0	0		
+359	prudish :: flirtatious	flirtatious :: prudish	0							
+360	innocent :: jaded	jaded :: innocent								
+361	touchy-feely :: distant	distant :: touchy-feely								
+362	muddy :: washed	washed :: muddy								
+363	quirky :: predictable	predictable :: quirky								
+364	never cries :: often crying	often crying :: never cries	0	0	0	0	0	0		
+365	main character :: side character	side character :: main character	0	0	0	0	0	0		
+366	original :: clich??	clich?? :: original								
+367	hugs :: handshakes	handshakes :: hugs	0	0	0	0	0	0		
+368	homebody :: world traveler	world traveler :: homebody	0	0	0	0	0	0		
+369	naughty :: nice	nice :: naughty	0	0	0	0	1	0		
+370	junkie :: straight edge	straight edge :: junkie	0	0	0	0	1	0		
+371	small-vocabulary :: big-vocabulary	big-vocabulary :: small-vocabulary	0	0	0	0	0	0		
+372	dystopian :: utopian	utopian :: dystopian								
+373	parental :: childlike	childlike :: parental	0	0	0	0	0	0		
+374	writer :: reader	reader :: writer	0	0	0	0	0	0		
+375	creator :: consumer	consumer :: creator								
+376	capitalist :: communist	communist :: capitalist								
+377	positive :: negative	negative :: positive								
+378	grounded :: fantasy-prone	fantasy-prone :: grounded	0	0	0	0	0	0		
+379	thinker :: feeler	feeler :: thinker								
+380	insightful :: generic	generic :: insightful								
+381	questioning :: believing	believing :: questioning								
+382	proud :: apologetic	apologetic :: proud								
+383	bubbly :: flat	flat :: bubbly	0	0	0	0	0	0		
+384	tired :: wired	wired :: tired								
+385	woke :: problematic	problematic :: woke								
+386	grumpy :: cheery	cheery :: grumpy								
+387	hippie :: militaristic	militaristic :: hippie								
+388	gluttonous :: moderate	moderate :: gluttonous								
+389	flawed :: perfect	perfect :: flawed	0	0	0	0	1	0		
+390	sweet :: savory	savory :: sweet	0	0	0	0	0	0		
+391	annoying :: unannoying	unannoying :: annoying	0	0	0	0	0	0		
+392	good-manners :: bad-manners	bad-manners :: good-manners	0	0	0	0	1	0		
+393	evolutionist :: creationist	creationist :: evolutionist								
+394	fulfilled :: unfulfilled	unfulfilled :: fulfilled								
+395	friendly :: unfriendly	unfriendly :: friendly								
+396	innovative :: routine	routine :: innovative								
+397	delicate :: coarse	coarse :: delicate								
+398	resentful :: euphoric	euphoric :: resentful								
+399	uptight :: easy	easy :: uptight	0	0	0	0	0	0		
+400	blue :: red	red :: blue								
+401	slumbering :: insomniac	insomniac :: slumbering								
+402	spirited :: lifeless	lifeless :: spirited								
+403	outgoing :: withdrawn	withdrawn :: outgoing	0	0	0	0	0	0		
+404	Hates PDA :: Constant PDA	Constant PDA :: Hates PDA	0	0	0	0	0	0		
+405	buffoon :: charmer	charmer :: buffoon	0	0	0	0	0	0		
+406	sloppy :: fussy	fussy :: sloppy								
+407	accurate :: off target	off target :: accurate	0	0	0	0	0	0		
+408	harsh :: gentle	gentle :: harsh	1	0	0	0	0	0		
+409	clinical :: heartfelt	heartfelt :: clinical	1	0	0	0	0	0		
+410	inappropriate :: seemly	seemly :: inappropriate	0	0	0	0	1	0		
+411	smug :: sheepish	sheepish :: smug								
+412	fake :: real	real :: fake								
+413	popular :: rejected	rejected :: popular	0	0	1	0	0	0		
+414	catty :: supportive	supportive :: catty	1	0	0	0	0	0		
+415	chronically single :: serial dater	serial dater :: chronically single	0	0	0	0	0	0		
+416	people-person :: things-person	things-person :: people-person	1	0	0	0	0	0		
+417	eager :: reluctant	reluctant :: eager								
+418	goal-oriented :: experience-oriented	experience-oriented :: goal-oriented								
+419	outdoorsy :: indoorsy	indoorsy :: outdoorsy	0	0	0	0	0	0		
+420	divine :: earthly	earthly :: divine	0	0	0	0	1	0		
+421	foodie :: unenthusiastic about food	unenthusiastic about food :: foodie	0	0	0	0	0	0		
+422	chill :: sassy	sassy :: chill	0	0	0	0	0	0		
+423	glamorous :: spartan	spartan :: glamorous								
+424	prankster :: anti-prank	anti-prank :: prankster								
+425	goofy :: unfrivolous	unfrivolous :: goofy	0	0	0	0	0	0		
+426	noble :: jovial	jovial :: noble								
+427	blessed :: cursed	cursed :: blessed	0	0	0	0	0	0		
+428	forward :: repressed	repressed :: forward								
+429	entrepreneur :: employee	employee :: entrepreneur								
+430	quivering :: unstirring	unstirring :: quivering								
+431	mechanical :: natural	natural :: mechanical								
+432	minds-own-business :: snoops	snoops :: minds-own-business								
+433	prying :: unmeddlesome	unmeddlesome :: prying								
+434	leader :: follower	follower :: leader	0	0	0	1	0	0		
+435	handy :: can't-fix-anything	can't-fix-anything :: handy	0							
+436	green thumb :: plant-neglecter	plant-neglecter :: green thumb								
+437	activist :: nonpartisan	nonpartisan :: activist								
+438	photographer :: physicist	physicist :: photographer								
+439	lumberjack :: mad-scientist	mad-scientist :: lumberjack								
+440	pointless :: meaningful	meaningful :: pointless								
+441	focused :: absentminded	absentminded :: focused	0							
+442	bear :: wolf	wolf :: bear	0	0	0	0	0	0		
+443	lion :: zebra	zebra :: lion	0	0	0	0	0	0		
+444	kangaroo :: dolphin	dolphin :: kangaroo	0	0	0	0	0	0		
+445	all-seeing :: blind	blind :: all-seeing	0	0	0	0	0	0		
+446	engineerial :: lawyerly	lawyerly :: engineerial								
+447	love shy :: cassanova	cassanova :: love shy								
+448	disturbing :: enchanting	enchanting :: disturbing								
+449	maverick :: conformist	conformist :: maverick	0	0	0	1	0	1		
+450	social climber :: nonconformist	nonconformist :: social climber								
+451	social chameleon :: strong identity	strong identity :: social chameleon								
+452	awkward :: comfortable	comfortable :: awkward								
+453	sincere :: irreverent	irreverent :: sincere								
+454	intuitive :: analytical	analytical :: intuitive								
+455	cringing away :: welcoming experience	welcoming experience :: cringing away								
+456	stereotypical :: boundary breaking	boundary breaking :: stereotypical								
+457	energetic :: mellow	mellow :: energetic								
+458	hopeful :: fearful	fearful :: hopeful								
+459	likes change :: resists change	resists change :: likes change								
+460	manic :: mild	mild :: manic								
+461	old-fashioned :: progressive	progressive :: old-fashioned	0	0	0	1	0	1		
+462	gross :: hygienic	hygienic :: gross	0	0	0	0	1	0		
+463	stable :: unstable	unstable :: stable								
+464	overthinker :: underthinker	underthinker :: overthinker	0	0	0	0	0	0		

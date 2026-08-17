@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+376	capitalist :: communist	capitalist	communist	0	1	1	0	0	1	0	Fairness relates to equity/rights debates central to both ideologies; loyalty relates to collectivism (communist pole); liberty relates to individual freedom (capitalist pole) vs. collective control.
+377	positive :: negative	positive	negative	0	0	0	0	0	0	0	General disposition/affect, not morally grounded in any foundation.
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	0	Cognitive/perceptual style, not morally relevant to any foundation.
+379	thinker :: feeler	thinker	feeler	1	0	0	0	0	0	0	Feeler pole relates to empathy and care foundation.
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	0	Cognitive trait, not morally relevant to any foundation.
+381	questioning :: believing	questioning	believing	0	0	0	1	0	0	0	Questioning pole relates to defiance/dissent from authority; believing pole relates to deference and tradition.
+382	proud :: apologetic	proud	apologetic	0	0	0	0	0	0	0	Emotional/dispositional trait without clear moral foundation grounding.
+383	bubbly :: flat	bubbly	flat	0	0	0	0	0	0	0	Personality/affect style, not morally relevant.
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	Energy/arousal state, not morally relevant.
+385	woke :: problematic	woke	problematic	1	1	0	0	0	1	1	Woke pole relates to care for marginalized groups, fairness/equality, and liberty from oppression; problematic pole implies general moral failing.
+386	grumpy :: cheery	grumpy	cheery	0	0	0	0	0	0	0	Mood/affect trait, not morally relevant.
+387	hippie :: militaristic	hippie	militaristic	1	0	1	1	1	1	0	Hippie pole relates to peace/care, liberty, and naturalness/purity; militaristic pole relates to authority, loyalty, and group defense.
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	1	0	1	Gluttony relates to purity/self-discipline failure; moderate pole reflects self-restraint virtue. General moral connotation of gluttony as vice.
+389	flawed :: perfect	flawed	perfect	0	0	0	0	1	0	1	Perfect pole relates to purity/immaculate ideals; general moral virtue/vice connotation.
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	Taste preference, not morally relevant.
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	Social/interpersonal style, not morally grounded in any foundation.
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	1	0	0	1	Manners relate to authority/respect for social norms and traditions; general moral virtue connotation.
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	1	1	0	0	Creationist pole relates to religious tradition (authority) and sacred/spiritual worldview (purity).
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	0	Psychological state, not morally relevant to any foundation.
+395	friendly :: unfriendly	friendly	unfriendly	1	0	0	0	0	0	0	Friendly pole relates to care/kindness foundation.
+396	innovative :: routine	innovative	routine	0	0	0	1	0	0	0	Routine pole relates to tradition and authority foundation; innovative pole implies departure from tradition.
+397	delicate :: coarse	delicate	coarse	0	0	0	0	1	0	0	Coarse pole relates to impurity/indecency; delicate pole relates to refinement in purity foundation.
+398	resentful :: euphoric	resentful	euphoric	0	0	0	0	0	0	0	Emotional states, not morally relevant to any foundation.
+399	uptight :: easy	uptight	easy	0	0	0	0	0	0	0	Personality/disposition trait, not morally relevant.
+400	blue :: red	blue	red	1	1	1	1	1	1	0	Political color coding (Democrat/Republican) maps broadly onto all MFT foundations as the two parties differ systematically across all foundations.

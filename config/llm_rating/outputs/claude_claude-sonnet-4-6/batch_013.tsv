@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+301	empath :: psychopath	empath	psychopath	1	0	0	0	0	0	1	empath maps to care/compassion; psychopath implies general moral vice
+302	haunted :: blissful	haunted	blissful	0	0	0	0	0	0	0	emotional/psychological states without clear moral foundation relevance
+303	entitled :: grateful	entitled	grateful	0	1	0	0	0	0	1	entitlement relates to fairness/reciprocity violations; general moral virtue/vice dimension
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	0	0	personality/motivational style without clear moral foundation relevance
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	1	0	0	0	stuck-in-the-past loosely relates to tradition/authority foundation
+306	fire :: water	fire	water	0	0	0	0	0	0	0	elemental metaphor with no clear moral foundation relevance
+307	earth :: air	earth	air	0	0	0	0	0	0	0	elemental metaphor with no clear moral foundation relevance
+308	lover :: fighter	lover	fighter	1	0	0	0	0	0	0	fighter pole relates to harm/violence; lover pole relates to care
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	0	0	achievement orientation without clear moral foundation relevance
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	0	0	brand preference with no moral foundation relevance
+311	twitchy :: still	twitchy	still	0	0	0	0	0	0	0	physical/behavioral style with no clear moral foundation relevance
+312	freak :: normie	freak	normie	0	0	0	1	1	1	0	freak implies nonconformity (liberty/authority); normie implies conformity to norms; purity relates to disgust-based othering of the freak pole
+313	thinker :: doer	thinker	doer	0	0	0	0	0	0	0	cognitive/action style with no clear moral foundation relevance
+314	hard-work :: natural-talent	hard-work	natural-talent	0	1	0	0	0	0	0	hard-work relates to fairness/reciprocity; effort-based merit is a fairness concept
+315	stingy :: generous	stingy	generous	1	1	0	0	0	0	1	generosity relates to care and fairness/reciprocity; stinginess is a general moral vice
+316	stubborn :: accommodating	stubborn	accommodating	0	0	0	1	0	0	0	accommodating relates to compliance/deference in authority foundation
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	1	0	0	thrifty relates to purity's self-discipline and austerity; extravagance implies lack of restraint
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	1	0	0	0	demanding relates to authority/leadership style
+319	two-faced :: one-faced	two-faced	one-faced	0	1	1	0	0	0	1	two-faced implies dishonesty/betrayal, relating to fairness and loyalty violations; general moral vice
+320	plastic :: wooden	plastic	wooden	0	0	0	0	0	0	0	personality texture metaphor with no clear moral foundation relevance
+321	neutral :: opinionated	neutral	opinionated	0	0	0	0	0	0	0	attitudinal style with no clear moral foundation relevance
+322	chivalrous :: businesslike	chivalrous	businesslike	1	0	0	1	1	0	1	chivalrous implies care, traditional honor codes (authority), and elevated/noble conduct (purity); general moral virtue
+323	high standards :: desperate	high standards	desperate	0	0	0	0	1	0	0	high standards relates to purity's self-improvement and elevated conduct
+324	on-time :: tardy	on-time	tardy	0	1	0	1	0	0	0	punctuality relates to respect for rules/authority and fairness to others' time
+325	everyman :: chosen one	everyman	chosen one	0	1	0	1	0	0	0	chosen one implies special status/hierarchy (authority); fairness relates to egalitarianism vs. special status

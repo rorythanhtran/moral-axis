@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+226	racist :: egalitarian	racist	egalitarian	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+227	abstract :: concrete	abstract	concrete	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+228	formal :: intimate	formal	intimate	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+229	resolute :: wavering	resolute	wavering	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+230	deep :: shallow	deep	shallow	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+231	valedictorian :: drop out	valedictorian	drop out	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+232	minimalist :: pack rat	minimalist	pack rat	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+233	trash :: treasure	trash	treasure	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+234	stinky :: fresh	stinky	fresh	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+235	legit :: scrub	legit	scrub	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+236	self-destructive :: self-improving	self-destructive	self-improving	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+237	French :: Russian	French	Russian	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+238	German :: English	German	English	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+239	Italian :: Swedish	Italian	Swedish	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+240	Greek :: Roman	Greek	Roman	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+241	traumatized :: flourishing	traumatized	flourishing	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+242	sturdy :: flimsy	sturdy	flimsy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+243	macho :: metrosexual	macho	metrosexual	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+244	claustrophobic :: spelunker	claustrophobic	spelunker	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+245	offended :: chill	offended	chill	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+246	rhythmic :: stuttering	rhythmic	stuttering	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+247	musical :: off-key	musical	off-key	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+248	lost :: enlightened	lost	enlightened	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+249	masochistic :: pain-avoidant	masochistic	pain-avoidant	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+250	efficient :: overprepared	efficient	overprepared	0	0	0	0	0	0	0	ERROR: no valid model response after retries

@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+426	noble :: jovial	noble	jovial	0	0	0	0	0	0	1	0 noble is a general virtue
+427	blessed :: cursed	blessed	cursed	0	0	0	0	0	0	1	0 blessed and cursed are general moral concepts
+428	forward :: repressed	forward	repressed	0	0	0	0	0	0	1	0 forward and repressed are general moral concepts
+429	entrepreneur :: employee	entrepreneur	employee	0	0	0	0	0	0	1	0 entrepreneur and employee are general moral concepts
+430	quivering :: unstirring	quivering	unstirring	0	0	0	0	0	0	1	0 quivering and unstirring are general moral concepts
+431	mechanical :: natural	mechanical	natural	0	0	0	0	0	0	1	0 mechanical and natural are general moral concepts
+432	minds-own-business :: snoops	minds-own-business	snoops	0	0	0	0	0	0	1	0 minds-own-business and snoops are general moral concepts
+433	prying :: unmeddlesome	prying	unmeddlesome	0	0	0	0	0	0	1	0 prying and unmeddlesome are general moral concepts
+434	leader :: follower	leader	follower	0	0	0	0	0	0	1	0 leader and follower are general moral concepts
+435	handy :: can't-fix-anything	handy	can't-fix-anything	0	0	0	0	0	0	1	0 handy and can't-fix-anything are general moral concepts
+436	green thumb :: plant-neglecter	green thumb	plant-neglecter	0	0	0	0	0	0	1	0 green thumb and plant-neglecter are general moral concepts
+437	activist :: nonpartisan	activist	nonpartisan	0	0	0	0	0	0	1	0 activist and nonpartisan are general moral concepts
+438	photographer :: physicist	photographer	physicist	0	0	0	0	0	0	1	0 photographer and physicist are general moral concepts
+439	lumberjack :: mad-scientist	lumberjack	mad-scientist	0	0	0	0	0	0	1	0 lumberjack and mad-scientist are general moral concepts
+440	pointless :: meaningful	pointless	meaningful	0	0	0	0	0	0	1	0 pointless and meaningful are general moral concepts
+441	focused :: absentminded	focused	absentminded	0	0	0	0	0	0	1	0 focused and absentminded are general moral concepts
+442	bear :: wolf	bear	wolf	0	0	0	0	0	0	1	0 bear and wolf are general moral concepts
+443	lion :: zebra	lion	zebra	0	0	0	0	0	0	1	0 lion and zebra are general moral concepts
+444	kangaroo :: dolphin	kangaroo	dolphin	0	0	0	0	0	0	1	0 kangaroo and dolphin are general moral concepts
+445	all-seeing :: blind	all-seeing	blind	0	0	0	0	0	0	1	0 all-seeing and blind are general moral concepts
+446	engineerial :: lawyerly	engineerial	lawyerly	0	0	0	0	0	0	1	0 engineerial and lawyerly are general moral concepts
+447	love shy :: cassanova	love shy	cassanova	0	0	0	0	0	0	1	0 love shy and cassanova are general moral concepts
+448	disturbing :: enchanting	disturbing	enchanting	0	0	0	0	0	0	1	0 disturbing and enchanting are general moral concepts
+449	maverick :: conformist	maverick	conformist	0	0	0	0	0	0	1	0 maverick and conformist are general moral concepts
+450	social climber :: nonconformist	social climber	nonconformist	0	0	0	0	0	0	1	0 social climber and nonconformist are general moral concepts

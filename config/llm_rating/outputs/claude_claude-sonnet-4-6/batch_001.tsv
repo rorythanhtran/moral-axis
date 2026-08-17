@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+1	playful :: serious	playful	serious	0	0	0	0	0	0	0	
+2	shy :: bold	shy	bold	0	0	0	0	0	0	0	
+3	cheery :: sorrowful	cheery	sorrowful	0	0	0	0	0	0	0	
+4	masculine :: feminine	masculine	feminine	0	0	0	0	0	0	0	
+5	charming :: awkward	charming	awkward	0	0	0	0	0	0	0	
+6	lewd :: tasteful	lewd	tasteful	0	0	0	0	1	0	1	lewd maps directly to PurityVice (lewd*); tasteful implies decency, a purity virtue.
+7	intellectual :: physical	intellectual	physical	0	0	0	0	0	0	0	
+8	strict :: lenient	strict	lenient	0	0	0	1	0	0	0	strict relates to authority/discipline; lenient relates to reduced enforcement of rules.
+9	refined :: rugged	refined	rugged	0	0	0	0	1	0	0	refined maps to PurityVirtue (refined); the purity foundation underlies notions of elevated, noble living.
+10	trusting :: suspicious	trusting	suspicious	0	1	0	0	0	0	0	trust and suspicion relate to reciprocal altruism and fairness expectations.
+11	innocent :: worldly	innocent	worldly	0	0	0	0	1	0	0	innocent maps to PurityVirtue (innocent); worldly implies the opposite of purity/naivety.
+12	artistic :: scientific	artistic	scientific	0	0	0	0	0	0	0	
+13	stoic :: expressive	stoic	expressive	0	0	0	0	0	0	0	
+14	cunning :: honorable	cunning	honorable	0	1	0	1	0	0	1	honorable maps to AuthorityVirtue (honor*); cunning implies deception touching fairness and general morality.
+15	orderly :: chaotic	orderly	chaotic	0	0	0	1	0	0	0	orderly maps to AuthorityVirtue (order*).
+16	normal :: weird	normal	weird	0	0	0	0	0	0	0	
+17	competitive :: cooperative	competitive	cooperative	0	1	1	0	0	0	0	cooperative relates to loyalty/group solidarity and fairness through reciprocal altruism.
+18	tense :: relaxed	tense	relaxed	0	0	0	0	0	0	0	
+19	brave :: careful	brave	careful	0	0	0	0	0	0	1	bravery is a widely recognized virtue with general moral valence, though not specific to one MFT foundation.
+20	spiritual :: skeptical	spiritual	skeptical	0	0	0	0	1	0	0	spiritual maps to PurityVirtue; purity foundation underlies spirituality.
+21	unlucky :: fortunate	unlucky	fortunate	0	0	0	0	0	0	0	
+22	ferocious :: pacifist	ferocious	pacifist	1	0	0	0	0	0	0	ferocious relates to harm/violence (HarmVice); pacifist relates to peace (HarmVirtue).
+23	modest :: flamboyant	modest	flamboyant	0	0	0	0	1	0	0	modest maps to PurityVirtue (modesty).
+24	dominant :: submissive	dominant	submissive	0	0	0	1	0	1	0	submissive maps to AuthorityVirtue (submi*); dominant relates to liberty foundation as dominance/oppression.
+25	forgiving :: vengeful	forgiving	vengeful	1	1	0	0	0	0	1	forgiving relates to care/compassion; vengeful relates to fairness (reciprocity/justice); both poles carry broad moral valence.

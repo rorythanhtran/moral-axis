@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+76	quarrelsome :: warm	quarrelsome	warm	1	0	0	0	0	0	0	Right pole (warm) relates to care/nurturance; left pole (quarrelsome) is its absence.
+77	nerd :: jock	nerd	jock	0	0	0	0	0	0	0	Social/cultural identity types; no clear moral foundation relevance.
+78	lowbrow :: highbrow	lowbrow	highbrow	0	0	0	0	0	0	0	Cultural/aesthetic distinction; no clear moral foundation relevance.
+79	selfish :: altruistic	selfish	altruistic	1	1	0	0	0	0	1	Altruism relates to care and fairness/reciprocity; selfishness vs. altruism is a broad moral virtue/vice contrast.
+80	autistic :: neurotypical	autistic	neurotypical	0	0	0	0	0	0	0	Neurodevelopmental distinction; not a moral trait differential.
+81	angelic :: demonic	angelic	demonic	0	0	0	0	1	0	1	Angelic/demonic invokes purity/sanctity and broad moral goodness vs. evil.
+82	hesitant :: decisive	hesitant	decisive	0	0	0	0	0	0	0	Personality/behavioral style; no clear moral foundation relevance.
+83	devout :: heathen	devout	heathen	0	0	0	1	1	0	1	Devout relates to piety/authority (religious deference); heathen implies impiety/purity violation; general moral framing present.
+84	cruel :: kind	cruel	kind	1	0	0	0	0	0	1	Cruelty is a core harm/care vice; kindness is a core care virtue. Also broadly moral.
+85	direct :: roundabout	direct	roundabout	0	0	0	0	0	0	0	Communication style; no clear moral foundation relevance.
+86	mathematical :: literary	mathematical	literary	0	0	0	0	0	0	0	Cognitive/intellectual style distinction; no moral foundation relevance.
+87	blue-collar :: ivory-tower	blue-collar	ivory-tower	0	0	0	0	0	0	0	Socioeconomic/class distinction; no clear moral foundation relevance.
+88	slovenly :: stylish	slovenly	stylish	0	0	0	0	0	0	0	Aesthetic/grooming style; no clear moral foundation relevance.
+89	playful :: shy	playful	shy	0	0	0	0	0	0	0	Personality/social style; no clear moral foundation relevance.
+90	serious :: bold	serious	bold	0	0	0	0	0	0	0	Personality/behavioral style; no clear moral foundation relevance.
+91	charming :: trusting	charming	trusting	0	0	0	0	0	0	0	Social/interpersonal style; no clear moral foundation relevance.
+92	awkward :: suspicious	awkward	suspicious	0	0	0	0	0	0	0	Social/interpersonal style; no clear moral foundation relevance.
+93	hipster :: basic	hipster	basic	0	0	0	0	0	0	0	Cultural/aesthetic identity; no clear moral foundation relevance.
+94	coordinated :: clumsy	coordinated	clumsy	0	0	0	0	0	0	0	Physical/motor skill; no moral foundation relevance.
+95	funny :: humorless	funny	humorless	0	0	0	0	0	0	0	Personality/social style; no clear moral foundation relevance.
+96	politically correct :: edgy	politically correct	edgy	1	1	0	0	1	1	0	PC relates to care (avoiding harm) and fairness (avoiding offense/discrimination); edgy can invoke purity violations and liberty (freedom from speech constraints).
+97	rich :: poor	rich	poor	0	1	0	0	0	0	0	Wealth disparity relates to fairness/equality concerns.
+98	hard :: soft	hard	soft	0	0	0	0	0	0	0	Personality/temperament style; no clear moral foundation relevance.
+99	remote :: involved	remote	involved	1	0	1	0	0	0	0	Right pole (involved) relates to care and group loyalty/commitment; left pole (remote) implies detachment from both.
+100	metaphorical :: literal	metaphorical	literal	0	0	0	0	0	0	0	Cognitive/communication style; no moral foundation relevance.

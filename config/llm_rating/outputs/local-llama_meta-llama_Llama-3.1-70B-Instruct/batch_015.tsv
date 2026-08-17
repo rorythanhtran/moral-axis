@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+351	radical :: centrist	radical	centrist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+352	monotone :: expressive	monotone	expressive	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+353	love-focused :: money-focused	love-focused	money-focused	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+354	transparent :: machiavellian	transparent	machiavellian	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+355	timid :: cocky	timid	cocky	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+356	concise :: long-winded	concise	long-winded	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+357	picky :: always down	picky	always down	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+358	proactive :: reactive	proactive	reactive	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+359	prudish :: flirtatious	prudish	flirtatious	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+360	innocent :: jaded	innocent	jaded	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+361	touchy-feely :: distant	touchy-feely	distant	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+362	muddy :: washed	muddy	washed	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+363	quirky :: predictable	quirky	predictable	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+364	never cries :: often crying	never cries	often crying	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+365	main character :: side character	main character	side character	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+366	original :: cliché	original	cliché	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+367	hugs :: handshakes	hugs	handshakes	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+368	homebody :: world traveler	homebody	world traveler	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+369	naughty :: nice	naughty	nice	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+370	junkie :: straight edge	junkie	straight edge	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+371	small-vocabulary :: big-vocabulary	small-vocabulary	big-vocabulary	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+372	dystopian :: utopian	dystopian	utopian	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+373	parental :: childlike	parental	childlike	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+374	writer :: reader	writer	reader	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+375	creator :: consumer	creator	consumer	0	0	0	0	0	0	0	ERROR: no valid model response after retries

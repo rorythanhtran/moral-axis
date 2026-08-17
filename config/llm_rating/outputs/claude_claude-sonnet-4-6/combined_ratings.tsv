@@ -1,0 +1,465 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+1	playful :: serious	playful	serious	0	0	0	0	0	0	0	
+2	shy :: bold	shy	bold	0	0	0	0	0	0	0	
+3	cheery :: sorrowful	cheery	sorrowful	0	0	0	0	0	0	0	
+4	masculine :: feminine	masculine	feminine	0	0	0	0	0	0	0	
+5	charming :: awkward	charming	awkward	0	0	0	0	0	0	0	
+6	lewd :: tasteful	lewd	tasteful	0	0	0	0	1	0	1	lewd maps directly to PurityVice (lewd*); tasteful implies decency, a purity virtue.
+7	intellectual :: physical	intellectual	physical	0	0	0	0	0	0	0	
+8	strict :: lenient	strict	lenient	0	0	0	1	0	0	0	strict relates to authority/discipline; lenient relates to reduced enforcement of rules.
+9	refined :: rugged	refined	rugged	0	0	0	0	1	0	0	refined maps to PurityVirtue (refined); the purity foundation underlies notions of elevated, noble living.
+10	trusting :: suspicious	trusting	suspicious	0	1	0	0	0	0	0	trust and suspicion relate to reciprocal altruism and fairness expectations.
+11	innocent :: worldly	innocent	worldly	0	0	0	0	1	0	0	innocent maps to PurityVirtue (innocent); worldly implies the opposite of purity/naivety.
+12	artistic :: scientific	artistic	scientific	0	0	0	0	0	0	0	
+13	stoic :: expressive	stoic	expressive	0	0	0	0	0	0	0	
+14	cunning :: honorable	cunning	honorable	0	1	0	1	0	0	1	honorable maps to AuthorityVirtue (honor*); cunning implies deception touching fairness and general morality.
+15	orderly :: chaotic	orderly	chaotic	0	0	0	1	0	0	0	orderly maps to AuthorityVirtue (order*).
+16	normal :: weird	normal	weird	0	0	0	0	0	0	0	
+17	competitive :: cooperative	competitive	cooperative	0	1	1	0	0	0	0	cooperative relates to loyalty/group solidarity and fairness through reciprocal altruism.
+18	tense :: relaxed	tense	relaxed	0	0	0	0	0	0	0	
+19	brave :: careful	brave	careful	0	0	0	0	0	0	1	bravery is a widely recognized virtue with general moral valence, though not specific to one MFT foundation.
+20	spiritual :: skeptical	spiritual	skeptical	0	0	0	0	1	0	0	spiritual maps to PurityVirtue; purity foundation underlies spirituality.
+21	unlucky :: fortunate	unlucky	fortunate	0	0	0	0	0	0	0	
+22	ferocious :: pacifist	ferocious	pacifist	1	0	0	0	0	0	0	ferocious relates to harm/violence (HarmVice); pacifist relates to peace (HarmVirtue).
+23	modest :: flamboyant	modest	flamboyant	0	0	0	0	1	0	0	modest maps to PurityVirtue (modesty).
+24	dominant :: submissive	dominant	submissive	0	0	0	1	0	1	0	submissive maps to AuthorityVirtue (submi*); dominant relates to liberty foundation as dominance/oppression.
+25	forgiving :: vengeful	forgiving	vengeful	1	1	0	0	0	0	1	forgiving relates to care/compassion; vengeful relates to fairness (reciprocity/justice); both poles carry broad moral valence.
+26	wise :: foolish	wise	foolish	0	0	0	0	0	0	1	Wisdom is a broadly valued virtue; general moral character dimension.
+27	impulsive :: cautious	impulsive	cautious	0	0	0	0	0	0	0	Primarily a temperament/behavioral style dimension, not clearly moral.
+28	loyal :: traitorous	loyal	traitorous	0	0	1	1	0	0	0	Loyal maps to IngroupVirtue; traitorous maps to IngroupVice and AuthorityVice (betrayal/treachery).
+29	creative :: conventional	creative	conventional	0	0	0	0	0	0	0	Personality/cognitive style dimension without clear moral foundation relevance.
+30	curious :: apathetic	curious	apathetic	0	0	0	0	0	0	0	Cognitive/motivational style, not clearly tied to a moral foundation.
+31	rude :: respectful	rude	respectful	1	0	0	1	0	0	0	Respectful maps to AuthorityVirtue; rudeness also implicates care/harm toward others.
+32	diligent :: lazy	diligent	lazy	0	0	0	0	1	0	0	Diligence relates to self-discipline and self-improvement, core purity virtues.
+33	lustful :: chaste	lustful	chaste	0	0	0	0	1	0	0	Chaste is a PurityVirtue; lustful maps to PurityVice (promiscuity/carnality).
+34	chatty :: reserved	chatty	reserved	0	0	0	0	0	0	0	Social style dimension with no clear moral foundation relevance.
+35	emotional :: logical	emotional	logical	0	0	0	0	0	0	0	Cognitive/personality style dimension, not a moral foundation.
+36	moody :: stable	moody	stable	0	0	0	0	0	0	0	Temperament dimension, not clearly tied to a moral foundation.
+37	dunce :: genius	dunce	genius	0	0	0	0	0	0	0	Intelligence dimension, not a moral foundation.
+38	arrogant :: humble	arrogant	humble	0	0	0	1	1	0	1	Humility is a virtue in both authority (deference) and purity (modesty) foundations; arrogance is broadly a vice.
+39	heroic :: villainous	heroic	villainous	1	1	1	0	0	0	1	Heroism and villainy span multiple foundations (care, fairness, loyalty) and are broadly general moral poles.
+40	attractive :: repulsive	attractive	repulsive	0	0	0	0	1	0	0	Repulsive maps to disgust/PurityVice; purity foundation is shaped by disgust psychology.
+41	rational :: whimsical	rational	whimsical	0	0	0	0	0	0	0	Cognitive/personality style dimension, not a moral foundation.
+42	mischievous :: well behaved	mischievous	well behaved	0	0	0	1	0	0	0	Well behaved relates to obedience/compliance (AuthorityVirtue); mischievous implies defiance (AuthorityVice).
+43	aloof :: obsessed	aloof	obsessed	0	0	0	0	0	0	0	Interpersonal engagement style, not clearly tied to a moral foundation.
+44	indulgent :: sober	indulgent	sober	0	0	0	0	1	0	0	Sober/abstinent maps to PurityVirtue (self-discipline, abstinence); indulgent maps to PurityVice (intemperance).
+45	kinky :: vanilla	kinky	vanilla	0	0	0	0	1	1	0	Kinky relates to purity (sexual deviance/carnality); liberty is relevant as sexual freedom/autonomy is a liberty concern.
+46	straightforward :: cryptic	straightforward	cryptic	0	1	0	0	0	0	0	Straightforward implies honesty, which maps to FairnessVirtue in the dictionary.
+47	spontaneous :: deliberate	spontaneous	deliberate	0	0	0	0	0	0	0	Behavioral style dimension, not clearly tied to a moral foundation.
+48	libertarian :: socialist	libertarian	socialist	1	1	1	0	0	1	0	Libertarian pole strongly relates to liberty foundation; socialist pole relates to care, fairness, and loyalty/collectivism.
+49	scheduled :: spontaneous	scheduled	spontaneous	0	0	0	0	0	0	0	Lifestyle/organizational style dimension, not clearly tied to a moral foundation.
+50	works hard :: plays hard	works hard	plays hard	0	0	0	0	1	0	0	Works hard relates to self-discipline/diligence (PurityVirtue); plays hard loosely implies indulgence (PurityVice).
+51	reasoned :: instinctual	reasoned	instinctual	0	0	0	0	0	0	0	
+52	focused on the present :: focused on the future	focused on the present	focused on the future	0	0	0	0	0	0	0	
+53	empirical :: theoretical	empirical	theoretical	0	0	0	0	0	0	0	
+54	open :: guarded	open	guarded	0	0	0	0	0	0	0	
+55	methodical :: astonishing	methodical	astonishing	0	0	0	0	0	0	0	
+56	mighty :: puny	mighty	puny	0	0	0	0	0	0	0	
+57	bossy :: meek	bossy	meek	0	0	0	1	0	1	0	Bossy relates to domineering authority/control; liberty foundation captures resentment toward those who dominate others.
+58	barbaric :: civilized	barbaric	civilized	1	0	0	1	1	0	1	Barbaric implies cruelty/harm (care), violation of social order (authority), and degraded/impure conduct (purity); broad moral valence warrants general.
+59	gregarious :: private	gregarious	private	0	0	0	0	0	0	0	
+60	quiet :: loud	quiet	loud	0	0	0	0	0	0	0	
+61	political :: nonpolitical	political	nonpolitical	0	0	0	0	0	0	0	
+62	confident :: insecure	confident	insecure	0	0	0	0	0	0	0	
+63	democratic :: authoritarian	democratic	authoritarian	0	1	0	1	0	1	0	Democratic relates to fairness/equal rights; authoritarian relates to authority hierarchy; liberty captures opposition to domination.
+64	debased :: pure	debased	pure	0	0	0	0	1	0	0	Both poles directly map to purity foundation; debase* and pure* appear in MFT dictionary.
+65	fast :: slow	fast	slow	0	0	0	0	0	0	0	
+66	frugal :: lavish	frugal	lavish	0	0	0	0	1	0	0	Frugal relates to purity foundation's virtues of self-discipline and abstemiousness; lavish implies intemperance.
+67	ludicrous :: sensible	ludicrous	sensible	0	0	0	0	0	0	0	
+68	orange :: purple	orange	purple	0	0	0	0	0	0	0	
+69	tall :: short	tall	short	0	0	0	0	0	0	0	
+70	young :: old	young	old	0	0	0	0	0	0	0	
+71	down2earth :: head@clouds	down2earth	head@clouds	0	0	0	0	0	0	0	
+72	extrovert :: introvert	extrovert	introvert	0	0	0	0	0	0	0	
+73	open to new experiences :: uncreative	open to new experiences	uncreative	0	0	0	0	0	0	0	
+74	calm :: anxious	calm	anxious	0	0	0	0	0	0	0	
+75	disorganized :: self-disciplined	disorganized	self-disciplined	0	0	0	0	1	0	0	Self-disciplined maps to purity foundation's virtue of self-discipline.
+76	quarrelsome :: warm	quarrelsome	warm	1	0	0	0	0	0	0	Right pole (warm) relates to care/nurturance; left pole (quarrelsome) is its absence.
+77	nerd :: jock	nerd	jock	0	0	0	0	0	0	0	Social/cultural identity types; no clear moral foundation relevance.
+78	lowbrow :: highbrow	lowbrow	highbrow	0	0	0	0	0	0	0	Cultural/aesthetic distinction; no clear moral foundation relevance.
+79	selfish :: altruistic	selfish	altruistic	1	1	0	0	0	0	1	Altruism relates to care and fairness/reciprocity; selfishness vs. altruism is a broad moral virtue/vice contrast.
+80	autistic :: neurotypical	autistic	neurotypical	0	0	0	0	0	0	0	Neurodevelopmental distinction; not a moral trait differential.
+81	angelic :: demonic	angelic	demonic	0	0	0	0	1	0	1	Angelic/demonic invokes purity/sanctity and broad moral goodness vs. evil.
+82	hesitant :: decisive	hesitant	decisive	0	0	0	0	0	0	0	Personality/behavioral style; no clear moral foundation relevance.
+83	devout :: heathen	devout	heathen	0	0	0	1	1	0	1	Devout relates to piety/authority (religious deference); heathen implies impiety/purity violation; general moral framing present.
+84	cruel :: kind	cruel	kind	1	0	0	0	0	0	1	Cruelty is a core harm/care vice; kindness is a core care virtue. Also broadly moral.
+85	direct :: roundabout	direct	roundabout	0	0	0	0	0	0	0	Communication style; no clear moral foundation relevance.
+86	mathematical :: literary	mathematical	literary	0	0	0	0	0	0	0	Cognitive/intellectual style distinction; no moral foundation relevance.
+87	blue-collar :: ivory-tower	blue-collar	ivory-tower	0	0	0	0	0	0	0	Socioeconomic/class distinction; no clear moral foundation relevance.
+88	slovenly :: stylish	slovenly	stylish	0	0	0	0	0	0	0	Aesthetic/grooming style; no clear moral foundation relevance.
+89	playful :: shy	playful	shy	0	0	0	0	0	0	0	Personality/social style; no clear moral foundation relevance.
+90	serious :: bold	serious	bold	0	0	0	0	0	0	0	Personality/behavioral style; no clear moral foundation relevance.
+91	charming :: trusting	charming	trusting	0	0	0	0	0	0	0	Social/interpersonal style; no clear moral foundation relevance.
+92	awkward :: suspicious	awkward	suspicious	0	0	0	0	0	0	0	Social/interpersonal style; no clear moral foundation relevance.
+93	hipster :: basic	hipster	basic	0	0	0	0	0	0	0	Cultural/aesthetic identity; no clear moral foundation relevance.
+94	coordinated :: clumsy	coordinated	clumsy	0	0	0	0	0	0	0	Physical/motor skill; no moral foundation relevance.
+95	funny :: humorless	funny	humorless	0	0	0	0	0	0	0	Personality/social style; no clear moral foundation relevance.
+96	politically correct :: edgy	politically correct	edgy	1	1	0	0	1	1	0	PC relates to care (avoiding harm) and fairness (avoiding offense/discrimination); edgy can invoke purity violations and liberty (freedom from speech constraints).
+97	rich :: poor	rich	poor	0	1	0	0	0	0	0	Wealth disparity relates to fairness/equality concerns.
+98	hard :: soft	hard	soft	0	0	0	0	0	0	0	Personality/temperament style; no clear moral foundation relevance.
+99	remote :: involved	remote	involved	1	0	1	0	0	0	0	Right pole (involved) relates to care and group loyalty/commitment; left pole (remote) implies detachment from both.
+100	metaphorical :: literal	metaphorical	literal	0	0	0	0	0	0	0	Cognitive/communication style; no moral foundation relevance.
+101	biased :: impartial	biased	impartial	0	1	0	0	0	0	0	Both poles map directly to fairness (bias=FairnessVice, impartial=FairnessVirtue).
+102	mundane :: extraordinary	mundane	extraordinary	0	0	0	0	0	0	0	Descriptive quality dimension; no clear moral foundation relevance.
+103	tiresome :: interesting	tiresome	interesting	0	0	0	0	0	0	0	Descriptive/aesthetic dimension; no moral foundation relevance.
+104	smooth :: rough	smooth	rough	0	0	0	0	0	0	0	Textural/stylistic dimension; no moral foundation relevance.
+105	spicy :: mild	spicy	mild	0	0	0	0	0	0	0	Sensory/stylistic dimension; no moral foundation relevance.
+106	enslaved :: emancipated	enslaved	emancipated	1	1	0	0	0	1	0	Slavery involves harm/care, denial of rights/fairness, and oppression of liberty; emancipation is the liberty pole.
+107	optimistic :: pessimistic	optimistic	pessimistic	0	0	0	0	0	0	0	Attitudinal/dispositional dimension; no moral foundation relevance.
+108	sickly :: healthy	sickly	healthy	0	0	0	0	1	0	0	Health/disease relates to purity foundation (contamination, bodily integrity); sickly pole connects to PurityVice via disease.
+109	luddite :: technophile	luddite	technophile	0	0	0	0	0	0	0	Attitude toward technology; no clear moral foundation relevance.
+110	vain :: demure	vain	demure	0	0	0	0	1	0	0	Demure relates to modesty (PurityVirtue); vanity is its opposite.
+111	high-tech :: low-tech	high-tech	low-tech	0	0	0	0	0	0	0	Technological preference dimension; no moral foundation relevance.
+112	flexible :: rigid	flexible	rigid	0	0	0	0	0	0	0	Cognitive/behavioral style dimension; no clear moral foundation relevance.
+113	cosmopolitan :: provincial	cosmopolitan	provincial	0	0	1	0	0	0	0	Provincial pole relates to ingroup/loyalty (favoring local community over broader world).
+114	arcane :: mainstream	arcane	mainstream	0	0	0	0	0	0	0	Stylistic/cultural dimension; no moral foundation relevance.
+115	outlaw :: sheriff	outlaw	sheriff	0	1	0	1	0	1	0	Sheriff represents law/authority and justice/fairness; outlaw represents defiance of authority and liberty from law.
+116	pronatalist :: child free	pronatalist	child free	0	0	0	0	0	1	0	Child free pole relates to personal liberty/autonomy over reproductive choices.
+117	sad :: happy	sad	happy	0	0	0	0	0	0	0	Emotional state dimension; no moral foundation relevance.
+118	jealous :: compersive	jealous	compersive	1	0	0	0	0	0	0	Compersive (feeling joy at others' joy) relates to care/empathy; jealousy involves harm to relationships.
+119	bitter :: sweet	bitter	sweet	0	0	0	0	0	0	0	Primarily sensory/temperamental dimension; no clear moral foundation relevance.
+120	resigned :: resistant	resigned	resistant	0	0	0	0	0	1	0	Resistant pole relates to liberty foundation (reactance against oppression/domination).
+121	sarcastic :: genuine	sarcastic	genuine	0	1	0	0	0	0	0	Genuine relates to honesty (FairnessVirtue in dictionary); sarcasm can involve deception.
+122	human :: animalistic	human	animalistic	0	0	0	0	1	0	0	Animalistic pole relates to purity foundation (carnal, less elevated; purity involves striving to live in a less carnal way).
+123	sporty :: bookish	sporty	bookish	0	0	0	0	0	0	0	Lifestyle/interest dimension; no moral foundation relevance.
+124	moderate :: extreme	moderate	extreme	0	0	0	0	0	0	0	Degree/intensity dimension; no clear moral foundation relevance on its own.
+125	angry :: good-humored	angry	good-humored	1	0	0	0	0	0	0	Good-humored relates to care/kindness; anger can involve harm to others.
+126	depressed :: bright	depressed	bright	0	0	0	0	0	0	0	
+127	self-conscious :: self-assured	self-conscious	self-assured	0	0	0	0	0	0	0	
+128	vulnerable :: armoured	vulnerable	armoured	1	0	0	0	0	0	0	Left pole (vulnerable) relates to care foundation — vulnerability invites protection and nurturance.
+129	warm :: cold	warm	cold	1	0	0	0	0	0	0	Left pole (warm) relates to care — kindness and nurturance.
+130	assertive :: passive	assertive	passive	0	0	0	0	0	0	0	
+131	active :: slothful	active	slothful	0	0	0	0	1	0	0	Right pole (slothful) relates to purity — sloth as a failure of self-discipline and self-improvement.
+132	imaginative :: practical	imaginative	practical	0	0	0	0	0	0	0	
+133	adventurous :: stick-in-the-mud	adventurous	stick-in-the-mud	0	0	0	0	0	0	0	
+134	obedient :: rebellious	obedient	rebellious	0	0	0	1	0	1	0	Left pole (obedient) maps to authority virtue; right pole (rebellious) maps to authority vice / liberty.
+135	competent :: incompetent	competent	incompetent	0	0	0	0	0	0	0	
+136	unambitious :: driven	unambitious	driven	0	0	0	0	0	0	0	
+137	simple :: complicated	simple	complicated	0	0	0	0	0	0	0	
+138	proletariat :: bourgeoisie	proletariat	bourgeoisie	0	1	0	1	0	1	0	Right pole (bourgeoisie) is in MFT dictionary under authority virtue (class hierarchy); the differential also evokes fairness and liberty concerns around class inequality and domination.
+139	alpha :: beta	alpha	beta	0	0	0	1	0	1	0	Alpha/beta framing relates to dominance hierarchy (authority) and dominance/oppression (liberty).
+140	right-brained :: left-brained	right-brained	left-brained	0	0	0	0	0	0	0	
+141	thick-skinned :: sensitive	thick-skinned	sensitive	1	0	0	0	0	0	0	Right pole (sensitive) relates to care — empathy and sensitivity to others' pain.
+142	charismatic :: uninspiring	charismatic	uninspiring	0	0	0	1	0	0	0	Left pole (charismatic) relates to authority — leadership and prestige.
+143	feisty :: gracious	feisty	gracious	0	0	0	0	0	0	0	
+144	eloquent :: unpolished	eloquent	unpolished	0	0	0	0	0	0	0	
+145	high IQ :: low IQ	high IQ	low IQ	0	0	0	0	0	0	0	
+146	insider :: outsider	insider	outsider	0	1	1	0	0	0	0	Left pole (insider) is in MFT dictionary under loyalty virtue; right pole (outsider) relates to exclusion (fairness vice).
+147	morning lark :: night owl	morning lark	night owl	0	0	0	0	0	0	0	
+148	thin :: thick	thin	thick	0	0	0	0	0	0	0	
+149	sheeple :: conspiracist	sheeple	conspiracist	0	0	0	1	0	1	0	Left pole (sheeple) implies blind deference to authority; right pole (conspiracist) implies resistance to perceived oppressive authority, relating to liberty.
+150	neat :: messy	neat	messy	0	0	0	0	1	0	0	Left pole (neat) relates to purity — cleanliness and order as purity virtue; right pole (messy) relates to purity vice.
+151	vague :: precise	vague	precise	0	0	0	0	0	0	0	
+152	philosophical :: real	philosophical	real	0	0	0	0	0	0	0	
+153	modern :: historical	modern	historical	0	0	0	1	0	0	0	Right pole relates to tradition, which maps to authority foundation.
+154	judgemental :: accepting	judgemental	accepting	0	1	0	0	0	0	0	Accepting relates to tolerance/impartiality; judgemental relates to bias/prejudice, both fairness-relevant.
+155	average :: deviant	average	deviant	0	0	0	1	1	0	0	Deviant implies violation of norms (authority) and impurity/contamination (purity).
+156	gossiping :: confidential	gossiping	confidential	0	1	1	0	0	0	0	Gossiping involves betrayal of trust (loyalty) and dishonesty/unfairness; confidential reflects trustworthiness.
+157	official :: backdoor	official	backdoor	0	1	0	1	0	0	0	Official relates to legitimate authority/order; backdoor implies circumventing rules, touching fairness and authority.
+158	scholarly :: crafty	scholarly	crafty	0	0	0	0	0	0	0	
+159	leisurely :: hurried	leisurely	hurried	0	0	0	0	0	0	0	
+160	explorer :: builder	explorer	builder	0	0	0	0	0	0	0	
+161	captain :: first-mate	captain	first-mate	0	0	0	1	0	0	0	Reflects leadership/followership hierarchy and rank, core to authority foundation.
+162	mysterious :: unambiguous	mysterious	unambiguous	0	0	0	0	0	0	0	
+163	independent :: codependent	independent	codependent	0	0	0	0	0	1	0	Independent pole relates to liberty/autonomy; codependent implies constrained freedom.
+164	family-first :: work-first	family-first	work-first	1	0	1	0	0	0	0	Family-first relates to care/nurturance and ingroup loyalty toward family.
+165	scruffy :: manicured	scruffy	manicured	0	0	0	0	1	0	0	Manicured/scruffy relate to cleanliness and bodily presentation, touching purity foundation.
+166	wild :: tame	wild	tame	0	0	0	1	1	1	0	Wild implies freedom from constraint (liberty) and lack of order (authority); tame implies submission to norms. Purity relevant via naturalness/carnal dimension.
+167	prestigious :: disreputable	prestigious	disreputable	0	0	0	1	0	0	1	Prestigious relates to status/rank (authority); disreputable implies moral failing (general).
+168	scandalous :: proper	scandalous	proper	0	0	0	1	1	0	1	Proper maps to authority norms and purity; scandalous implies moral/social transgression (general).
+169	unprepared :: hoarder	unprepared	hoarder	0	1	0	0	0	0	0	Hoarding can relate to fairness concerns around equitable distribution of resources.
+170	sheltered :: street-smart	sheltered	street-smart	0	0	0	0	0	0	0	
+171	open-minded :: close-minded	open-minded	close-minded	0	1	0	0	0	0	0	Open-minded relates to tolerance and impartiality; close-minded relates to bias/prejudice, both fairness-relevant.
+172	permanent :: transient	permanent	transient	0	0	0	0	0	0	0	
+173	dramatic :: no-nonsense	dramatic	no-nonsense	0	0	0	0	0	0	0	
+174	apprentice :: master	apprentice	master	0	0	0	1	0	0	0	Reflects hierarchical rank and leader/follower dynamic central to authority foundation.
+175	straight :: queer	straight	queer	0	1	0	0	1	1	0	Purity foundation historically invoked around sexual nonconformity; fairness/liberty relevant regarding rights and freedom from discrimination.
+176	androgynous :: gendered	androgynous	gendered	0	0	0	0	1	1	0	Purity foundation relates to gender norms and naturalness; liberty relates to freedom from imposed gender roles.
+177	repetitive :: varied	repetitive	varied	0	0	0	0	0	0	0	
+178	patient :: impatient	patient	impatient	1	0	0	0	0	0	0	Patient pole relates to care/nurturance virtues.
+179	poisonous :: nurturing	poisonous	nurturing	1	0	0	0	1	0	0	Nurturing pole relates to care foundation; poisonous pole relates to purity/contamination.
+180	creepy :: disarming	creepy	disarming	0	0	0	0	1	0	0	Creepy pole evokes disgust/purity concerns.
+181	inspiring :: cringeworthy	inspiring	cringeworthy	0	0	0	0	1	0	0	Cringeworthy pole evokes mild disgust/purity reaction.
+182	soulless :: soulful	soulless	soulful	0	0	0	0	1	0	1	Soulful pole relates to purity/spirituality; soulless implies moral/general deficiency.
+183	beautiful :: ugly	beautiful	ugly	0	0	0	0	1	0	0	Beauty/ugliness relates to purity aesthetics and disgust sensitivity.
+184	domestic :: industrial	domestic	industrial	0	0	0	0	0	0	0	
+185	juvenile :: mature	juvenile	mature	0	0	0	1	0	0	0	Mature pole relates to authority foundation virtues of respect and deference.
+186	idealist :: realist	idealist	realist	0	0	0	0	0	0	0	
+187	nihilist :: existentialist	nihilist	existentialist	0	0	0	0	0	0	1	Nihilist pole implies rejection of moral values generally.
+188	objective :: subjective	objective	subjective	0	1	0	0	0	0	0	Objective pole relates to impartiality and fairness.
+189	theist :: atheist	theist	atheist	0	0	0	1	1	0	0	Theist pole relates to purity/spirituality and authority/tradition foundations.
+190	classical :: avant-garde	classical	avant-garde	0	0	0	1	0	0	0	Classical pole relates to authority/tradition; avant-garde to defiance of tradition.
+191	utilitarian :: decorative	utilitarian	decorative	0	0	0	0	0	0	0	
+192	generalist :: specialist	generalist	specialist	0	0	0	0	0	0	0	
+193	multicolored :: monochrome	multicolored	monochrome	0	0	0	0	0	0	0	
+194	complimentary :: insulting	complimentary	insulting	1	0	0	1	0	0	1	Insulting pole relates to disrespect (authority) and harm to others (care); general moral valence is strong.
+195	individualist :: communal	individualist	communal	0	0	1	0	0	1	0	Communal pole relates to loyalty/ingroup; individualist pole relates to liberty.
+196	equitable :: hypocritical	equitable	hypocritical	0	1	0	0	0	0	1	Equitable pole directly maps to fairness; hypocritical pole has broad moral vice connotation.
+197	traditional :: unorthodox	traditional	unorthodox	0	0	0	1	0	1	0	Traditional pole relates to authority/tradition; unorthodox pole relates to liberty/defiance of norms.
+198	workaholic :: slacker	workaholic	slacker	0	0	0	0	1	0	0	Purity foundation underlies self-discipline and self-improvement; slacker pole implies lack thereof.
+199	resourceful :: helpless	resourceful	helpless	1	0	0	0	0	0	0	Helpless pole evokes care/protection concerns.
+200	crazy :: sane	crazy	sane	0	0	0	0	0	0	0	
+201	anarchist :: statist	anarchist	statist	0	0	0	1	0	1	0	anarchist pole relates to liberty/anti-authority; statist pole relates to authority and deference to state structures.
+202	cool :: dorky	cool	dorky	0	0	0	0	0	0	0	Social status/style distinction with no clear moral foundation relevance.
+203	important :: irrelevant	important	irrelevant	0	0	0	0	0	0	0	Describes significance or salience, not a moral dimension.
+204	noob :: pro	noob	pro	0	0	0	0	0	0	0	Describes skill level, not a moral dimension.
+205	deranged :: reasonable	deranged	reasonable	0	0	0	0	0	0	0	Describes mental state or rationality, not a moral foundation dimension.
+206	rural :: urban	rural	urban	0	0	0	0	0	0	0	Geographic/lifestyle distinction with no clear moral foundation relevance.
+207	introspective :: not introspective	introspective	not introspective	0	0	0	0	0	0	0	Cognitive/personality style with no clear moral foundation relevance.
+208	city-slicker :: country-bumpkin	city-slicker	country-bumpkin	0	0	0	0	0	0	0	Cultural/geographic stereotype with no clear moral foundation relevance.
+209	western :: eastern	western	eastern	0	0	0	0	0	0	0	Cultural/geographic orientation with no clear moral foundation relevance.
+210	mad :: glad	mad	glad	0	0	0	0	0	0	0	Emotional state distinction with no clear moral foundation relevance.
+211	social :: reclusive	social	reclusive	0	0	0	0	0	0	0	Personality/behavioral style with no clear moral foundation relevance.
+212	studious :: goof-off	studious	goof-off	0	0	0	0	0	0	0	Work ethic/diligence distinction; not clearly tied to a moral foundation.
+213	slugabed :: go-getter	slugabed	go-getter	0	0	0	0	0	0	0	Describes industriousness/laziness; not clearly tied to a moral foundation.
+214	penny-pincher :: overspender	penny-pincher	overspender	0	0	0	0	0	0	0	Financial behavior style with no clear moral foundation relevance.
+215	liberal :: conservative	liberal	conservative	0	0	0	1	0	1	0	Conservative pole relates to authority/tradition; liberal pole relates to liberty. Both poles broadly invoke MFT-relevant orientations.
+216	unassuming :: pretentious	unassuming	pretentious	0	0	0	0	0	0	0	Social demeanor distinction; not clearly tied to a moral foundation.
+217	persistent :: quitter	persistent	quitter	0	0	0	0	0	0	0	Describes determination vs. giving up; not clearly tied to a moral foundation.
+218	hedonist :: monastic	hedonist	monastic	0	0	0	0	1	0	0	Monastic pole relates to purity via self-discipline, abstinence, and elevated/spiritual living; hedonist pole contrasts with purity norms.
+219	patriotic :: unpatriotic	patriotic	unpatriotic	0	0	1	0	0	0	0	Patriotism is a core loyalty foundation virtue; unpatriotic is the corresponding vice.
+220	tactful :: indiscreet	tactful	indiscreet	1	0	0	0	0	0	0	Tactfulness relates to care/consideration for others' feelings; indiscretion can cause harm.
+221	wholesome :: salacious	wholesome	salacious	0	0	0	0	1	0	1	Wholesome is explicitly in the MFT dictionary as PurityVirtue/MoralityGeneral; salacious relates to purity vice (lewdness/indecency).
+222	joyful :: miserable	joyful	miserable	0	0	0	0	0	0	0	Emotional state distinction with no clear moral foundation relevance.
+223	zany :: regular	zany	regular	0	0	0	0	0	0	0	Personality/behavioral style with no clear moral foundation relevance.
+224	alert :: oblivious	alert	oblivious	0	0	0	0	0	0	0	Cognitive/attentional style with no clear moral foundation relevance.
+225	feminist :: sexist	feminist	sexist	0	1	0	0	0	1	0	Feminist pole relates to fairness (equality, rights) and liberty (opposing domination); sexist pole relates to fairness vice (discrimination, bias).
+226	racist :: egalitarian	racist	egalitarian	1	1	0	0	0	1	1	Racist pole involves discrimination and prejudice (fairness vice); egalitarian pole relates to equal rights and anti-oppression (fairness virtue, liberty). General moral valence is strong.
+227	abstract :: concrete	abstract	concrete	0	0	0	0	0	0	0	Cognitive style dimension; no clear moral foundation relevance.
+228	formal :: intimate	formal	intimate	0	0	0	1	0	0	0	Formal pole relates to authority/hierarchy norms and social decorum.
+229	resolute :: wavering	resolute	wavering	0	0	0	0	0	0	0	Personality/temperament dimension without clear moral foundation relevance.
+230	deep :: shallow	deep	shallow	0	0	0	0	0	0	0	Intellectual/personality dimension; no clear moral foundation relevance.
+231	valedictorian :: drop out	valedictorian	drop out	0	0	0	0	0	0	0	Academic achievement dimension; no clear moral foundation relevance.
+232	minimalist :: pack rat	minimalist	pack rat	0	0	0	0	0	0	0	Lifestyle/behavioral dimension; no clear moral foundation relevance.
+233	trash :: treasure	trash	treasure	0	0	0	0	0	0	0	Value/worth dimension used metaphorically; no clear moral foundation relevance.
+234	stinky :: fresh	stinky	fresh	0	0	0	0	1	0	0	Stinky/fresh relates to cleanliness and purity/contamination dimension.
+235	legit :: scrub	legit	scrub	0	0	0	0	0	0	1	Legit implies legitimacy and worthiness; scrub implies low moral/social worth. General moral valence present.
+236	self-destructive :: self-improving	self-destructive	self-improving	1	0	0	0	1	0	0	Self-destructive relates to harm (care vice); self-improving relates to purity virtue of self-discipline and self-improvement.
+237	French :: Russian	French	Russian	0	0	0	0	0	0	0	National/cultural identity dimension; no clear moral foundation relevance.
+238	German :: English	German	English	0	0	0	0	0	0	0	National/cultural identity dimension; no clear moral foundation relevance.
+239	Italian :: Swedish	Italian	Swedish	0	0	0	0	0	0	0	National/cultural identity dimension; no clear moral foundation relevance.
+240	Greek :: Roman	Greek	Roman	0	0	0	0	0	0	0	Cultural/historical identity dimension; no clear moral foundation relevance.
+241	traumatized :: flourishing	traumatized	flourishing	1	0	0	0	0	0	0	Traumatized pole relates to harm/suffering (care vice).
+242	sturdy :: flimsy	sturdy	flimsy	0	0	0	0	0	0	0	Physical/structural dimension; no clear moral foundation relevance.
+243	macho :: metrosexual	macho	metrosexual	0	0	0	1	1	0	0	Macho relates to traditional gender norms (authority); both poles touch on purity-related notions of gender propriety and bodily presentation.
+244	claustrophobic :: spelunker	claustrophobic	spelunker	0	0	0	0	0	0	0	Psychological/behavioral dimension; no clear moral foundation relevance.
+245	offended :: chill	offended	chill	0	0	0	0	0	0	1	Offended pole has general moral connotation (taking offense at moral transgressions per MFT dictionary entry for offend*).
+246	rhythmic :: stuttering	rhythmic	stuttering	0	0	0	0	0	0	0	Motor/speech dimension; no clear moral foundation relevance.
+247	musical :: off-key	musical	off-key	0	0	0	0	0	0	0	Aesthetic/skill dimension; no clear moral foundation relevance.
+248	lost :: enlightened	lost	enlightened	0	0	0	0	1	0	0	Enlightened pole relates to purity's spiritual elevation and noble living dimension.
+249	masochistic :: pain-avoidant	masochistic	pain-avoidant	1	0	0	0	1	0	0	Masochistic pole relates to self-harm (care vice) and bodily degradation (purity vice).
+250	efficient :: overprepared	efficient	overprepared	0	0	0	0	0	0	0	Behavioral/cognitive style dimension; no clear moral foundation relevance.
+251	oppressed :: privileged	oppressed	privileged	1	1	0	1	0	1	0	Oppression relates to care (suffering), fairness (injustice), authority (power hierarchy), and liberty (domination/restriction of freedom).
+252	sunny :: gloomy	sunny	gloomy	0	0	0	0	0	0	0	
+253	vegan :: cannibal	vegan	cannibal	1	0	0	0	1	0	1	Cannibal pole triggers care (harm/killing), purity (disgust/contamination), and general moral wrongness. Vegan pole relates to care (protecting animals) and purity (natural/clean living).
+254	loveable :: punchable	loveable	punchable	1	0	0	0	0	0	0	Loveable relates to care/nurturance; punchable implies provoking harm, also care-adjacent.
+255	slow-talking :: fast-talking	slow-talking	fast-talking	0	0	0	0	0	0	0	
+256	believable :: poorly-written	believable	poorly-written	0	0	0	0	0	0	0	
+257	vibrant :: geriatric	vibrant	geriatric	0	0	0	0	0	0	0	
+258	consistent :: variable	consistent	variable	0	0	0	0	0	0	0	
+259	dispassionate :: romantic	dispassionate	romantic	0	0	0	0	0	0	0	
+260	linear :: circular	linear	circular	0	0	0	0	0	0	0	
+261	intense :: lighthearted	intense	lighthearted	0	0	0	0	0	0	0	
+262	knowledgeable :: ignorant	knowledgeable	ignorant	0	0	0	0	0	0	0	
+263	fixable :: unfixable	fixable	unfixable	0	0	0	0	0	0	0	
+264	exuberant :: subdued	exuberant	subdued	0	0	0	0	0	0	0	
+265	secretive :: open-book	secretive	open-book	0	0	0	0	0	0	0	
+266	perceptive :: unobservant	perceptive	unobservant	0	0	0	0	0	0	0	
+267	folksy :: presidential	folksy	presidential	0	0	0	1	0	0	0	Presidential pole relates to authority/leadership and status.
+268	corporate :: freelance	corporate	freelance	0	0	0	1	0	1	0	Corporate relates to authority/hierarchy; freelance relates to liberty/independence from institutional control.
+269	sleepy :: frenzied	sleepy	frenzied	0	0	0	0	0	0	0	
+270	loose :: tight	loose	tight	0	0	0	0	0	0	0	
+271	narcissistic :: low self esteem	narcissistic	low self esteem	1	1	0	0	0	0	1	Narcissistic pole relates to care (lack of empathy/harm to others), fairness (self-serving bias), and general moral vice.
+272	poetic :: factual	poetic	factual	0	0	0	0	0	0	0	
+273	melee :: ranged	melee	ranged	0	0	0	0	0	0	0	
+274	giggling :: chortling	giggling	chortling	0	0	0	0	0	0	0	
+275	whippersnapper :: sage	whippersnapper	sage	0	0	0	1	0	0	0	Sage pole relates to authority through wisdom, veneration, and respected elder status.
+276	tailor :: blacksmith	tailor	blacksmith	0	0	0	0	0	0	0	
+277	hunter :: gatherer	hunter	gatherer	0	0	0	0	0	0	0	
+278	experimental :: reliable	experimental	reliable	0	0	0	0	0	0	0	
+279	moist :: dry	moist	dry	0	0	0	0	0	0	0	
+280	trolling :: triggered	trolling	triggered	1	0	0	0	0	0	0	Trolling involves deliberately causing harm or distress to others, relating to the care foundation (harm pole).
+281	tattle-tale :: f***-the-police	tattle-tale	f***-the-police	0	0	1	1	0	1	0	Tattle-tale relates to authority (reporting to authority figures); f***-the-police relates to defiance of authority and liberty (anti-oppressor sentiment); both poles touch loyalty (betrayal vs. anti-establishment solidarity).
+282	punk rock :: preppy	punk rock	preppy	0	0	0	1	0	1	0	Punk rock relates to defiance/rebellion (authority vice, liberty); preppy relates to conformity and tradition (authority virtue).
+283	realistic :: fantastical	realistic	fantastical	0	0	0	0	0	0	0	
+284	trendy :: vintage	trendy	vintage	0	0	0	0	0	0	0	
+285	factual :: exaggerating	factual	exaggerating	0	1	0	0	0	0	0	Factual relates to honesty, which maps to fairness; exaggerating implies dishonesty.
+286	good-cook :: bad-cook	good-cook	bad-cook	0	0	0	0	0	0	0	
+287	comedic :: dramatic	comedic	dramatic	0	0	0	0	0	0	0	
+288	OCD :: ADHD	OCD	ADHD	0	0	0	0	0	0	0	
+289	interrupting :: attentive	interrupting	attentive	1	0	0	0	0	0	0	Attentive relates to care/nurturance; interrupting is inconsiderate of others.
+290	exhibitionist :: bashful	exhibitionist	bashful	0	0	0	0	1	0	0	Exhibitionism relates to purity foundation (modesty vs. immodesty; body as temple).
+291	badass :: weakass	badass	weakass	0	0	0	0	0	0	0	
+292	gamer :: non-gamer	gamer	non-gamer	0	0	0	0	0	0	0	
+293	random :: pointed	random	pointed	0	0	0	0	0	0	0	
+294	epic :: deep	epic	deep	0	0	0	0	0	0	0	
+295	serene :: pensive	serene	pensive	0	0	0	0	0	0	0	
+296	bored :: interested	bored	interested	0	0	0	0	0	0	0	
+297	envious :: prideful	envious	prideful	0	1	0	0	0	0	1	Envy relates to perceived unfairness in distribution; both envy and pride are traditionally considered moral vices (general).
+298	ironic :: profound	ironic	profound	0	0	0	0	0	0	0	
+299	sexual :: asexual	sexual	asexual	0	0	0	0	1	0	0	Sexual vs. asexual relates to purity foundation (carnality, celibacy, abstention).
+300	clean :: perverted	clean	perverted	0	0	0	0	1	0	1	Clean maps to purity virtue; perverted maps to purity vice and general immorality.
+301	empath :: psychopath	empath	psychopath	1	0	0	0	0	0	1	empath maps to care/compassion; psychopath implies general moral vice
+302	haunted :: blissful	haunted	blissful	0	0	0	0	0	0	0	emotional/psychological states without clear moral foundation relevance
+303	entitled :: grateful	entitled	grateful	0	1	0	0	0	0	1	entitlement relates to fairness/reciprocity violations; general moral virtue/vice dimension
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	0	0	personality/motivational style without clear moral foundation relevance
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	1	0	0	0	stuck-in-the-past loosely relates to tradition/authority foundation
+306	fire :: water	fire	water	0	0	0	0	0	0	0	elemental metaphor with no clear moral foundation relevance
+307	earth :: air	earth	air	0	0	0	0	0	0	0	elemental metaphor with no clear moral foundation relevance
+308	lover :: fighter	lover	fighter	1	0	0	0	0	0	0	fighter pole relates to harm/violence; lover pole relates to care
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	0	0	achievement orientation without clear moral foundation relevance
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	0	0	brand preference with no moral foundation relevance
+311	twitchy :: still	twitchy	still	0	0	0	0	0	0	0	physical/behavioral style with no clear moral foundation relevance
+312	freak :: normie	freak	normie	0	0	0	1	1	1	0	freak implies nonconformity (liberty/authority); normie implies conformity to norms; purity relates to disgust-based othering of the freak pole
+313	thinker :: doer	thinker	doer	0	0	0	0	0	0	0	cognitive/action style with no clear moral foundation relevance
+314	hard-work :: natural-talent	hard-work	natural-talent	0	1	0	0	0	0	0	hard-work relates to fairness/reciprocity; effort-based merit is a fairness concept
+315	stingy :: generous	stingy	generous	1	1	0	0	0	0	1	generosity relates to care and fairness/reciprocity; stinginess is a general moral vice
+316	stubborn :: accommodating	stubborn	accommodating	0	0	0	1	0	0	0	accommodating relates to compliance/deference in authority foundation
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	1	0	0	thrifty relates to purity's self-discipline and austerity; extravagance implies lack of restraint
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	1	0	0	0	demanding relates to authority/leadership style
+319	two-faced :: one-faced	two-faced	one-faced	0	1	1	0	0	0	1	two-faced implies dishonesty/betrayal, relating to fairness and loyalty violations; general moral vice
+320	plastic :: wooden	plastic	wooden	0	0	0	0	0	0	0	personality texture metaphor with no clear moral foundation relevance
+321	neutral :: opinionated	neutral	opinionated	0	0	0	0	0	0	0	attitudinal style with no clear moral foundation relevance
+322	chivalrous :: businesslike	chivalrous	businesslike	1	0	0	1	1	0	1	chivalrous implies care, traditional honor codes (authority), and elevated/noble conduct (purity); general moral virtue
+323	high standards :: desperate	high standards	desperate	0	0	0	0	1	0	0	high standards relates to purity's self-improvement and elevated conduct
+324	on-time :: tardy	on-time	tardy	0	1	0	1	0	0	0	punctuality relates to respect for rules/authority and fairness to others' time
+325	everyman :: chosen one	everyman	chosen one	0	1	0	1	0	0	0	chosen one implies special status/hierarchy (authority); fairness relates to egalitarianism vs. special status
+326	jealous :: opinionated	jealous	opinionated	0	0	0	0	0	0	0	
+327	protagonist :: antagonist	protagonist	antagonist	0	0	0	0	0	0	1	Antagonist pole implies opposition/wrongdoing; protagonist often implies moral heroism; general good vs. bad framing.
+328	devoted :: unfaithful	devoted	unfaithful	0	0	1	1	0	0	0	Devoted maps to loyalty/ingroup virtue; unfaithful maps to authority vice and ingroup vice in the dictionary.
+329	fearmongering :: reassuring	fearmongering	reassuring	1	0	0	0	0	0	0	Fearmongering causes harm/distress; reassuring relates to care and protection of others.
+330	common sense :: analysis	common sense	analysis	0	0	0	0	0	0	0	
+331	unemotional :: emotional	unemotional	emotional	0	0	0	0	0	0	0	
+332	rap :: rock	rap	rock	0	0	0	0	0	0	0	
+333	genocidal :: not genocidal	genocidal	not genocidal	1	1	1	0	0	1	1	Genocidal pole involves extreme harm, injustice, group destruction, and oppression; touches multiple foundations.
+334	cat person :: dog person	cat person	dog person	0	0	0	0	0	0	0	
+335	indie :: pop	indie	pop	0	0	0	0	0	0	0	
+336	cultured :: rustic	cultured	rustic	0	0	0	0	0	0	0	
+337	tautology :: oxymoron	tautology	oxymoron	0	0	0	0	0	0	0	
+338	bad boy :: white knight	bad boy	white knight	1	0	0	0	1	0	1	White knight pole implies protection/care and moral virtue; bad boy implies rule-breaking and impurity; general moral contrast.
+339	princess :: queen	princess	queen	0	0	0	1	0	0	0	Both poles relate to hierarchical status/authority roles.
+340	hypochondriac :: stoic	hypochondriac	stoic	0	0	0	0	0	0	0	
+341	yes-man :: contrarian	yes-man	contrarian	0	0	0	1	0	1	0	Yes-man relates to submission/compliance (authority); contrarian relates to defiance/dissent (liberty/authority vice).
+342	giving :: receiving	giving	receiving	1	1	0	0	0	0	0	Giving relates to care/nurturance; the contrast also evokes reciprocity and fairness.
+343	chic :: cheesy	chic	cheesy	0	0	0	0	0	0	0	
+344	celebrity :: boy/girl-next-door	celebrity	boy/girl-next-door	0	0	0	0	0	0	0	
+345	goth :: flower child	goth	flower child	0	0	0	0	0	0	0	
+346	summer :: winter	summer	winter	0	0	0	0	0	0	0	
+347	frank :: sugarcoated	frank	sugarcoated	0	1	0	0	0	0	0	Frankness relates to honesty, which maps to fairness virtue in the dictionary.
+348	naive :: paranoid	naive	paranoid	0	0	0	0	0	0	0	
+349	gullible :: cynical	gullible	cynical	0	0	0	0	0	0	0	
+350	motivated :: unmotivated	motivated	unmotivated	0	0	0	0	0	0	0	
+351	radical :: centrist	radical	centrist	0	0	0	1	0	1	0	radical pole relates to defiance/subversion (authority vice); liberty foundation captures anti-establishment reactance
+352	monotone :: expressive	monotone	expressive	0	0	0	0	0	0	0	
+353	love-focused :: money-focused	love-focused	money-focused	1	0	0	0	0	0	0	love-focused pole relates to care/nurturance
+354	transparent :: machiavellian	transparent	machiavellian	0	1	0	0	0	0	1	machiavellian pole involves dishonesty and manipulation, relating to fairness vice and general immorality
+355	timid :: cocky	timid	cocky	0	0	0	0	0	0	0	
+356	concise :: long-winded	concise	long-winded	0	0	0	0	0	0	0	
+357	picky :: always down	picky	always down	0	0	0	0	0	0	0	
+358	proactive :: reactive	proactive	reactive	0	0	0	0	0	0	0	
+359	prudish :: flirtatious	prudish	flirtatious	0	0	0	0	1	0	0	prudish pole relates to chastity/modesty (purity virtue); flirtatious pole touches on purity vice
+360	innocent :: jaded	innocent	jaded	0	0	0	0	1	0	0	innocent pole maps to purity virtue
+361	touchy-feely :: distant	touchy-feely	distant	1	0	0	0	0	0	0	touchy-feely pole relates to warmth and nurturance (care)
+362	muddy :: washed	muddy	washed	0	0	0	0	1	0	0	washed/muddy poles relate to cleanliness and purity
+363	quirky :: predictable	quirky	predictable	0	0	0	0	0	0	0	
+364	never cries :: often crying	never cries	often crying	0	0	0	0	0	0	0	
+365	main character :: side character	main character	side character	0	0	0	0	0	0	0	
+366	original :: cliché	original	cliché	0	0	0	0	0	0	0	
+367	hugs :: handshakes	hugs	handshakes	1	0	0	0	0	0	0	hugs pole relates to warmth and nurturance (care)
+368	homebody :: world traveler	homebody	world traveler	0	0	0	0	0	1	0	world traveler pole relates to liberty and freedom from constraint
+369	naughty :: nice	naughty	nice	1	0	0	0	1	0	1	nice pole relates to care/kindness; naughty/nice framing invokes purity and general moral virtue/vice
+370	junkie :: straight edge	junkie	straight edge	0	0	0	0	1	0	0	straight edge pole relates to abstinence and bodily purity; junkie pole relates to purity vice
+371	small-vocabulary :: big-vocabulary	small-vocabulary	big-vocabulary	0	0	0	0	0	0	0	
+372	dystopian :: utopian	dystopian	utopian	1	1	0	0	0	1	1	dystopian/utopian framing broadly invokes harm, fairness, liberty, and general moral ideals about society
+373	parental :: childlike	parental	childlike	1	0	0	1	0	0	0	parental pole relates to nurturance (care) and authority/hierarchy
+374	writer :: reader	writer	reader	0	0	0	0	0	0	0	
+375	creator :: consumer	creator	consumer	0	0	0	0	0	0	0	
+376	capitalist :: communist	capitalist	communist	0	1	1	0	0	1	0	Fairness relates to equity/rights debates central to both ideologies; loyalty relates to collectivism (communist pole); liberty relates to individual freedom (capitalist pole) vs. collective control.
+377	positive :: negative	positive	negative	0	0	0	0	0	0	0	General disposition/affect, not morally grounded in any foundation.
+378	grounded :: fantasy-prone	grounded	fantasy-prone	0	0	0	0	0	0	0	Cognitive/perceptual style, not morally relevant to any foundation.
+379	thinker :: feeler	thinker	feeler	1	0	0	0	0	0	0	Feeler pole relates to empathy and care foundation.
+380	insightful :: generic	insightful	generic	0	0	0	0	0	0	0	Cognitive trait, not morally relevant to any foundation.
+381	questioning :: believing	questioning	believing	0	0	0	1	0	0	0	Questioning pole relates to defiance/dissent from authority; believing pole relates to deference and tradition.
+382	proud :: apologetic	proud	apologetic	0	0	0	0	0	0	0	Emotional/dispositional trait without clear moral foundation grounding.
+383	bubbly :: flat	bubbly	flat	0	0	0	0	0	0	0	Personality/affect style, not morally relevant.
+384	tired :: wired	tired	wired	0	0	0	0	0	0	0	Energy/arousal state, not morally relevant.
+385	woke :: problematic	woke	problematic	1	1	0	0	0	1	1	Woke pole relates to care for marginalized groups, fairness/equality, and liberty from oppression; problematic pole implies general moral failing.
+386	grumpy :: cheery	grumpy	cheery	0	0	0	0	0	0	0	Mood/affect trait, not morally relevant.
+387	hippie :: militaristic	hippie	militaristic	1	0	1	1	1	1	0	Hippie pole relates to peace/care, liberty, and naturalness/purity; militaristic pole relates to authority, loyalty, and group defense.
+388	gluttonous :: moderate	gluttonous	moderate	0	0	0	0	1	0	1	Gluttony relates to purity/self-discipline failure; moderate pole reflects self-restraint virtue. General moral connotation of gluttony as vice.
+389	flawed :: perfect	flawed	perfect	0	0	0	0	1	0	1	Perfect pole relates to purity/immaculate ideals; general moral virtue/vice connotation.
+390	sweet :: savory	sweet	savory	0	0	0	0	0	0	0	Taste preference, not morally relevant.
+391	annoying :: unannoying	annoying	unannoying	0	0	0	0	0	0	0	Social/interpersonal style, not morally grounded in any foundation.
+392	good-manners :: bad-manners	good-manners	bad-manners	0	0	0	1	0	0	1	Manners relate to authority/respect for social norms and traditions; general moral virtue connotation.
+393	evolutionist :: creationist	evolutionist	creationist	0	0	0	1	1	0	0	Creationist pole relates to religious tradition (authority) and sacred/spiritual worldview (purity).
+394	fulfilled :: unfulfilled	fulfilled	unfulfilled	0	0	0	0	0	0	0	Psychological state, not morally relevant to any foundation.
+395	friendly :: unfriendly	friendly	unfriendly	1	0	0	0	0	0	0	Friendly pole relates to care/kindness foundation.
+396	innovative :: routine	innovative	routine	0	0	0	1	0	0	0	Routine pole relates to tradition and authority foundation; innovative pole implies departure from tradition.
+397	delicate :: coarse	delicate	coarse	0	0	0	0	1	0	0	Coarse pole relates to impurity/indecency; delicate pole relates to refinement in purity foundation.
+398	resentful :: euphoric	resentful	euphoric	0	0	0	0	0	0	0	Emotional states, not morally relevant to any foundation.
+399	uptight :: easy	uptight	easy	0	0	0	0	0	0	0	Personality/disposition trait, not morally relevant.
+400	blue :: red	blue	red	1	1	1	1	1	1	0	Political color coding (Democrat/Republican) maps broadly onto all MFT foundations as the two parties differ systematically across all foundations.
+401	slumbering :: insomniac	slumbering	insomniac	0	0	0	0	0	0	0	
+402	spirited :: lifeless	spirited	lifeless	0	0	0	0	0	0	0	
+403	outgoing :: withdrawn	outgoing	withdrawn	0	0	0	0	0	0	0	
+404	Hates PDA :: Constant PDA	Hates PDA	Constant PDA	0	0	0	0	1	0	0	Public displays of affection relate to purity norms around modesty and decency in public behavior.
+405	buffoon :: charmer	buffoon	charmer	0	0	0	0	0	0	0	
+406	sloppy :: fussy	sloppy	fussy	0	0	0	0	0	0	0	
+407	accurate :: off target	accurate	off target	0	0	0	0	0	0	0	
+408	harsh :: gentle	harsh	gentle	1	0	0	0	0	0	0	Gentleness is a core care foundation virtue; harshness is its opposite.
+409	clinical :: heartfelt	clinical	heartfelt	1	0	0	0	0	0	0	Heartfelt pole relates to empathy and warmth, core care foundation traits.
+410	inappropriate :: seemly	inappropriate	seemly	0	0	0	1	1	0	1	Seemly/inappropriate relate to decency (purity), social norms and propriety (authority), and general moral conduct.
+411	smug :: sheepish	smug	sheepish	0	0	0	0	0	0	0	
+412	fake :: real	fake	real	0	1	0	0	0	0	1	Fake pole relates to dishonesty (fairness); authenticity vs. deception also carries general moral valence.
+413	popular :: rejected	popular	rejected	0	0	0	0	0	0	0	
+414	catty :: supportive	catty	supportive	1	0	0	0	0	0	1	Supportive pole reflects care/nurturance; catty behavior is unkind and carries general moral negativity.
+415	chronically single :: serial dater	chronically single	serial dater	0	0	0	0	0	0	0	
+416	people-person :: things-person	people-person	things-person	0	0	0	0	0	0	0	
+417	eager :: reluctant	eager	reluctant	0	0	0	0	0	0	0	
+418	goal-oriented :: experience-oriented	goal-oriented	experience-oriented	0	0	0	0	0	0	0	
+419	outdoorsy :: indoorsy	outdoorsy	indoorsy	0	0	0	0	0	0	0	
+420	divine :: earthly	divine	earthly	0	0	0	0	1	0	0	Divine pole relates to purity foundation's sacred/spiritual dimension and striving toward an elevated, less carnal existence.
+421	foodie :: unenthusiastic about food	foodie	unenthusiastic about food	0	0	0	0	0	0	0	
+422	chill :: sassy	chill	sassy	0	0	0	0	0	0	0	
+423	glamorous :: spartan	glamorous	spartan	0	0	0	0	0	0	0	
+424	prankster :: anti-prank	prankster	anti-prank	0	0	0	0	0	0	0	
+425	goofy :: unfrivolous	goofy	unfrivolous	0	0	0	0	0	0	0	
+426	noble :: jovial	noble	jovial	0	0	0	0	0	0	1	noble has broad moral virtue connotation per MFT dictionary
+427	blessed :: cursed	blessed	cursed	0	0	0	0	1	0	1	blessed/cursed carry sacred/religious connotations (purity); also broad moral valence
+428	forward :: repressed	forward	repressed	0	0	0	0	1	1	0	repressed pole relates to purity (self-restraint/abstinence) and liberty (restriction of expression/freedom)
+429	entrepreneur :: employee	entrepreneur	employee	0	0	0	1	0	1	0	employee relates to authority (followership, compliance); entrepreneur relates to liberty (independence, self-direction)
+430	quivering :: unstirring	quivering	unstirring	0	0	0	0	0	0	0	physical/emotional descriptors with no clear moral foundation relevance
+431	mechanical :: natural	mechanical	natural	0	0	0	0	1	0	0	natural pole relates to purity foundation (naturalness as a virtue)
+432	minds-own-business :: snoops	minds-own-business	snoops	0	1	0	0	0	1	0	snooping violates others' privacy (fairness/rights); also infringes on liberty
+433	prying :: unmeddlesome	prying	unmeddlesome	0	1	0	0	0	1	0	prying violates privacy/rights (fairness) and personal liberty
+434	leader :: follower	leader	follower	0	0	0	1	0	0	0	directly maps to authority foundation (leadership and followership)
+435	handy :: can't-fix-anything	handy	can't-fix-anything	0	0	0	0	0	0	0	practical skill differential with no clear moral foundation relevance
+436	green thumb :: plant-neglecter	green thumb	plant-neglecter	1	0	0	0	0	0	0	plant-neglecter pole weakly relates to care (neglect/nurturing of living things)
+437	activist :: nonpartisan	activist	nonpartisan	0	1	1	0	0	1	0	activism often involves fairness/rights advocacy, group solidarity (loyalty), and liberty causes
+438	photographer :: physicist	photographer	physicist	0	0	0	0	0	0	0	occupational/hobby differential with no clear moral foundation relevance
+439	lumberjack :: mad-scientist	lumberjack	mad-scientist	0	0	0	0	0	0	0	occupational archetypes with no clear moral foundation relevance
+440	pointless :: meaningful	pointless	meaningful	0	0	0	0	0	0	1	meaningful/pointless carries broad moral-existential valence (general virtue/worth)
+441	focused :: absentminded	focused	absentminded	0	0	0	0	0	0	0	cognitive style differential with no clear moral foundation relevance
+442	bear :: wolf	bear	wolf	0	0	0	0	0	0	0	animal archetype differential with no clear moral foundation relevance
+443	lion :: zebra	lion	zebra	0	0	0	0	0	0	0	animal archetype differential with no clear moral foundation relevance
+444	kangaroo :: dolphin	kangaroo	dolphin	0	0	0	0	0	0	0	animal archetype differential with no clear moral foundation relevance
+445	all-seeing :: blind	all-seeing	blind	0	0	0	1	0	0	0	all-seeing weakly relates to authority (omniscient oversight/surveillance power)
+446	engineerial :: lawyerly	engineerial	lawyerly	0	1	0	1	0	0	0	lawyerly relates to fairness (justice/rights) and authority (law)
+447	love shy :: cassanova	love shy	cassanova	0	0	0	0	1	0	0	cassanova pole relates to purity (promiscuity/sexual license)
+448	disturbing :: enchanting	disturbing	enchanting	0	0	0	0	1	0	0	disturbing pole weakly relates to purity (disgust/contamination response)
+449	maverick :: conformist	maverick	conformist	0	0	0	1	0	1	0	conformist relates to authority (compliance with norms/tradition); maverick relates to liberty (independence from constraints)
+450	social climber :: nonconformist	social climber	nonconformist	0	0	0	1	0	1	0	social climber relates to authority (hierarchy/status-seeking); nonconformist relates to liberty (rejecting imposed norms)
+451	social chameleon :: strong identity	social chameleon	strong identity	0	0	1	0	0	0	0	Social chameleon implies shifting allegiances/identity; strong identity relates to loyalty and consistency of self within group contexts.
+452	awkward :: comfortable	awkward	comfortable	0	0	0	0	0	0	0	
+453	sincere :: irreverent	sincere	irreverent	0	1	0	1	0	0	1	Sincere relates to honesty (fairness) and general moral virtue; irreverent relates to disrespect for authority/tradition.
+454	intuitive :: analytical	intuitive	analytical	0	0	0	0	0	0	0	
+455	cringing away :: welcoming experience	cringing away	welcoming experience	0	0	0	0	0	0	0	
+456	stereotypical :: boundary breaking	stereotypical	boundary breaking	0	0	0	1	0	1	0	Stereotypical aligns with authority/tradition; boundary breaking aligns with liberty and defiance of norms.
+457	energetic :: mellow	energetic	mellow	0	0	0	0	0	0	0	
+458	hopeful :: fearful	hopeful	fearful	0	0	0	0	0	0	0	
+459	likes change :: resists change	likes change	resists change	0	0	0	1	0	0	0	Resists change aligns with authority/tradition foundation.
+460	manic :: mild	manic	mild	0	0	0	0	0	0	0	
+461	old-fashioned :: progressive	old-fashioned	progressive	0	0	0	1	0	1	0	Old-fashioned aligns with tradition/authority; progressive aligns with liberty and challenging established norms.
+462	gross :: hygienic	gross	hygienic	0	0	0	0	1	0	0	Gross relates to disgust/contamination (purity vice); hygienic relates to cleanliness (purity virtue).
+463	stable :: unstable	stable	unstable	0	0	0	0	0	0	0	
+464	overthinker :: underthinker	overthinker	underthinker	0	0	0	0	0	0	0	

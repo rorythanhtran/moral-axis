@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+51	reasoned :: instinctual	reasoned	instinctual	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+52	focused on the present :: focused on the future	focused on the present	focused on the future	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+53	empirical :: theoretical	empirical	theoretical	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+54	open :: guarded	open	guarded	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+55	methodical :: astonishing	methodical	astonishing	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+56	mighty :: puny	mighty	puny	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+57	bossy :: meek	bossy	meek	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+58	barbaric :: civilized	barbaric	civilized	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+59	gregarious :: private	gregarious	private	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+60	quiet :: loud	quiet	loud	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+61	political :: nonpolitical	political	nonpolitical	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+62	confident :: insecure	confident	insecure	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+63	democratic :: authoritarian	democratic	authoritarian	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+64	debased :: pure	debased	pure	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+65	fast :: slow	fast	slow	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+66	frugal :: lavish	frugal	lavish	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+67	ludicrous :: sensible	ludicrous	sensible	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+68	orange :: purple	orange	purple	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+69	tall :: short	tall	short	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+70	young :: old	young	old	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+71	down2earth :: head@clouds	down2earth	head@clouds	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+72	extrovert :: introvert	extrovert	introvert	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+73	open to new experiences :: uncreative	open to new experiences	uncreative	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+74	calm :: anxious	calm	anxious	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+75	disorganized :: self-disciplined	disorganized	self-disciplined	0	0	0	0	0	0	0	ERROR: no valid model response after retries

@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+276	tailor :: blacksmith	tailor	blacksmith	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+277	hunter :: gatherer	hunter	gatherer	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+278	experimental :: reliable	experimental	reliable	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+279	moist :: dry	moist	dry	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+280	trolling :: triggered	trolling	triggered	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+281	tattle-tale :: f***-the-police	tattle-tale	f***-the-police	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+282	punk rock :: preppy	punk rock	preppy	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+283	realistic :: fantastical	realistic	fantastical	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+284	trendy :: vintage	trendy	vintage	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+285	factual :: exaggerating	factual	exaggerating	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+286	good-cook :: bad-cook	good-cook	bad-cook	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+287	comedic :: dramatic	comedic	dramatic	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+288	OCD :: ADHD	OCD	ADHD	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+289	interrupting :: attentive	interrupting	attentive	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+290	exhibitionist :: bashful	exhibitionist	bashful	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+291	badass :: weakass	badass	weakass	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+292	gamer :: non-gamer	gamer	non-gamer	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+293	random :: pointed	random	pointed	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+294	epic :: deep	epic	deep	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+295	serene :: pensive	serene	pensive	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+296	bored :: interested	bored	interested	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+297	envious :: prideful	envious	prideful	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+298	ironic :: profound	ironic	profound	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+299	sexual :: asexual	sexual	asexual	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+300	clean :: perverted	clean	perverted	0	0	0	0	0	0	0	ERROR: no valid model response after retries

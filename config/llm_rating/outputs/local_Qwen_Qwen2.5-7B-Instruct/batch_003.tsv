@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+51	reasoned :: instinctual	reasoned	instinctual	0	0	0	0	0	0	0	
+52	focused on the present :: focused on the future	focused on the present	focused on the future	0	0	0	0	0	0	0	
+53	empirical :: theoretical	empirical	theoretical	0	0	0	0	0	0	0	
+54	open :: guarded	open	guarded	1	0	0	0	0	0	0	Open relates to caring and empathy.
+55	methodical :: astonishing	methodical	astonishing	0	0	0	0	0	0	0	
+56	mighty :: puny	mighty	puny	0	0	0	0	0	0	0	
+57	bossy :: meek	bossy	meek	0	0	0	1	0	0	0	Bossy relates to authority.
+58	barbaric :: civilized	barbaric	civilized	0	0	0	0	0	0	1	Civilized relates to general moral goodness.
+59	gregarious :: private	gregarious	private	1	0	0	0	0	0	0	Gregarious relates to care.
+60	quiet :: loud	quiet	loud	1	0	0	0	0	0	0	Quiet relates to care.
+61	political :: nonpolitical	political	nonpolitical	0	0	1	0	0	0	0	Political relates to loyalty.
+62	confident :: insecure	confident	insecure	0	0	0	0	0	1	0	Confidence relates to liberty.
+63	democratic :: authoritarian	democratic	authoritarian	0	1	0	1	0	0	0	Democratic relates to fairness and authority.
+64	debased :: pure	debased	pure	0	0	0	0	1	0	0	Pure relates to purity.
+65	fast :: slow	fast	slow	0	0	0	0	0	0	0	
+66	frugal :: lavish	frugal	lavish	0	0	0	0	0	0	0	
+67	ludicrous :: sensible	ludicrous	sensible	0	0	0	0	0	0	1	Sensible relates to general moral goodness.
+68	orange :: purple	orange	purple	0	0	0	0	0	0	0	
+69	tall :: short	tall	short	0	0	0	0	0	0	0	
+70	young :: old	young	old	1	0	0	0	0	0	0	Young relates to care.
+71	down2earth :: head@clouds	down2earth	head@clouds	1	0	0	0	0	0	0	Down2earth relates to care.
+72	extrovert :: introvert	extrovert	introvert	1	0	0	0	0	0	0	Extrovert relates to care.
+73	open to new experiences :: uncreative	open to new experiences	uncreative	1	0	0	0	0	0	0	Open to new experiences relates to care.
+74	calm :: anxious	calm	anxious	1	0	0	0	0	0	0	Calm relates to care.
+75	disorganized :: self-disciplined	disorganized	self-disciplined	0	0	0	0	0	1	0	Self-disciplined relates to liberty.

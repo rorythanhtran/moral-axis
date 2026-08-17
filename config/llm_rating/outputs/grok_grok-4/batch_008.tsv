@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+176	androgynous :: gendered	androgynous	gendered	0	0	0	0	0	0	0	
+177	repetitive :: varied	repetitive	varied	0	0	0	0	0	0	0	
+178	patient :: impatient	patient	impatient	0	0	0	0	0	0	0	
+179	poisonous :: nurturing	poisonous	nurturing	1	0	0	0	0	0	0	nurturing matches care
+180	creepy :: disarming	creepy	disarming	0	0	0	0	1	0	0	creepy matches disgust/purity
+181	inspiring :: cringeworthy	inspiring	cringeworthy	0	0	0	0	1	0	0	cringeworthy matches disgust/purity
+182	soulless :: soulful	soulless	soulful	0	0	0	0	1	0	0	soulful matches purity/spirituality
+183	beautiful :: ugly	beautiful	ugly	0	0	0	0	0	0	0	
+184	domestic :: industrial	domestic	industrial	0	0	1	0	0	0	0	domestic matches family/loyalty
+185	juvenile :: mature	juvenile	mature	0	0	0	1	0	0	0	mature matches authority/order
+186	idealist :: realist	idealist	realist	0	0	0	0	0	0	0	
+187	nihilist :: existentialist	nihilist	existentialist	0	0	0	0	0	0	1	nihilist general vice
+188	objective :: subjective	objective	subjective	0	1	0	0	0	0	0	objective matches fairness/impartial
+189	theist :: atheist	theist	atheist	0	0	0	0	1	0	0	theist matches purity/holy
+190	classical :: avant-garde	classical	avant-garde	0	0	0	1	0	0	0	classical matches tradition/authority
+191	utilitarian :: decorative	utilitarian	decorative	0	0	0	0	0	0	0	
+192	generalist :: specialist	generalist	specialist	0	0	0	0	0	0	0	
+193	multicolored :: monochrome	multicolored	monochrome	0	0	0	0	0	0	0	
+194	complimentary :: insulting	complimentary	insulting	1	0	0	0	0	0	0	insulting matches harm
+195	individualist :: communal	individualist	communal	0	0	1	0	0	0	0	communal matches loyalty
+196	equitable :: hypocritical	equitable	hypocritical	0	1	0	0	0	0	0	equitable matches fairness
+197	traditional :: unorthodox	traditional	unorthodox	0	0	0	1	0	0	0	traditional matches authority
+198	workaholic :: slacker	workaholic	slacker	0	0	0	0	0	0	0	
+199	resourceful :: helpless	resourceful	helpless	1	0	0	0	0	0	0	helpless matches harm/abandon
+200	crazy :: sane	crazy	sane	0	0	0	0	1	0	0	crazy matches sick/purity

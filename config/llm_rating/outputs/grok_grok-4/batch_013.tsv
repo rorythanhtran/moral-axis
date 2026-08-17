@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+301	empath :: psychopath	empath	psychopath	1	0	0	0	0	0	0	empath matches care
+302	haunted :: blissful	haunted	blissful	0	0	0	0	0	0	0	
+303	entitled :: grateful	entitled	grateful	0	1	0	0	0	0	0	entitled matches fairness
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	0	0	
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	0	0	0	0	
+306	fire :: water	fire	water	0	0	0	0	0	0	0	
+307	earth :: air	earth	air	0	0	0	0	0	0	0	
+308	lover :: fighter	lover	fighter	1	0	0	0	0	0	0	fighter matches care
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	0	0	
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	0	0	
+311	twitchy :: still	twitchy	still	0	0	0	0	0	0	0	
+312	freak :: normie	freak	normie	0	0	0	0	1	0	0	freak matches purity
+313	thinker :: doer	thinker	doer	0	0	0	0	0	0	0	
+314	hard-work :: natural-talent	hard-work	natural-talent	0	0	0	0	0	0	0	
+315	stingy :: generous	stingy	generous	1	0	0	0	0	0	0	generous matches care
+316	stubborn :: accommodating	stubborn	accommodating	0	0	0	1	0	0	0	stubborn matches authority
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	0	0	0	
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	1	0	0	0	demanding matches authority
+319	two-faced :: one-faced	two-faced	one-faced	0	0	1	0	0	0	0	two-faced matches loyalty
+320	plastic :: wooden	plastic	wooden	0	0	0	0	0	0	0	
+321	neutral :: opinionated	neutral	opinionated	0	1	0	0	0	0	0	neutral matches fairness
+322	chivalrous :: businesslike	chivalrous	businesslike	0	0	0	1	0	0	0	chivalrous matches authority
+323	high standards :: desperate	high standards	desperate	0	0	0	0	1	0	0	high standards matches purity
+324	on-time :: tardy	on-time	tardy	0	0	0	1	0	0	0	on-time matches authority
+325	everyman :: chosen one	everyman	chosen one	0	0	1	0	0	0	0	everyman matches loyalty

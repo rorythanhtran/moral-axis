@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+426	noble :: jovial	noble	jovial	0	0	0	0	1	0	1	noble relates to Purity (elevated way of life) and General morality.
+427	blessed :: cursed	blessed	cursed	0	0	0	0	1	0	1	blessed/cursed relate to spiritual purity/impurity and general moral standing.
+428	forward :: repressed	forward	repressed	0	0	0	0	1	1	0	repressed relates to self-discipline (Purity) and restriction of self (Liberty).
+429	entrepreneur :: employee	entrepreneur	employee	0	0	0	0	0	0	0	
+430	quivering :: unstirring	quivering	unstirring	0	0	0	0	0	0	0	
+431	mechanical :: natural	mechanical	natural	0	0	0	0	1	0	0	natural relates to the Purity foundation's idea of living in a 'natural' way.
+432	minds-own-business :: snoops	minds-own-business	snoops	0	1	0	0	0	1	0	snoops relates to unfair intrusion and infringement on liberty/privacy.
+433	prying :: unmeddlesome	prying	unmeddlesome	0	1	0	0	0	1	0	prying relates to unfair intrusion and infringement on liberty/privacy.
+434	leader :: follower	leader	follower	0	0	0	1	0	0	0	Directly relates to the Authority foundation (leadership and followership).
+435	handy :: can't-fix-anything	handy	can't-fix-anything	0	0	0	0	0	0	0	
+436	green thumb :: plant-neglecter	green thumb	plant-neglecter	1	0	0	0	0	0	0	plant-neglecter implies a lack of care for living things.
+437	activist :: nonpartisan	activist	nonpartisan	1	1	1	1	1	1	1	Activism can be motivated by any moral foundation and is generally about moral causes.
+438	photographer :: physicist	photographer	physicist	0	0	0	0	0	0	0	
+439	lumberjack :: mad-scientist	lumberjack	mad-scientist	0	0	0	0	0	0	0	
+440	pointless :: meaningful	pointless	meaningful	0	0	0	0	1	0	1	meaningful can relate to Purity (elevated life, self-improvement) and General morality (value, significance).
+441	focused :: absentminded	focused	absentminded	0	0	0	0	0	0	0	
+442	bear :: wolf	bear	wolf	0	0	0	0	0	0	0	
+443	lion :: zebra	lion	zebra	0	0	0	0	0	0	0	
+444	kangaroo :: dolphin	kangaroo	dolphin	0	0	0	0	0	0	0	
+445	all-seeing :: blind	all-seeing	blind	0	0	0	0	0	0	0	
+446	engineerial :: lawyerly	engineerial	lawyerly	0	0	0	0	0	0	0	
+447	love shy :: cassanova	love shy	cassanova	0	0	0	0	1	0	0	cassanova relates to promiscuity, a Purity vice.
+448	disturbing :: enchanting	disturbing	enchanting	1	0	0	0	0	0	0	disturbing can relate to causing psychological harm or distress.
+449	maverick :: conformist	maverick	conformist	0	0	0	1	0	1	0	maverick/conformist relate to Authority (deference/defiance) and Liberty (independence).
+450	social climber :: nonconformist	social climber	nonconformist	0	0	0	1	0	1	0	social climber/nonconformist relate to Authority (status/deference vs. defiance) and Liberty (nonconformity).

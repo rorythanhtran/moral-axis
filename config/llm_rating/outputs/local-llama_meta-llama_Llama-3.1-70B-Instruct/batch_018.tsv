@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+426	noble :: jovial	noble	jovial	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+427	blessed :: cursed	blessed	cursed	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+428	forward :: repressed	forward	repressed	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+429	entrepreneur :: employee	entrepreneur	employee	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+430	quivering :: unstirring	quivering	unstirring	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+431	mechanical :: natural	mechanical	natural	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+432	minds-own-business :: snoops	minds-own-business	snoops	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+433	prying :: unmeddlesome	prying	unmeddlesome	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+434	leader :: follower	leader	follower	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+435	handy :: can't-fix-anything	handy	can't-fix-anything	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+436	green thumb :: plant-neglecter	green thumb	plant-neglecter	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+437	activist :: nonpartisan	activist	nonpartisan	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+438	photographer :: physicist	photographer	physicist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+439	lumberjack :: mad-scientist	lumberjack	mad-scientist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+440	pointless :: meaningful	pointless	meaningful	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+441	focused :: absentminded	focused	absentminded	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+442	bear :: wolf	bear	wolf	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+443	lion :: zebra	lion	zebra	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+444	kangaroo :: dolphin	kangaroo	dolphin	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+445	all-seeing :: blind	all-seeing	blind	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+446	engineerial :: lawyerly	engineerial	lawyerly	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+447	love shy :: cassanova	love shy	cassanova	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+448	disturbing :: enchanting	disturbing	enchanting	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+449	maverick :: conformist	maverick	conformist	0	0	0	0	0	0	0	ERROR: no valid model response after retries
+450	social climber :: nonconformist	social climber	nonconformist	0	0	0	0	0	0	0	ERROR: no valid model response after retries

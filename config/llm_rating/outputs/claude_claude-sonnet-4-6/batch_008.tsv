@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+176	androgynous :: gendered	androgynous	gendered	0	0	0	0	1	1	0	Purity foundation relates to gender norms and naturalness; liberty relates to freedom from imposed gender roles.
+177	repetitive :: varied	repetitive	varied	0	0	0	0	0	0	0	
+178	patient :: impatient	patient	impatient	1	0	0	0	0	0	0	Patient pole relates to care/nurturance virtues.
+179	poisonous :: nurturing	poisonous	nurturing	1	0	0	0	1	0	0	Nurturing pole relates to care foundation; poisonous pole relates to purity/contamination.
+180	creepy :: disarming	creepy	disarming	0	0	0	0	1	0	0	Creepy pole evokes disgust/purity concerns.
+181	inspiring :: cringeworthy	inspiring	cringeworthy	0	0	0	0	1	0	0	Cringeworthy pole evokes mild disgust/purity reaction.
+182	soulless :: soulful	soulless	soulful	0	0	0	0	1	0	1	Soulful pole relates to purity/spirituality; soulless implies moral/general deficiency.
+183	beautiful :: ugly	beautiful	ugly	0	0	0	0	1	0	0	Beauty/ugliness relates to purity aesthetics and disgust sensitivity.
+184	domestic :: industrial	domestic	industrial	0	0	0	0	0	0	0	
+185	juvenile :: mature	juvenile	mature	0	0	0	1	0	0	0	Mature pole relates to authority foundation virtues of respect and deference.
+186	idealist :: realist	idealist	realist	0	0	0	0	0	0	0	
+187	nihilist :: existentialist	nihilist	existentialist	0	0	0	0	0	0	1	Nihilist pole implies rejection of moral values generally.
+188	objective :: subjective	objective	subjective	0	1	0	0	0	0	0	Objective pole relates to impartiality and fairness.
+189	theist :: atheist	theist	atheist	0	0	0	1	1	0	0	Theist pole relates to purity/spirituality and authority/tradition foundations.
+190	classical :: avant-garde	classical	avant-garde	0	0	0	1	0	0	0	Classical pole relates to authority/tradition; avant-garde to defiance of tradition.
+191	utilitarian :: decorative	utilitarian	decorative	0	0	0	0	0	0	0	
+192	generalist :: specialist	generalist	specialist	0	0	0	0	0	0	0	
+193	multicolored :: monochrome	multicolored	monochrome	0	0	0	0	0	0	0	
+194	complimentary :: insulting	complimentary	insulting	1	0	0	1	0	0	1	Insulting pole relates to disrespect (authority) and harm to others (care); general moral valence is strong.
+195	individualist :: communal	individualist	communal	0	0	1	0	0	1	0	Communal pole relates to loyalty/ingroup; individualist pole relates to liberty.
+196	equitable :: hypocritical	equitable	hypocritical	0	1	0	0	0	0	1	Equitable pole directly maps to fairness; hypocritical pole has broad moral vice connotation.
+197	traditional :: unorthodox	traditional	unorthodox	0	0	0	1	0	1	0	Traditional pole relates to authority/tradition; unorthodox pole relates to liberty/defiance of norms.
+198	workaholic :: slacker	workaholic	slacker	0	0	0	0	1	0	0	Purity foundation underlies self-discipline and self-improvement; slacker pole implies lack thereof.
+199	resourceful :: helpless	resourceful	helpless	1	0	0	0	0	0	0	Helpless pole evokes care/protection concerns.
+200	crazy :: sane	crazy	sane	0	0	0	0	0	0	0	

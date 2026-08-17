@@ -1,8 +1,9 @@
-"""Rate trait batches with Gemini or DeepSeek APIs.
+"""Rate trait batches with Gemini, DeepSeek, or Claude APIs.
 
 API keys are read from environment variables:
 - GEMINI_API_KEY for --provider gemini
 - DEEPSEEK_API_KEY for --provider deepseek
+- CLAUDE_API_KEY for --provider claude
 """
 
 from __future__ import annotations
@@ -74,7 +75,7 @@ GEMINI_SCHEMA: dict[str, Any] = {
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run LLM trait ratings over TSV batches.")
-    parser.add_argument("--provider", choices=["gemini", "deepseek"], required=True)
+    parser.add_argument("--provider", choices=["gemini", "deepseek", "claude"], required=True)
     parser.add_argument("--model", help="Model name. Defaults depend on provider.")
     parser.add_argument("--prompt", type=Path, default=DEFAULT_PROMPT)
     parser.add_argument("--batch-dir", type=Path, default=DEFAULT_BATCH_DIR)
@@ -113,7 +114,7 @@ def read_tsv(path: Path) -> list[dict[str, str]]:
 def rows_to_tsv(rows: list[dict[str, str]]) -> str:
     lines = ["\t".join(INPUT_COLUMNS)]
     for row in rows:
-        lines.append("\t".join(row[column] for column in INPUT_COLUMNS))
+        lines.append("\t".join(str(row.get(column, "")) for column in INPUT_COLUMNS))
     return "\n".join(lines)
 
 
@@ -140,20 +141,17 @@ def request_json(url: str, headers: dict[str, str], payload: dict[str, Any]) -> 
     max_retries = 5
     base_delay = 4.0
     for attempt in range (max_retries): 
-        
         try:
             with urllib.request.urlopen(request, timeout=120) as response:
                 body = response.read().decode("utf-8")
                 return json.loads(body)
         except urllib.error.HTTPError as error:
             body = error.read().decode("utf-8", errors="replace")
-        #handle 503 error
             if error.code == 503 and attempt < max_retries - 1:
                 delay = base_delay * (2 ** attempt)
                 print(f"Server busy. Retry in {delay}s...")
                 time.sleep(delay)
                 continue
-            #handle bad request or invalid key
             raise RuntimeError(f"HTTP {error.code}: {body}") from error
         except urllib.error.URLError as error:
             if attempt < max_retries - 1:
@@ -162,6 +160,7 @@ def request_json(url: str, headers: dict[str, str], payload: dict[str, Any]) -> 
                 time.sleep(delay)
                 continue 
             raise error
+
 
 def call_gemini(prompt: str, model: str, api_key: str, temperature: float, max_tokens: int) -> tuple[dict[str, Any], str]:
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -173,6 +172,12 @@ def call_gemini(prompt: str, model: str, api_key: str, temperature: float, max_t
             "responseMimeType": "application/json",
             "responseJsonSchema": GEMINI_SCHEMA,
         },
+        "safetySettings": [
+            {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
+            {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
+        ],
     }
     raw = request_json(
         url,
@@ -206,18 +211,106 @@ def call_deepseek(prompt: str, model: str, api_key: str, temperature: float, max
     return raw, text
 
 
+def call_claude(prompt: str, model: str, api_key: str, temperature: float, max_tokens: int) -> tuple[dict[str, Any], str]:
+    url = "https://api.anthropic.com/v1/messages"
+    headers = {
+        "x-api-key": api_key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": model,
+        "max_tokens": max_tokens,
+        "temperature": temperature,
+        "messages": [
+            {"role": "user", "content": prompt}
+        ],
+    }
+    raw = request_json(url, headers, payload)
+    text = raw["content"][0]["text"]
+    return raw, text
+
+def repair_json_brackets(json_str: str) -> str:
+    """Closes unbalanced curly or square brackets if an API truncated its output."""
+    in_string = False
+    escape = False
+    stack = []
+    
+    for char in json_str:
+        if escape:
+            escape = False
+            continue
+        if char == '\\':
+            escape = True
+            continue
+        if char == '"':
+            in_string = not in_string
+            continue
+        if not in_string:
+            if char in '{[':
+                stack.append(char)
+            elif char in '}]':
+                if stack:
+                    # Match pairs and pop
+                    if (char == '}' and stack[-1] == '{') or (char == ']' and stack[-1] == '['):
+                        stack.pop()
+                        
+    # Append missing structural closers in the exact reverse order they were opened
+    for open_char in reversed(stack):
+        if open_char == '{':
+            json_str += '}'
+        elif open_char == '[':
+            json_str += ']'
+            
+    return json_str
+
+
 def extract_json(text: str) -> dict[str, Any]:
+    """Extract and parse JSON from LLM output, with aggressive fallbacks."""
     cleaned = text.strip()
     if cleaned.startswith("```"):
         cleaned = re.sub(r"^```(?:json)?\s*", "", cleaned)
         cleaned = re.sub(r"\s*```$", "", cleaned)
+    
+    # Attempt 1: Standard load
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
-        match = re.search(r"\{.*\}", cleaned, re.DOTALL)
-        if not match:
-            raise
-        return json.loads(match.group(0))
+        pass
+
+    # Attempt 2: Extract the largest JSON object
+    match = re.search(r"\{.*\}", cleaned, re.DOTALL)
+    if not match:
+        return json.loads(cleaned)
+    
+    candidate = match.group(0)
+    try:
+        return json.loads(candidate)
+    except json.JSONDecodeError:
+        pass
+
+    # Attempt 3: Aggressive repair of unescaped quotes in string fields
+    def repair_quotes(m):
+        prefix = m.group(1) 
+        content = m.group(2)
+        suffix = m.group(3)
+        return prefix + content.replace('"', "'") + suffix
+
+    fixed = re.sub(
+        r'("(?:notes|differential|left_pole|right_pole)":\s*")(.+?)("\s*[,}])',
+        repair_quotes,
+        candidate,
+        flags=re.DOTALL
+    )
+    
+    try:
+        return json.loads(fixed)
+    except json.JSONDecodeError as e:
+        # Final fallback: Save to file for debugging
+        debug_path = Path("failed_json.txt")
+        debug_path.write_text(candidate, encoding="utf-8")
+        print(f"DEBUG: JSON parsing failed. Saved failing text to {debug_path.absolute()}")
+        raise e
 
 
 def normalize_rating(value: Any) -> int:
@@ -277,6 +370,8 @@ def provider_defaults(provider: str) -> tuple[str, str]:
         return "gemini-2.5-flash", "GEMINI_API_KEY"
     if provider == "deepseek":
         return "deepseek-v4-flash", "DEEPSEEK_API_KEY"
+    if provider == "claude":
+        return "claude-sonnet-4-6", "CLAUDE_API_KEY"
     raise ValueError(f"Unknown provider: {provider}")
 
 
@@ -297,6 +392,8 @@ def run_batch(args: argparse.Namespace, batch_path: Path, model: str, api_key: s
         try:
             if args.provider == "gemini":
                 raw, text = call_gemini(prompt, model, api_key, args.temperature, args.max_output_tokens)
+            elif args.provider == "claude":
+                raw, text = call_claude(prompt, model, api_key, args.temperature, args.max_output_tokens)
             else:
                 raw, text = call_deepseek(prompt, model, api_key, args.temperature, args.max_output_tokens)
 
@@ -318,7 +415,56 @@ def run_batch(args: argparse.Namespace, batch_path: Path, model: str, api_key: s
                 print(f"Attempt {attempt} failed for {batch_path.name}: {error}. Retrying in {wait_seconds:.1f}s...")
                 time.sleep(wait_seconds)
 
-    raise RuntimeError(f"Failed {batch_path.name} after retries: {last_error}") from last_error
+    print(f"Full batch run failed for {batch_path.name}: {last_error}.")
+    print("Falling back to chunked processing (chunk size = 5)...")
+
+    chunk_size = 5
+    combined_rows = []
+    raw_responses = []
+
+    for i in range(0, len(batch_rows), chunk_size):
+        chunk_rows = batch_rows[i : i + chunk_size]
+        chunk_prompt = build_prompt(args, chunk_rows)
+        chunk_success = False
+        chunk_error = None
+
+        for attempt in range(1, args.max_retries + 2):
+            try:
+                print(f"Processing chunk {i//chunk_size + 1}/{(len(batch_rows) - 1)//chunk_size + 1} (traits {chunk_rows[0]['trait_index']} to {chunk_rows[-1]['trait_index']}), attempt {attempt}...")
+                if args.provider == "gemini":
+                    raw, text = call_gemini(chunk_prompt, model, api_key, args.temperature, args.max_output_tokens)
+                elif args.provider == "claude":
+                    raw, text = call_claude(chunk_prompt, model, api_key, args.temperature, args.max_output_tokens)
+                else:
+                    raw, text = call_deepseek(chunk_prompt, model, api_key, args.temperature, args.max_output_tokens)
+
+                parsed = extract_json(text)
+                cleaned_chunk_rows = validate_ratings(parsed, chunk_rows)
+
+                combined_rows.extend(cleaned_chunk_rows)
+                raw_responses.append({"chunk_index": i//chunk_size, "api_response": raw, "parsed": parsed})
+                chunk_success = True
+                break
+            except Exception as error:
+                chunk_error = error
+                if attempt <= args.max_retries:
+                    wait_seconds = args.sleep_seconds * attempt
+                    print(f"Chunk attempt {attempt} failed: {error}. Retrying in {wait_seconds:.1f}s...")
+                    time.sleep(wait_seconds)
+
+        if not chunk_success:
+            raise RuntimeError(f"Chunk starting at trait {chunk_rows[0]['trait_index']} failed after retries: {chunk_error}") from chunk_error
+
+        time.sleep(args.sleep_seconds)
+
+    # Write combined results
+    raw_path.parent.mkdir(parents=True, exist_ok=True)
+    raw_path.write_text(
+        json.dumps({"chunks": raw_responses, "parsed": {"ratings": combined_rows}}, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    write_tsv(output_path, combined_rows)
+    print(f"Successfully wrote combined results to {output_path}")
 
 
 def main() -> None:

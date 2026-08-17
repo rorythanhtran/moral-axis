@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+126	depressed :: bright	depressed	bright	0	0	0	0	0	0	0	
+127	self-conscious :: self-assured	self-conscious	self-assured	0	0	0	0	0	0	0	
+128	vulnerable :: armoured	vulnerable	armoured	1	0	0	0	0	0	0	Left pole (vulnerable) relates to care foundation — vulnerability invites protection and nurturance.
+129	warm :: cold	warm	cold	1	0	0	0	0	0	0	Left pole (warm) relates to care — kindness and nurturance.
+130	assertive :: passive	assertive	passive	0	0	0	0	0	0	0	
+131	active :: slothful	active	slothful	0	0	0	0	1	0	0	Right pole (slothful) relates to purity — sloth as a failure of self-discipline and self-improvement.
+132	imaginative :: practical	imaginative	practical	0	0	0	0	0	0	0	
+133	adventurous :: stick-in-the-mud	adventurous	stick-in-the-mud	0	0	0	0	0	0	0	
+134	obedient :: rebellious	obedient	rebellious	0	0	0	1	0	1	0	Left pole (obedient) maps to authority virtue; right pole (rebellious) maps to authority vice / liberty.
+135	competent :: incompetent	competent	incompetent	0	0	0	0	0	0	0	
+136	unambitious :: driven	unambitious	driven	0	0	0	0	0	0	0	
+137	simple :: complicated	simple	complicated	0	0	0	0	0	0	0	
+138	proletariat :: bourgeoisie	proletariat	bourgeoisie	0	1	0	1	0	1	0	Right pole (bourgeoisie) is in MFT dictionary under authority virtue (class hierarchy); the differential also evokes fairness and liberty concerns around class inequality and domination.
+139	alpha :: beta	alpha	beta	0	0	0	1	0	1	0	Alpha/beta framing relates to dominance hierarchy (authority) and dominance/oppression (liberty).
+140	right-brained :: left-brained	right-brained	left-brained	0	0	0	0	0	0	0	
+141	thick-skinned :: sensitive	thick-skinned	sensitive	1	0	0	0	0	0	0	Right pole (sensitive) relates to care — empathy and sensitivity to others' pain.
+142	charismatic :: uninspiring	charismatic	uninspiring	0	0	0	1	0	0	0	Left pole (charismatic) relates to authority — leadership and prestige.
+143	feisty :: gracious	feisty	gracious	0	0	0	0	0	0	0	
+144	eloquent :: unpolished	eloquent	unpolished	0	0	0	0	0	0	0	
+145	high IQ :: low IQ	high IQ	low IQ	0	0	0	0	0	0	0	
+146	insider :: outsider	insider	outsider	0	1	1	0	0	0	0	Left pole (insider) is in MFT dictionary under loyalty virtue; right pole (outsider) relates to exclusion (fairness vice).
+147	morning lark :: night owl	morning lark	night owl	0	0	0	0	0	0	0	
+148	thin :: thick	thin	thick	0	0	0	0	0	0	0	
+149	sheeple :: conspiracist	sheeple	conspiracist	0	0	0	1	0	1	0	Left pole (sheeple) implies blind deference to authority; right pole (conspiracist) implies resistance to perceived oppressive authority, relating to liberty.
+150	neat :: messy	neat	messy	0	0	0	0	1	0	0	Left pole (neat) relates to purity — cleanliness and order as purity virtue; right pole (messy) relates to purity vice.

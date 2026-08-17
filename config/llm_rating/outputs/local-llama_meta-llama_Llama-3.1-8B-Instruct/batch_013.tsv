@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+301	empath :: psychopath	empath	psychopath	0	0	0	0	0	1	0	concerns freedom and autonomy
+302	haunted :: blissful	haunted	blissful	1	0	0	0	0	0	0	concerns emotional pain and distress
+303	entitled :: grateful	entitled	grateful	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+304	ambitious :: realistic	ambitious	realistic	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+305	stuck-in-the-past :: forward-thinking	stuck-in-the-past	forward-thinking	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+306	fire :: water	fire	water	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+307	earth :: air	earth	air	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+308	lover :: fighter	lover	fighter	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+309	overachiever :: underachiever	overachiever	underachiever	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+310	Coke :: Pepsi	Coke	Pepsi	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+311	twitchy :: still	twitchy	still	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+312	freak :: normie	freak	normie	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+313	thinker :: doer	thinker	doer	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+314	hard-work :: natural-talent	hard-work	natural-talent	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+315	stingy :: generous	stingy	generous	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+316	stubborn :: accommodating	stubborn	accommodating	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+317	extravagant :: thrifty	extravagant	thrifty	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+318	demanding :: unchallenging	demanding	unchallenging	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+319	two-faced :: one-faced	two-faced	one-faced	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+320	plastic :: wooden	plastic	wooden	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+321	neutral :: opinionated	neutral	opinionated	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+322	chivalrous :: businesslike	chivalrous	businesslike	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+323	high standards :: desperate	high standards	desperate	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+324	on-time :: tardy	on-time	tardy	0	0	0	0	0	1	0	concerns personal freedom and autonomy
+325	everyman :: chosen one	everyman	chosen one	0	0	0	0	0	1	0	concerns personal freedom and autonomy

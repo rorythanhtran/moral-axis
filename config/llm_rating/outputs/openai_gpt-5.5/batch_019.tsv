@@ -1,0 +1,15 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+451	social chameleon :: strong identity	social chameleon	strong identity	0	0	0	0	0	0	0	
+452	awkward :: comfortable	awkward	comfortable	0	0	0	0	0	0	0	
+453	sincere :: irreverent	sincere	irreverent	0	1	0	1	1	0	1	Sincere relates to honesty; irreverent relates to disrespect for authority or sacredness.
+454	intuitive :: analytical	intuitive	analytical	0	0	0	0	0	0	0	
+455	cringing away :: welcoming experience	cringing away	welcoming experience	0	0	0	0	0	0	0	
+456	stereotypical :: boundary breaking	stereotypical	boundary breaking	0	0	0	1	0	1	0	Boundary breaking suggests nonconformity and freedom from constraints.
+457	energetic :: mellow	energetic	mellow	0	0	0	0	0	0	0	
+458	hopeful :: fearful	hopeful	fearful	0	0	0	0	0	0	0	
+459	likes change :: resists change	likes change	resists change	0	0	0	0	0	0	0	
+460	manic :: mild	manic	mild	0	0	0	0	0	0	0	
+461	old-fashioned :: progressive	old-fashioned	progressive	0	0	0	1	0	0	0	Old-fashioned suggests respect for tradition.
+462	gross :: hygienic	gross	hygienic	0	0	0	0	1	0	0	Gross and hygienic relate to disgust, cleanliness, and contamination.
+463	stable :: unstable	stable	unstable	0	0	0	0	0	0	0	
+464	overthinker :: underthinker	overthinker	underthinker	0	0	0	0	0	0	0	

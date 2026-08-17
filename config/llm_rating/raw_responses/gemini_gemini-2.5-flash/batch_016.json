@@ -1,0 +1,912 @@
+{
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "api_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "{\n  \"ratings\": [\n    {\n      \"trait_index\": 376,\n      \"differential\": \"capitalist :: communist\",\n      \"left_pole\": \"capitalist\",\n      \"right_pole\": \"communist\",\n      \"care\": 1,\n      \"fairness\": 1,\n      \"loyalty\": 1,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 1,\n      \"general\": 1,\n      \"notes\": \"Communist pole relates to collective care, fairness, and loyalty; capitalist to liberty. Both involve authority and general moral systems.\"\n    },\n    {\n      \"trait_index\": 377,\n      \"differential\": \"positive :: negative\",\n      \"left_pole\": \"positive\",\n      \"right_pole\": \"negative\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Positive disposition is generally seen as virtuous, negative as a vice.\"\n    },\n    {\n      \"trait_index\": 378,\n      \"differential\": \"grounded :: fantasy-prone\",\n      \"left_pole\": \"grounded\",\n      \"right_pole\": \"fantasy-prone\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Being grounded can be seen as a virtue of responsibility or practicality.\"\n    },\n    {\n      \"trait_index\": 379,\n      \"differential\": \"thinker :: feeler\",\n      \"left_pole\": \"thinker\",\n      \"right_pole\": \"feeler\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Feeler pole strongly relates to empathy and compassion (care).\"\n    },\n    {\n      \"trait_index\": 380,\n      \"differential\": \"insightful :: generic\",\n      \"left_pole\": \"insightful\",\n      \"right_pole\": \"generic\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Insightful is a positive intellectual virtue, generic implies a lack of such virtue.\"\n    }\n  ]\n}"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 3220,
+          "candidatesTokenCount": 676,
+          "totalTokenCount": 5994,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3220
+            }
+          ],
+          "thoughtsTokenCount": 2098,
+          "serviceTier": "standard"
+        },
+        "modelVersion": "gemini-2.5-flash",
+        "responseId": "DnQ1atmTPJvP-8YP5baWsQ8"
+      },
+      "parsed": {
+        "ratings": [
+          {
+            "trait_index": 376,
+            "differential": "capitalist :: communist",
+            "left_pole": "capitalist",
+            "right_pole": "communist",
+            "care": 1,
+            "fairness": 1,
+            "loyalty": 1,
+            "authority": 1,
+            "purity": 0,
+            "liberty": 1,
+            "general": 1,
+            "notes": "Communist pole relates to collective care, fairness, and loyalty; capitalist to liberty. Both involve authority and general moral systems."
+          },
+          {
+            "trait_index": 377,
+            "differential": "positive :: negative",
+            "left_pole": "positive",
+            "right_pole": "negative",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Positive disposition is generally seen as virtuous, negative as a vice."
+          },
+          {
+            "trait_index": 378,
+            "differential": "grounded :: fantasy-prone",
+            "left_pole": "grounded",
+            "right_pole": "fantasy-prone",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Being grounded can be seen as a virtue of responsibility or practicality."
+          },
+          {
+            "trait_index": 379,
+            "differential": "thinker :: feeler",
+            "left_pole": "thinker",
+            "right_pole": "feeler",
+            "care": 1,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": "Feeler pole strongly relates to empathy and compassion (care)."
+          },
+          {
+            "trait_index": 380,
+            "differential": "insightful :: generic",
+            "left_pole": "insightful",
+            "right_pole": "generic",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Insightful is a positive intellectual virtue, generic implies a lack of such virtue."
+          }
+        ]
+      }
+    },
+    {
+      "chunk_index": 1,
+      "api_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "{\"ratings\":[{\"trait_index\":381,\"differential\":\"questioning :: believing\",\"left_pole\":\"questioning\",\"right_pole\":\"believing\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"'Questioning' relates to defying authority (08); 'believing' relates to deference to authority (07).\"},{\"trait_index\":382,\"differential\":\"proud :: apologetic\",\"left_pole\":\"proud\",\"right_pole\":\"apologetic\",\"care\":0,\"fairness\":0,\"loyalty\":1,\"authority\":1,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"'Proud' can relate to group loyalty (05); 'apologetic' can relate to deference to authority (07).\"},{\"trait_index\":383,\"differential\":\"bubbly :: flat\",\"left_pole\":\"bubbly\",\"right_pole\":\"flat\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":384,\"differential\":\"tired :: wired\",\"left_pole\":\"tired\",\"right_pole\":\"wired\",\"care\":0,\"fairness\":0,\"loyalty\":0,\"authority\":0,\"purity\":0,\"liberty\":0,\"general\":0,\"notes\":\"\"},{\"trait_index\":385,\"differential\":\"woke :: problematic\",\"left_pole\":\"woke\",\"right_pole\":\"problematic\",\"care\":1,\"fairness\":1,\"loyalty\":1,\"authority\":1,\"purity\":1,\"liberty\":1,\"general\":1,\"notes\":\"'Woke' relates to preventing harm (01), justice (03), group solidarity (05), challenging authority (08), moral purity (09), and liberty. 'Problematic' relates to causing harm (02), unfairness (04), disloyalty (06), upholding unjust authority (07), impurity (10), and restricting liberty. Both have general moral implications (11).\"}]}"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 3218,
+          "candidatesTokenCount": 463,
+          "totalTokenCount": 5311,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3218
+            }
+          ],
+          "thoughtsTokenCount": 1630,
+          "serviceTier": "standard"
+        },
+        "modelVersion": "gemini-2.5-flash",
+        "responseId": "IHQ1aqLjHbW8jrEPz_CpkQ0"
+      },
+      "parsed": {
+        "ratings": [
+          {
+            "trait_index": 381,
+            "differential": "questioning :: believing",
+            "left_pole": "questioning",
+            "right_pole": "believing",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 1,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": "'Questioning' relates to defying authority (08); 'believing' relates to deference to authority (07)."
+          },
+          {
+            "trait_index": 382,
+            "differential": "proud :: apologetic",
+            "left_pole": "proud",
+            "right_pole": "apologetic",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 1,
+            "authority": 1,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": "'Proud' can relate to group loyalty (05); 'apologetic' can relate to deference to authority (07)."
+          },
+          {
+            "trait_index": 383,
+            "differential": "bubbly :: flat",
+            "left_pole": "bubbly",
+            "right_pole": "flat",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": ""
+          },
+          {
+            "trait_index": 384,
+            "differential": "tired :: wired",
+            "left_pole": "tired",
+            "right_pole": "wired",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": ""
+          },
+          {
+            "trait_index": 385,
+            "differential": "woke :: problematic",
+            "left_pole": "woke",
+            "right_pole": "problematic",
+            "care": 1,
+            "fairness": 1,
+            "loyalty": 1,
+            "authority": 1,
+            "purity": 1,
+            "liberty": 1,
+            "general": 1,
+            "notes": "'Woke' relates to preventing harm (01), justice (03), group solidarity (05), challenging authority (08), moral purity (09), and liberty. 'Problematic' relates to causing harm (02), unfairness (04), disloyalty (06), upholding unjust authority (07), impurity (10), and restricting liberty. Both have general moral implications (11)."
+          }
+        ]
+      }
+    },
+    {
+      "chunk_index": 2,
+      "api_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "{\n  \"ratings\": [\n    {\n      \"trait_index\": 386,\n      \"differential\": \"grumpy :: cheery\",\n      \"left_pole\": \"grumpy\",\n      \"right_pole\": \"cheery\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"\"\n    },\n    {\n      \"trait_index\": 387,\n      \"differential\": \"hippie :: militaristic\",\n      \"left_pole\": \"hippie\",\n      \"right_pole\": \"militaristic\",\n      \"care\": 1,\n      \"fairness\": 0,\n      \"loyalty\": 1,\n      \"authority\": 1,\n      \"purity\": 0,\n      \"liberty\": 1,\n      \"general\": 1,\n      \"notes\": \"Hippie relates to peace/liberty/anti-authority. Militaristic relates to loyalty/authority/potential harm.\"\n    },\n    {\n      \"trait_index\": 388,\n      \"differential\": \"gluttonous :: moderate\",\n      \"left_pole\": \"gluttonous\",\n      \"right_pole\": \"moderate\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Gluttonous is a vice, opposite of self-discipline (PurityVice). Moderate is a virtue, self-discipline (PurityVirtue).\"\n    },\n    {\n      \"trait_index\": 389,\n      \"differential\": \"flawed :: perfect\",\n      \"left_pole\": \"flawed\",\n      \"right_pole\": \"perfect\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 1,\n      \"liberty\": 0,\n      \"general\": 1,\n      \"notes\": \"Perfect relates to self-improvement/elevated living (PurityVirtue). Both poles have general moral connotations.\"\n    },\n    {\n      \"trait_index\": 390,\n      \"differential\": \"sweet :: savory\",\n      \"left_pole\": \"sweet\",\n      \"right_pole\": \"savory\",\n      \"care\": 0,\n      \"fairness\": 0,\n      \"loyalty\": 0,\n      \"authority\": 0,\n      \"purity\": 0,\n      \"liberty\": 0,\n      \"general\": 0,\n      \"notes\": \"Relates to taste, not morality.\"\n    }\n  ]\n}"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 3220,
+          "candidatesTokenCount": 683,
+          "totalTokenCount": 5975,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3220
+            }
+          ],
+          "thoughtsTokenCount": 2072,
+          "serviceTier": "standard"
+        },
+        "modelVersion": "gemini-2.5-flash",
+        "responseId": "LXQ1aoGuDuam1MkPwYHN2QE"
+      },
+      "parsed": {
+        "ratings": [
+          {
+            "trait_index": 386,
+            "differential": "grumpy :: cheery",
+            "left_pole": "grumpy",
+            "right_pole": "cheery",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": ""
+          },
+          {
+            "trait_index": 387,
+            "differential": "hippie :: militaristic",
+            "left_pole": "hippie",
+            "right_pole": "militaristic",
+            "care": 1,
+            "fairness": 0,
+            "loyalty": 1,
+            "authority": 1,
+            "purity": 0,
+            "liberty": 1,
+            "general": 1,
+            "notes": "Hippie relates to peace/liberty/anti-authority. Militaristic relates to loyalty/authority/potential harm."
+          },
+          {
+            "trait_index": 388,
+            "differential": "gluttonous :: moderate",
+            "left_pole": "gluttonous",
+            "right_pole": "moderate",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 1,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Gluttonous is a vice, opposite of self-discipline (PurityVice). Moderate is a virtue, self-discipline (PurityVirtue)."
+          },
+          {
+            "trait_index": 389,
+            "differential": "flawed :: perfect",
+            "left_pole": "flawed",
+            "right_pole": "perfect",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 1,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Perfect relates to self-improvement/elevated living (PurityVirtue). Both poles have general moral connotations."
+          },
+          {
+            "trait_index": 390,
+            "differential": "sweet :: savory",
+            "left_pole": "sweet",
+            "right_pole": "savory",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": "Relates to taste, not morality."
+          }
+        ]
+      }
+    },
+    {
+      "chunk_index": 3,
+      "api_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "{\"ratings\": [{\"trait_index\": 391, \"differential\": \"annoying :: unannoying\", \"left_pole\": \"annoying\", \"right_pole\": \"unannoying\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 392, \"differential\": \"good-manners :: bad-manners\", \"left_pole\": \"good-manners\", \"right_pole\": \"bad-manners\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"Good manners relate to respect and tradition (Authority). Manners are also a component of general proper behavior (General).\"}, {\"trait_index\": 393, \"differential\": \"evolutionist :: creationist\", \"left_pole\": \"evolutionist\", \"right_pole\": \"creationist\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"Creationism often involves deference to religious authority and tradition (Authority) and is tied to spiritual or sacred beliefs (Purity).\"}, {\"trait_index\": 394, \"differential\": \"fulfilled :: unfulfilled\", \"left_pole\": \"fulfilled\", \"right_pole\": \"unfulfilled\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}, {\"trait_index\": 395, \"differential\": \"friendly :: unfriendly\", \"left_pole\": \"friendly\", \"right_pole\": \"unfriendly\", \"care\": 1, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 1, \"notes\": \"Friendliness relates to kindness and avoiding harm (Care). It is also a generally positive character trait (General).\"}]}"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 3230,
+          "candidatesTokenCount": 522,
+          "totalTokenCount": 4944,
+          "cachedContentTokenCount": 2372,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3230
+            }
+          ],
+          "cacheTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 2372
+            }
+          ],
+          "thoughtsTokenCount": 1192,
+          "serviceTier": "standard"
+        },
+        "modelVersion": "gemini-2.5-flash",
+        "responseId": "PHQ1avjHKKqs_uMP1JaVmAk"
+      },
+      "parsed": {
+        "ratings": [
+          {
+            "trait_index": 391,
+            "differential": "annoying :: unannoying",
+            "left_pole": "annoying",
+            "right_pole": "unannoying",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": ""
+          },
+          {
+            "trait_index": 392,
+            "differential": "good-manners :: bad-manners",
+            "left_pole": "good-manners",
+            "right_pole": "bad-manners",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 1,
+            "purity": 0,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Good manners relate to respect and tradition (Authority). Manners are also a component of general proper behavior (General)."
+          },
+          {
+            "trait_index": 393,
+            "differential": "evolutionist :: creationist",
+            "left_pole": "evolutionist",
+            "right_pole": "creationist",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 1,
+            "purity": 1,
+            "liberty": 0,
+            "general": 0,
+            "notes": "Creationism often involves deference to religious authority and tradition (Authority) and is tied to spiritual or sacred beliefs (Purity)."
+          },
+          {
+            "trait_index": 394,
+            "differential": "fulfilled :: unfulfilled",
+            "left_pole": "fulfilled",
+            "right_pole": "unfulfilled",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": ""
+          },
+          {
+            "trait_index": 395,
+            "differential": "friendly :: unfriendly",
+            "left_pole": "friendly",
+            "right_pole": "unfriendly",
+            "care": 1,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 1,
+            "notes": "Friendliness relates to kindness and avoiding harm (Care). It is also a generally positive character trait (General)."
+          }
+        ]
+      }
+    },
+    {
+      "chunk_index": 4,
+      "api_response": {
+        "candidates": [
+          {
+            "content": {
+              "parts": [
+                {
+                  "text": "{\"ratings\": [{\"trait_index\": 396, \"differential\": \"innovative :: routine\", \"left_pole\": \"innovative\", \"right_pole\": \"routine\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"routine relates to tradition/established order.\"}, {\"trait_index\": 397, \"differential\": \"delicate :: coarse\", \"left_pole\": \"delicate\", \"right_pole\": \"coarse\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 1, \"liberty\": 0, \"general\": 1, \"notes\": \"delicate relates to refinement/purity; coarse relates to lack of refinement/purity and general indecency.\"}, {\"trait_index\": 398, \"differential\": \"resentful :: euphoric\", \"left_pole\": \"resentful\", \"right_pole\": \"euphoric\", \"care\": 0, \"fairness\": 1, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 1, \"general\": 0, \"notes\": \"resentful relates to feeling unfairly treated and resentment towards restricted liberty.\"}, {\"trait_index\": 399, \"differential\": \"uptight :: easy\", \"left_pole\": \"uptight\", \"right_pole\": \"easy\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 1, \"purity\": 1, \"liberty\": 0, \"general\": 0, \"notes\": \"uptight can imply rigid adherence to convention/rules and self-discipline; easy can imply laxity.\"}, {\"trait_index\": 400, \"differential\": \"blue :: red\", \"left_pole\": \"blue\", \"right_pole\": \"red\", \"care\": 0, \"fairness\": 0, \"loyalty\": 0, \"authority\": 0, \"purity\": 0, \"liberty\": 0, \"general\": 0, \"notes\": \"\"}]}"
+                }
+              ],
+              "role": "model"
+            },
+            "finishReason": "STOP",
+            "index": 0
+          }
+        ],
+        "usageMetadata": {
+          "promptTokenCount": 3217,
+          "candidatesTokenCount": 502,
+          "totalTokenCount": 6138,
+          "cachedContentTokenCount": 2369,
+          "promptTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 3217
+            }
+          ],
+          "cacheTokensDetails": [
+            {
+              "modality": "TEXT",
+              "tokenCount": 2369
+            }
+          ],
+          "thoughtsTokenCount": 2419,
+          "serviceTier": "standard"
+        },
+        "modelVersion": "gemini-2.5-flash",
+        "responseId": "R3Q1at6KMPqz1MkPzOb0uQE"
+      },
+      "parsed": {
+        "ratings": [
+          {
+            "trait_index": 396,
+            "differential": "innovative :: routine",
+            "left_pole": "innovative",
+            "right_pole": "routine",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 1,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": "routine relates to tradition/established order."
+          },
+          {
+            "trait_index": 397,
+            "differential": "delicate :: coarse",
+            "left_pole": "delicate",
+            "right_pole": "coarse",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 1,
+            "liberty": 0,
+            "general": 1,
+            "notes": "delicate relates to refinement/purity; coarse relates to lack of refinement/purity and general indecency."
+          },
+          {
+            "trait_index": 398,
+            "differential": "resentful :: euphoric",
+            "left_pole": "resentful",
+            "right_pole": "euphoric",
+            "care": 0,
+            "fairness": 1,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 1,
+            "general": 0,
+            "notes": "resentful relates to feeling unfairly treated and resentment towards restricted liberty."
+          },
+          {
+            "trait_index": 399,
+            "differential": "uptight :: easy",
+            "left_pole": "uptight",
+            "right_pole": "easy",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 1,
+            "purity": 1,
+            "liberty": 0,
+            "general": 0,
+            "notes": "uptight can imply rigid adherence to convention/rules and self-discipline; easy can imply laxity."
+          },
+          {
+            "trait_index": 400,
+            "differential": "blue :: red",
+            "left_pole": "blue",
+            "right_pole": "red",
+            "care": 0,
+            "fairness": 0,
+            "loyalty": 0,
+            "authority": 0,
+            "purity": 0,
+            "liberty": 0,
+            "general": 0,
+            "notes": ""
+          }
+        ]
+      }
+    }
+  ],
+  "parsed": {
+    "ratings": [
+      {
+        "trait_index": "376",
+        "differential": "capitalist :: communist",
+        "left_pole": "capitalist",
+        "right_pole": "communist",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Communist pole relates to collective care, fairness, and loyalty; capitalist to liberty. Both involve authority and general moral systems."
+      },
+      {
+        "trait_index": "377",
+        "differential": "positive :: negative",
+        "left_pole": "positive",
+        "right_pole": "negative",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Positive disposition is generally seen as virtuous, negative as a vice."
+      },
+      {
+        "trait_index": "378",
+        "differential": "grounded :: fantasy-prone",
+        "left_pole": "grounded",
+        "right_pole": "fantasy-prone",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Being grounded can be seen as a virtue of responsibility or practicality."
+      },
+      {
+        "trait_index": "379",
+        "differential": "thinker :: feeler",
+        "left_pole": "thinker",
+        "right_pole": "feeler",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Feeler pole strongly relates to empathy and compassion (care)."
+      },
+      {
+        "trait_index": "380",
+        "differential": "insightful :: generic",
+        "left_pole": "insightful",
+        "right_pole": "generic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Insightful is a positive intellectual virtue, generic implies a lack of such virtue."
+      },
+      {
+        "trait_index": "381",
+        "differential": "questioning :: believing",
+        "left_pole": "questioning",
+        "right_pole": "believing",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "'Questioning' relates to defying authority (08); 'believing' relates to deference to authority (07)."
+      },
+      {
+        "trait_index": "382",
+        "differential": "proud :: apologetic",
+        "left_pole": "proud",
+        "right_pole": "apologetic",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "'Proud' can relate to group loyalty (05); 'apologetic' can relate to deference to authority (07)."
+      },
+      {
+        "trait_index": "383",
+        "differential": "bubbly :: flat",
+        "left_pole": "bubbly",
+        "right_pole": "flat",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": "384",
+        "differential": "tired :: wired",
+        "left_pole": "tired",
+        "right_pole": "wired",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": "385",
+        "differential": "woke :: problematic",
+        "left_pole": "woke",
+        "right_pole": "problematic",
+        "care": 1,
+        "fairness": 1,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 1,
+        "general": 1,
+        "notes": "'Woke' relates to preventing harm (01), justice (03), group solidarity (05), challenging authority (08), moral purity (09), and liberty. 'Problematic' relates to causing harm (02), unfairness (04), disloyalty (06), upholding unjust authority (07), impurity (10), and restricting liberty. Both have general moral implications (11)."
+      },
+      {
+        "trait_index": "386",
+        "differential": "grumpy :: cheery",
+        "left_pole": "grumpy",
+        "right_pole": "cheery",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": "387",
+        "differential": "hippie :: militaristic",
+        "left_pole": "hippie",
+        "right_pole": "militaristic",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 1,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 1,
+        "general": 1,
+        "notes": "Hippie relates to peace/liberty/anti-authority. Militaristic relates to loyalty/authority/potential harm."
+      },
+      {
+        "trait_index": "388",
+        "differential": "gluttonous :: moderate",
+        "left_pole": "gluttonous",
+        "right_pole": "moderate",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Gluttonous is a vice, opposite of self-discipline (PurityVice). Moderate is a virtue, self-discipline (PurityVirtue)."
+      },
+      {
+        "trait_index": "389",
+        "differential": "flawed :: perfect",
+        "left_pole": "flawed",
+        "right_pole": "perfect",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Perfect relates to self-improvement/elevated living (PurityVirtue). Both poles have general moral connotations."
+      },
+      {
+        "trait_index": "390",
+        "differential": "sweet :: savory",
+        "left_pole": "sweet",
+        "right_pole": "savory",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Relates to taste, not morality."
+      },
+      {
+        "trait_index": "391",
+        "differential": "annoying :: unannoying",
+        "left_pole": "annoying",
+        "right_pole": "unannoying",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": "392",
+        "differential": "good-manners :: bad-manners",
+        "left_pole": "good-manners",
+        "right_pole": "bad-manners",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Good manners relate to respect and tradition (Authority). Manners are also a component of general proper behavior (General)."
+      },
+      {
+        "trait_index": "393",
+        "differential": "evolutionist :: creationist",
+        "left_pole": "evolutionist",
+        "right_pole": "creationist",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "Creationism often involves deference to religious authority and tradition (Authority) and is tied to spiritual or sacred beliefs (Purity)."
+      },
+      {
+        "trait_index": "394",
+        "differential": "fulfilled :: unfulfilled",
+        "left_pole": "fulfilled",
+        "right_pole": "unfulfilled",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      },
+      {
+        "trait_index": "395",
+        "differential": "friendly :: unfriendly",
+        "left_pole": "friendly",
+        "right_pole": "unfriendly",
+        "care": 1,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 1,
+        "notes": "Friendliness relates to kindness and avoiding harm (Care). It is also a generally positive character trait (General)."
+      },
+      {
+        "trait_index": "396",
+        "differential": "innovative :: routine",
+        "left_pole": "innovative",
+        "right_pole": "routine",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": "routine relates to tradition/established order."
+      },
+      {
+        "trait_index": "397",
+        "differential": "delicate :: coarse",
+        "left_pole": "delicate",
+        "right_pole": "coarse",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 1,
+        "liberty": 0,
+        "general": 1,
+        "notes": "delicate relates to refinement/purity; coarse relates to lack of refinement/purity and general indecency."
+      },
+      {
+        "trait_index": "398",
+        "differential": "resentful :: euphoric",
+        "left_pole": "resentful",
+        "right_pole": "euphoric",
+        "care": 0,
+        "fairness": 1,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 1,
+        "general": 0,
+        "notes": "resentful relates to feeling unfairly treated and resentment towards restricted liberty."
+      },
+      {
+        "trait_index": "399",
+        "differential": "uptight :: easy",
+        "left_pole": "uptight",
+        "right_pole": "easy",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 1,
+        "purity": 1,
+        "liberty": 0,
+        "general": 0,
+        "notes": "uptight can imply rigid adherence to convention/rules and self-discipline; easy can imply laxity."
+      },
+      {
+        "trait_index": "400",
+        "differential": "blue :: red",
+        "left_pole": "blue",
+        "right_pole": "red",
+        "care": 0,
+        "fairness": 0,
+        "loyalty": 0,
+        "authority": 0,
+        "purity": 0,
+        "liberty": 0,
+        "general": 0,
+        "notes": ""
+      }
+    ]
+  }
+}

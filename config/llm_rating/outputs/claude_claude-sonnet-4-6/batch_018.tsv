@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+426	noble :: jovial	noble	jovial	0	0	0	0	0	0	1	noble has broad moral virtue connotation per MFT dictionary
+427	blessed :: cursed	blessed	cursed	0	0	0	0	1	0	1	blessed/cursed carry sacred/religious connotations (purity); also broad moral valence
+428	forward :: repressed	forward	repressed	0	0	0	0	1	1	0	repressed pole relates to purity (self-restraint/abstinence) and liberty (restriction of expression/freedom)
+429	entrepreneur :: employee	entrepreneur	employee	0	0	0	1	0	1	0	employee relates to authority (followership, compliance); entrepreneur relates to liberty (independence, self-direction)
+430	quivering :: unstirring	quivering	unstirring	0	0	0	0	0	0	0	physical/emotional descriptors with no clear moral foundation relevance
+431	mechanical :: natural	mechanical	natural	0	0	0	0	1	0	0	natural pole relates to purity foundation (naturalness as a virtue)
+432	minds-own-business :: snoops	minds-own-business	snoops	0	1	0	0	0	1	0	snooping violates others' privacy (fairness/rights); also infringes on liberty
+433	prying :: unmeddlesome	prying	unmeddlesome	0	1	0	0	0	1	0	prying violates privacy/rights (fairness) and personal liberty
+434	leader :: follower	leader	follower	0	0	0	1	0	0	0	directly maps to authority foundation (leadership and followership)
+435	handy :: can't-fix-anything	handy	can't-fix-anything	0	0	0	0	0	0	0	practical skill differential with no clear moral foundation relevance
+436	green thumb :: plant-neglecter	green thumb	plant-neglecter	1	0	0	0	0	0	0	plant-neglecter pole weakly relates to care (neglect/nurturing of living things)
+437	activist :: nonpartisan	activist	nonpartisan	0	1	1	0	0	1	0	activism often involves fairness/rights advocacy, group solidarity (loyalty), and liberty causes
+438	photographer :: physicist	photographer	physicist	0	0	0	0	0	0	0	occupational/hobby differential with no clear moral foundation relevance
+439	lumberjack :: mad-scientist	lumberjack	mad-scientist	0	0	0	0	0	0	0	occupational archetypes with no clear moral foundation relevance
+440	pointless :: meaningful	pointless	meaningful	0	0	0	0	0	0	1	meaningful/pointless carries broad moral-existential valence (general virtue/worth)
+441	focused :: absentminded	focused	absentminded	0	0	0	0	0	0	0	cognitive style differential with no clear moral foundation relevance
+442	bear :: wolf	bear	wolf	0	0	0	0	0	0	0	animal archetype differential with no clear moral foundation relevance
+443	lion :: zebra	lion	zebra	0	0	0	0	0	0	0	animal archetype differential with no clear moral foundation relevance
+444	kangaroo :: dolphin	kangaroo	dolphin	0	0	0	0	0	0	0	animal archetype differential with no clear moral foundation relevance
+445	all-seeing :: blind	all-seeing	blind	0	0	0	1	0	0	0	all-seeing weakly relates to authority (omniscient oversight/surveillance power)
+446	engineerial :: lawyerly	engineerial	lawyerly	0	1	0	1	0	0	0	lawyerly relates to fairness (justice/rights) and authority (law)
+447	love shy :: cassanova	love shy	cassanova	0	0	0	0	1	0	0	cassanova pole relates to purity (promiscuity/sexual license)
+448	disturbing :: enchanting	disturbing	enchanting	0	0	0	0	1	0	0	disturbing pole weakly relates to purity (disgust/contamination response)
+449	maverick :: conformist	maverick	conformist	0	0	0	1	0	1	0	conformist relates to authority (compliance with norms/tradition); maverick relates to liberty (independence from constraints)
+450	social climber :: nonconformist	social climber	nonconformist	0	0	0	1	0	1	0	social climber relates to authority (hierarchy/status-seeking); nonconformist relates to liberty (rejecting imposed norms)

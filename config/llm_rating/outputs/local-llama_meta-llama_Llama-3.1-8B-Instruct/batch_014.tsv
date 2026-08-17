@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+326	jealous :: opinionated	jealous	opinionated	0	0	0	0	0	0	1	0 contradicts care and loyalty
+327	protagonist :: antagonist	protagonist	antagonist	0	0	0	0	0	0	1	0 contrasts protagonist and antagonist
+328	devoted :: unfaithful	devoted	unfaithful	0	0	0	0	0	0	1	0 contrasts devoted and unfaithful
+329	fearmongering :: reassuring	fearmongering	reassuring	0	0	0	0	0	0	1	0 contrasts fearmongering and reassuring
+330	common sense :: analysis	common sense	analysis	0	0	0	0	0	0	1	0 contrasts common sense and analysis
+331	unemotional :: emotional	unemotional	emotional	0	0	0	0	0	0	1	0 contrasts unemotional and emotional
+332	rap :: rock	rap	rock	0	0	0	0	0	0	1	0 contrasts rap and rock
+333	genocidal :: not genocidal	genocidal	not genocidal	0	0	0	0	0	0	1	0 contrasts genocidal and not genocidal
+334	cat person :: dog person	cat person	dog person	0	0	0	0	0	0	1	0 contrasts cat person and dog person
+335	indie :: pop	indie	pop	0	0	0	0	0	0	1	0 contrasts indie and pop
+336	cultured :: rustic	cultured	rustic	0	0	0	0	0	0	1	0 contrasts cultured and rustic
+337	tautology :: oxymoron	tautology	oxymoron	0	0	0	0	0	0	1	0 contrasts tautology and oxymoron
+338	bad boy :: white knight	bad boy	white knight	0	0	0	0	0	0	1	0 contrasts bad boy and white knight
+339	princess :: queen	princess	queen	0	0	0	0	0	0	1	0 contrasts princess and queen
+340	hypochondriac :: stoic	hypochondriac	stoic	0	0	0	0	0	0	1	0 contrasts hypochondriac and stoic
+341	yes-man :: contrarian	yes-man	contrarian	0	0	0	0	0	0	1	0 contrasts yes-man and contrarian
+342	giving :: receiving	giving	receiving	0	0	0	0	0	0	1	0 contrasts giving and receiving
+343	chic :: cheesy	chic	cheesy	0	0	0	0	0	0	1	0 contrasts chic and cheesy
+344	celebrity :: boy/girl-next-door	celebrity	boy/girl-next-door	0	0	0	0	0	0	1	0 contrasts celebrity and boy/girl-next-door
+345	goth :: flower child	goth	flower child	0	0	0	0	0	0	1	0 contrasts goth and flower child
+346	summer :: winter	summer	winter	0	0	0	0	0	0	1	0 contrasts summer and winter
+347	frank :: sugarcoated	frank	sugarcoated	0	0	0	0	0	0	1	0 contrasts frank and sugarcoated
+348	naive :: paranoid	naive	paranoid	0	0	0	0	0	0	1	0 contrasts naive and paranoid
+349	gullible :: cynical	gullible	cynical	0	0	0	0	0	0	1	0 contrasts gullible and cynical
+350	motivated :: unmotivated	motivated	unmotivated	0	0	0	0	0	0	1	0 contrasts motivated and unmotivated

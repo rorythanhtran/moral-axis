@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+426	noble :: jovial	noble	jovial	0	0	0	0	0	0	1	Noble is related to general moral goodness.
+427	blessed :: cursed	blessed	cursed	0	0	0	0	0	0	1	Blessed and cursed relate to general moral goodness and badness.
+428	forward :: repressed	forward	repressed	0	0	0	0	0	1	0	Forward relates to liberty.
+429	entrepreneur :: employee	entrepreneur	employee	0	0	0	0	0	1	0	Entrepreneur relates to liberty.
+430	quivering :: unstirring	quivering	unstirring	0	0	0	0	0	0	0	
+431	mechanical :: natural	mechanical	natural	0	0	0	0	1	0	0	Natural relates to purity.
+432	minds-own-business :: snoops	minds-own-business	snoops	0	0	0	0	0	1	0	Minds-own-business relates to liberty.
+433	prying :: unmeddlesome	prying	unmeddlesome	0	0	0	0	0	1	0	Unmeddlesome relates to liberty.
+434	leader :: follower	leader	follower	0	0	0	1	0	0	0	Leader relates to authority.
+435	handy :: can't-fix-anything	handy	can't-fix-anything	0	0	0	0	0	0	0	
+436	green thumb :: plant-neglecter	green thumb	plant-neglecter	1	0	0	0	0	0	0	Green thumb relates to care.
+437	activist :: nonpartisan	activist	nonpartisan	0	0	0	0	0	1	0	Activist relates to liberty.
+438	photographer :: physicist	photographer	physicist	0	0	0	0	0	0	0	
+439	lumberjack :: mad-scientist	lumberjack	mad-scientist	0	0	0	0	0	0	0	
+440	pointless :: meaningful	pointless	meaningful	0	0	0	0	0	0	1	Meaningful relates to general moral goodness.
+441	focused :: absentminded	focused	absentminded	0	0	0	0	0	0	0	
+442	bear :: wolf	bear	wolf	0	0	0	0	0	0	0	
+443	lion :: zebra	lion	zebra	0	0	0	0	0	0	0	
+444	kangaroo :: dolphin	kangaroo	dolphin	0	0	0	0	0	0	0	
+445	all-seeing :: blind	all-seeing	blind	0	0	0	0	0	0	0	
+446	engineerial :: lawyerly	engineerial	lawyerly	0	0	0	0	0	0	0	
+447	love shy :: cassanova	love shy	cassanova	0	0	0	0	0	0	0	
+448	disturbing :: enchanting	disturbing	enchanting	0	0	0	0	0	0	0	
+449	maverick :: conformist	maverick	conformist	0	0	0	0	0	1	0	Maverick relates to liberty.
+450	social climber :: nonconformist	social climber	nonconformist	0	0	0	0	0	1	0	Nonconformist relates to liberty.

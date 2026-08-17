@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+126	depressed :: bright	depressed	bright	0	0	0	0	0	1	0	concerns freedom and autonomy
+127	self-conscious :: self-assured	self-conscious	self-assured	0	0	0	0	0	1	0	concerns self-image and self-esteem
+128	vulnerable :: armoured	vulnerable	armoured	1	0	0	0	0	0	0	concerns emotional vulnerability
+129	warm :: cold	warm	cold	1	0	0	0	0	0	0	concerns warmth and emotional connection
+130	assertive :: passive	assertive	passive	0	0	0	0	0	0	1	concerns assertiveness and self-expression
+131	active :: slothful	active	slothful	0	0	0	0	0	0	1	concerns energy and motivation
+132	imaginative :: practical	imaginative	practical	0	0	0	0	0	0	1	concerns creativity and imagination
+133	adventurous :: stick-in-the-mud	adventurous	stick-in-the-mud	0	0	0	0	0	0	1	concerns risk-taking and adventure
+134	obedient :: rebellious	obedient	rebellious	0	0	1	1	0	0	0	concerns obedience and authority
+135	competent :: incompetent	competent	incompetent	0	0	0	0	0	0	1	concerns competence and self-efficacy
+136	unambitious :: driven	unambitious	driven	0	0	0	0	0	0	1	concerns ambition and drive
+137	simple :: complicated	simple	complicated	0	0	0	0	0	0	1	concerns simplicity and complexity
+138	proletariat :: bourgeoisie	proletariat	bourgeoisie	0	0	0	0	0	0	1	concerns social class and status
+139	alpha :: beta	alpha	beta	0	0	0	0	0	0	1	concerns social status and hierarchy
+140	right-brained :: left-brained	right-brained	left-brained	0	0	0	0	0	0	1	concerns cognitive style and ability
+141	thick-skinned :: sensitive	thick-skinned	sensitive	0	0	0	0	0	0	1	concerns emotional resilience and sensitivity
+142	charismatic :: uninspiring	charismatic	uninspiring	0	0	0	0	0	0	1	concerns charisma and leadership
+143	feisty :: gracious	feisty	gracious	0	0	0	0	0	0	1	concerns confidence and graciousness
+144	eloquent :: unpolished	eloquent	unpolished	0	0	0	0	0	0	1	concerns eloquence and communication
+145	high IQ :: low IQ	high IQ	low IQ	0	0	0	0	0	0	1	concerns intelligence and cognitive ability
+146	insider :: outsider	insider	outsider	0	0	1	0	0	0	0	concerns group membership and identity
+147	morning lark :: night owl	morning lark	night owl	0	0	0	0	0	0	1	concerns circadian rhythm and energy
+148	thin :: thick	thin	thick	0	0	0	0	0	0	1	concerns physical appearance and health
+149	sheeple :: conspiracist	sheeple	conspiracist	0	0	0	0	0	1	0	concerns critical thinking and skepticism
+150	neat :: messy	neat	messy	0	0	0	0	1	0	0	concerns order and organization

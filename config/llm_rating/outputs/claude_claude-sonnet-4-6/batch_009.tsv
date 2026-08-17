@@ -1,0 +1,26 @@
+trait_index	differential	left_pole	right_pole	care	fairness	loyalty	authority	purity	liberty	general	notes
+201	anarchist :: statist	anarchist	statist	0	0	0	1	0	1	0	anarchist pole relates to liberty/anti-authority; statist pole relates to authority and deference to state structures.
+202	cool :: dorky	cool	dorky	0	0	0	0	0	0	0	Social status/style distinction with no clear moral foundation relevance.
+203	important :: irrelevant	important	irrelevant	0	0	0	0	0	0	0	Describes significance or salience, not a moral dimension.
+204	noob :: pro	noob	pro	0	0	0	0	0	0	0	Describes skill level, not a moral dimension.
+205	deranged :: reasonable	deranged	reasonable	0	0	0	0	0	0	0	Describes mental state or rationality, not a moral foundation dimension.
+206	rural :: urban	rural	urban	0	0	0	0	0	0	0	Geographic/lifestyle distinction with no clear moral foundation relevance.
+207	introspective :: not introspective	introspective	not introspective	0	0	0	0	0	0	0	Cognitive/personality style with no clear moral foundation relevance.
+208	city-slicker :: country-bumpkin	city-slicker	country-bumpkin	0	0	0	0	0	0	0	Cultural/geographic stereotype with no clear moral foundation relevance.
+209	western :: eastern	western	eastern	0	0	0	0	0	0	0	Cultural/geographic orientation with no clear moral foundation relevance.
+210	mad :: glad	mad	glad	0	0	0	0	0	0	0	Emotional state distinction with no clear moral foundation relevance.
+211	social :: reclusive	social	reclusive	0	0	0	0	0	0	0	Personality/behavioral style with no clear moral foundation relevance.
+212	studious :: goof-off	studious	goof-off	0	0	0	0	0	0	0	Work ethic/diligence distinction; not clearly tied to a moral foundation.
+213	slugabed :: go-getter	slugabed	go-getter	0	0	0	0	0	0	0	Describes industriousness/laziness; not clearly tied to a moral foundation.
+214	penny-pincher :: overspender	penny-pincher	overspender	0	0	0	0	0	0	0	Financial behavior style with no clear moral foundation relevance.
+215	liberal :: conservative	liberal	conservative	0	0	0	1	0	1	0	Conservative pole relates to authority/tradition; liberal pole relates to liberty. Both poles broadly invoke MFT-relevant orientations.
+216	unassuming :: pretentious	unassuming	pretentious	0	0	0	0	0	0	0	Social demeanor distinction; not clearly tied to a moral foundation.
+217	persistent :: quitter	persistent	quitter	0	0	0	0	0	0	0	Describes determination vs. giving up; not clearly tied to a moral foundation.
+218	hedonist :: monastic	hedonist	monastic	0	0	0	0	1	0	0	Monastic pole relates to purity via self-discipline, abstinence, and elevated/spiritual living; hedonist pole contrasts with purity norms.
+219	patriotic :: unpatriotic	patriotic	unpatriotic	0	0	1	0	0	0	0	Patriotism is a core loyalty foundation virtue; unpatriotic is the corresponding vice.
+220	tactful :: indiscreet	tactful	indiscreet	1	0	0	0	0	0	0	Tactfulness relates to care/consideration for others' feelings; indiscretion can cause harm.
+221	wholesome :: salacious	wholesome	salacious	0	0	0	0	1	0	1	Wholesome is explicitly in the MFT dictionary as PurityVirtue/MoralityGeneral; salacious relates to purity vice (lewdness/indecency).
+222	joyful :: miserable	joyful	miserable	0	0	0	0	0	0	0	Emotional state distinction with no clear moral foundation relevance.
+223	zany :: regular	zany	regular	0	0	0	0	0	0	0	Personality/behavioral style with no clear moral foundation relevance.
+224	alert :: oblivious	alert	oblivious	0	0	0	0	0	0	0	Cognitive/attentional style with no clear moral foundation relevance.
+225	feminist :: sexist	feminist	sexist	0	1	0	0	0	1	0	Feminist pole relates to fairness (equality, rights) and liberty (opposing domination); sexist pole relates to fairness vice (discrimination, bias).
